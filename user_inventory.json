@@ -67805,6 +67805,19 @@
         "obtainedAt": 1750953291850,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Flareon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/3.png",
+        "code": "80NM",
+        "condition": "Light play",
+        "obtainedAt": 1750972449421,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

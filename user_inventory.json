@@ -12930,19 +12930,6 @@
         "isHolo": false
       },
       {
-        "name": "Kabuto",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/50.png",
-        "code": "4IWR02",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747500579669,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Arcanine",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -13240,19 +13227,6 @@
         "obtainedAt": 1747596281777,
         "condition": "Near Mint",
         "isHolo": true
-      },
-      {
-        "name": "Koffing",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/51.png",
-        "code": "K56168",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747603641990,
-        "condition": "Damaged",
-        "isHolo": false
       },
       {
         "name": "Voltorb",
@@ -13707,19 +13681,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1747669643493,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Tentacool",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/56.png",
-        "code": "EHUXQY",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747669643493,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -14282,32 +14243,6 @@
         "isHolo": false
       },
       {
-        "name": "Kabuto",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/50.png",
-        "code": "J7JE66",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747793689869,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Paras",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/59.png",
-        "code": "YC5BN6",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747793689869,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Parasect",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -14620,19 +14555,6 @@
         "isHolo": false
       },
       {
-        "name": "Starmie",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/64.png",
-        "code": "D9ERW2",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747880271839,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Marowak",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -14733,32 +14655,6 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1747881048695,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Oddish",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/58.png",
-        "code": "46R2XO",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747882708806,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Shellder",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/54.png",
-        "code": "MDDB43",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1747882708806,
         "condition": "Damaged",
         "isHolo": false
       },
@@ -15660,19 +15556,6 @@
         "isHolo": false
       },
       {
-        "name": "Krabby",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/51.png",
-        "code": "YABXP7",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748055562024,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Magmar",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -15842,19 +15725,6 @@
         "isHolo": false
       },
       {
-        "name": "Venonat",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/63.png",
-        "code": "K8T8ZX",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748098894223,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Poliwhirl",
         "rarity": "common",
         "type": "pokemon",
@@ -15985,19 +15855,6 @@
         "isHolo": false
       },
       {
-        "name": "Machoke",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/34.png",
-        "code": "1SETMY",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748106472733,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Persian",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -16034,19 +15891,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748106472733,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Psyduck",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
-        "code": "BZNCE6",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748113478933,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -16297,19 +16141,6 @@
         "isHolo": true
       },
       {
-        "name": "Charmander",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/46.png",
-        "code": "BKHJFS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748142106189,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Squirtle",
         "rarity": "common",
         "type": "pokemon",
@@ -16359,19 +16190,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748142106189,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Paras",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/59.png",
-        "code": "ATNJH2",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748146719703,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -16440,19 +16258,6 @@
         "isHolo": false
       },
       {
-        "name": "Porygon",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/39.png",
-        "code": "72IW0E",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748150749408,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Weepinbell",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -16489,19 +16294,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748150749408,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Pikachu",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/58.png",
-        "code": "127ECJ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748153132625,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -16749,32 +16541,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748187664763,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Shellder",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/54.png",
-        "code": "EEB6JS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748194194382,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Doduo",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/48.png",
-        "code": "HYH4NB",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748194194382,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -17220,19 +16986,6 @@
         "isHolo": false
       },
       {
-        "name": "Metapod",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/54.png",
-        "code": "ZYODY4",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748236994973,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Fearow",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -17334,19 +17087,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748240997131,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Jigglypuff",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/54.png",
-        "code": "87RDWP",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748265493893,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -18117,19 +17857,6 @@
         "isHolo": false
       },
       {
-        "name": "Charmander",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
-        "code": "FW6EW2",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748327559439,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Eevee",
         "rarity": "common",
         "type": "pokemon",
@@ -18192,19 +17919,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748327801191,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Slowpoke",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
-        "code": "MAJED5",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748327801191,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -18634,19 +18348,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748365235052,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Abra",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
-        "code": "41D2ZS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748369160224,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -19352,19 +19053,6 @@
         "isHolo": false
       },
       {
-        "name": "Drowzee",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/54.png",
-        "code": "260981",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748391569697,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Mankey",
         "rarity": "common",
         "type": "pokemon",
@@ -19427,19 +19115,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748391595987,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Mankey",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
-        "code": "12NGWD",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748391595987,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -20274,19 +19949,6 @@
         "isHolo": false
       },
       {
-        "name": "Magnemite",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
-        "code": "1QRDCW",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748452560187,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Charmander",
         "rarity": "common",
         "type": "pokemon",
@@ -20482,19 +20144,6 @@
         "isHolo": false
       },
       {
-        "name": "Ekans",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
-        "code": "GTWBLS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748467887719,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Muk",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -20596,19 +20245,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748470827453,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Ekans",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
-        "code": "KG1M04",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748474970367,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -20924,19 +20560,6 @@
         "isHolo": false
       },
       {
-        "name": "Magnemite",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
-        "code": "E6JOA7",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748522433295,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Raticate",
         "rarity": "common",
         "type": "pokemon",
@@ -21002,19 +20625,6 @@
         "isHolo": false
       },
       {
-        "name": "Psyduck",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
-        "code": "LOCJ51",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748532648352,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Machoke",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -21067,19 +20677,6 @@
         "isHolo": false
       },
       {
-        "name": "Meowth",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
-        "code": "04OQR4",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748542880684,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Machoke",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -21129,19 +20726,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748546152977,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Oddish",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
-        "code": "7NMUGJ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748546152977,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -21392,19 +20976,6 @@
         "isHolo": false
       },
       {
-        "name": "Wartortle",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/42.png",
-        "code": "SS5HLK",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748574677094,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Rapidash",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -21454,19 +21025,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748578902797,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Voltorb",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
-        "code": "WCVKE3",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748578902797,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -21766,19 +21324,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748625931751,
         "condition": "Pristine",
-        "isHolo": false
-      },
-      {
-        "name": "Meowth",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
-        "code": "INK7IK",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748635470207,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -22094,19 +21639,6 @@
         "isHolo": false
       },
       {
-        "name": "Grimer",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/48.png",
-        "code": "TT24TU",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748669635229,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Slowpoke",
         "rarity": "common",
         "type": "pokemon",
@@ -22169,19 +21701,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1748722954447,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Shellder",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/54.png",
-        "code": "ZPJZKH",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748722954447,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -22679,19 +22198,6 @@
         "isHolo": false
       },
       {
-        "name": "Squirtle",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/68.png",
-        "code": "53Q0LD",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748839976073,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Charmander",
         "rarity": "common",
         "type": "pokemon",
@@ -23004,19 +22510,6 @@
         "isHolo": false
       },
       {
-        "name": "Goldeen",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/53.png",
-        "code": "KA0OL8",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748923290879,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Magikarp",
         "rarity": "common",
         "type": "pokemon",
@@ -23251,32 +22744,6 @@
         "isHolo": false
       },
       {
-        "name": "Mankey",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
-        "code": "4ALZOM",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748960496054,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Magnemite",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
-        "code": "V16PHN",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1748960496054,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Electrode",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -23446,19 +22913,6 @@
         "isHolo": false
       },
       {
-        "name": "Doduo",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/48.png",
-        "code": "NWLTKI",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749013603895,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Oddish",
         "rarity": "common",
         "type": "pokemon",
@@ -23586,19 +23040,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1749063941874,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Rattata",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
-        "code": "RA6I1P",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749063941874,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -24551,32 +23992,6 @@
         "isHolo": false
       },
       {
-        "name": "Tentacool",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/56.png",
-        "code": "32BFGC",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749250010606,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Omanyte",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/52.png",
-        "code": "Y7JJ8C",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749250010606,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Arbok",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -24824,19 +24239,6 @@
         "isHolo": false
       },
       {
-        "name": "Porygon",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/39.png",
-        "code": "IICP5T",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749353793032,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Electrode",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -25067,32 +24469,6 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1749416157537,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Abra",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
-        "code": "IXV5FS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749419190917,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Koffing",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/58.png",
-        "code": "5JM8UL",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749419190917,
         "condition": "Damaged",
         "isHolo": false
       },
@@ -25869,19 +25245,6 @@
         "obtainedAt": 1749487725420
       },
       {
-        "name": "Ponyta",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
-        "code": "7",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749536724125,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Tangela",
         "rarity": "common",
         "type": "pokemon",
@@ -25996,19 +25359,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1749570915614,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Magikarp",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
-        "code": "O17FM",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749584711811,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -26139,19 +25489,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1749646197972,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Drowzee",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/49.png",
-        "code": "AYI",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749646197972,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -27207,19 +26544,6 @@
         "isHolo": false
       },
       {
-        "name": "Krabby",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/51.png",
-        "code": "0SY4TF",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749794509174,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Golduck",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -27269,19 +26593,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1749819139893,
         "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Gastly",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/50.png",
-        "code": "8DN",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749819139893,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -27865,19 +27176,6 @@
         "isHolo": false
       },
       {
-        "name": "Ekans",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
-        "code": "O794",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749936341427,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Jolteon",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -27927,19 +27225,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1749955990447,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Abra",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
-        "code": "UGFI",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749955990447,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -28044,19 +27329,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1749965527758,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Charmander",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/46.png",
-        "code": "380A",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1749971160141,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -28249,19 +27521,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1750027503235,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Misty's Goldeen",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/30.png",
-        "code": "OM9",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750033663690,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -28811,19 +28070,6 @@
         "isHolo": false
       },
       {
-        "name": "Shellder",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/54.png",
-        "code": "7DJ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750131672963,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Butterfree",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -29071,19 +28317,6 @@
         "isHolo": false
       },
       {
-        "name": "Voltorb",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/66.png",
-        "code": "F6KVRY",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750171206461,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Tangela",
         "rarity": "common",
         "type": "pokemon",
@@ -29236,19 +28469,6 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1750179909449,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Machop",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
-        "code": "HD0V1",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750195148248,
         "condition": "Damaged",
         "isHolo": false
       },
@@ -29448,19 +28668,6 @@
         "isHolo": false
       },
       {
-        "name": "Tentacool",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/56.png",
-        "code": "GXU",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750254370849,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Squirtle",
         "rarity": "common",
         "type": "pokemon",
@@ -29536,19 +28743,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1750265283290,
         "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Paras",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/59.png",
-        "code": "ZPV6Y",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750265283290,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -29890,19 +29084,6 @@
         "isHolo": false
       },
       {
-        "name": "Misty's Cloyster",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
-        "code": "TQ2OBF",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750373665545,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Misty's Psyduck",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -30004,19 +29185,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1750394005145,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Seel",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/41.png",
-        "code": "Q63GZ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750427446457,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -30293,32 +29461,6 @@
         "isHolo": true
       },
       {
-        "name": "Koffing",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/51.png",
-        "code": "NY",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750525442149,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Eevee",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/51.png",
-        "code": "D7SR8",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750525442149,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Sandslash",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -30371,19 +29513,6 @@
         "isHolo": false
       },
       {
-        "name": "Erika's Exeggcute",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/43.png",
-        "code": "T4D4S",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750527221953,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Charmeleon",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -30419,19 +29548,6 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1750527221953,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Meowth",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
-        "code": "3I",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750537010661,
         "condition": "Damaged",
         "isHolo": false
       },
@@ -30485,32 +29601,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1750537010662,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Diglett",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
-        "code": "L7R",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750654616451,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Exeggcute",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/52.png",
-        "code": "DJL6",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750654616451,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -30769,32 +29859,6 @@
         "isHolo": false
       },
       {
-        "name": "Magnemite",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/53.png",
-        "code": "23ZOHM",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750743735748,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Rattata",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/61.png",
-        "code": "W2DF",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750743735748,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Brock's Onix",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -30972,19 +30036,6 @@
         "isHolo": false
       },
       {
-        "name": "Blaine's Growlithe",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/35.png",
-        "code": "LS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750831491153,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Persian",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -31100,19 +30151,6 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
-      },
-      {
-        "name": "Erika's Oddish",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/47.png",
-        "code": "35Q6",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1750912563180,
-        "condition": "Damaged",
-        "isHolo": false
       },
       {
         "name": "Blaine's Ponyta",

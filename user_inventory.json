@@ -68878,6 +68878,19 @@
         "obtainedAt": 1751018447645,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/15.png",
+        "code": "D4H8",
+        "condition": "Damaged",
+        "obtainedAt": 1751040186925,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

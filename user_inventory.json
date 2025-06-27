@@ -68423,6 +68423,71 @@
         "obtainedAt": 1751015970861,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/52.png",
+        "code": "2M6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751018447549,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
+        "code": "4KQ4L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751018447549,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "XXBF7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751018447645,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "QU3E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751018447645,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Pokemon Tower",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/42.png",
+        "code": "LH8G7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751018447645,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

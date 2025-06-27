@@ -69449,5 +69449,48 @@
         "isHolo": true
       }
     ]
+  },
+  "1017943844089761874": {
+    "cards": [
+      {
+        "name": "Sabrina's Gengar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/14.png",
+        "code": "BL",
+        "condition": "Light play",
+        "obtainedAt": 1750859478707,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Mr. Mime",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/6.png",
+        "code": "OQQ6",
+        "condition": "Light play",
+        "obtainedAt": 1750899079074,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/4.png",
+        "code": "6Q",
+        "condition": "Mint",
+        "obtainedAt": 1751048886982,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

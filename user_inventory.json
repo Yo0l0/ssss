@@ -67453,6 +67453,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Muk",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/13.png",
+        "code": "NXM0U",
+        "condition": "Near Mint",
+        "obtainedAt": 1750975985468,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Ninetales",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/12.png",
+        "code": "L5JR",
+        "condition": "Damaged",
+        "obtainedAt": 1750933880582,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Muk",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/13.png",
+        "code": "9SLMW9",
+        "condition": "Pristine",
+        "obtainedAt": 1750928780414,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Blastoise",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/2.png",
+        "code": "BX7XNO",
+        "condition": "Mint",
+        "obtainedAt": 1750909279575,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Articuno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/2.png",
+        "code": "54",
+        "condition": "Light play",
+        "obtainedAt": 1750887979019,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

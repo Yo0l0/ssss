@@ -59707,6 +59707,45 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Dugtrio",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/6.png",
+        "code": "ZF53B",
+        "condition": "Damaged",
+        "obtainedAt": 1750878078938,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/9.png",
+        "code": "G5W4",
+        "condition": "Light play",
+        "obtainedAt": 1750827677752,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Mr. Mime",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/6.png",
+        "code": "JY",
+        "condition": "Light play",
+        "obtainedAt": 1750899679073,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

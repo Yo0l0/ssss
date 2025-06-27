@@ -68358,6 +68358,71 @@
         "obtainedAt": 1750908761940,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "NJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751015970861,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/36.png",
+        "code": "30UG7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751015970861,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "F9I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751015970861,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "7X9WI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751015970861,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Haunter",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/57.png",
+        "code": "T9ZHDD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751015970861,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

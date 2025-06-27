@@ -67688,6 +67688,19 @@
         "obtainedAt": 1750982141355,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Electrode",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/2.png",
+        "code": "KRML4",
+        "condition": "Damaged",
+        "obtainedAt": 1750984685682,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

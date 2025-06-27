@@ -68717,5 +68717,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1382852220680409108": {
+    "cards": [
+      {
+        "name": "Dark Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/13.png",
+        "code": "6G",
+        "condition": "Mint",
+        "obtainedAt": 1751009586349,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

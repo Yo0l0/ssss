@@ -65477,6 +65477,71 @@
         "obtainedAt": 1750941835941,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/50.png",
+        "code": "9XSIU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1750984062041,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "YW5A8H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1750984062041,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "V2TXS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1750984062041,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "B77",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1750984062041,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dugtrio",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/19.png",
+        "code": "3KC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1750984062041,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "lastDaily": 1749885608987

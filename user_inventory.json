@@ -71867,6 +71867,71 @@
         "obtainedAt": 1751135644262,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "AOW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751137362051,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Staryu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/89.png",
+        "code": "0W9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751137362051,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "K8BLQW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751137362051,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "9XS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751137362051,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/27.png",
+        "code": "CI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751137362051,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

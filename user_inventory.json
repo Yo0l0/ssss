@@ -71464,6 +71464,71 @@
         "obtainedAt": 1751127764447,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/53.png",
+        "code": "DGAJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751129202961,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "187PQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751129202961,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "D5X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751129202961,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "AX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751129202961,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [J]",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/38.png",
+        "code": "ZM29",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751129202961,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "deck": [

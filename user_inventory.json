@@ -69957,6 +69957,71 @@
         "obtainedAt": 1751109691959,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/87.png",
+        "code": "Q1BF5Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751111785845,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/40.png",
+        "code": "0M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751111785845,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/42.png",
+        "code": "OC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751111785845,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "E925T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751111785845,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "8QZQT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751111785845,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

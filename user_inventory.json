@@ -69890,5 +69890,74 @@
         "isHolo": true
       }
     ]
+  },
+  "899088437662085140": {
+    "cards": [
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "7611B9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751109691958,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "J4N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751109691958,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "R09",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751109691958,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "QUTXF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751109691959,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Arbok",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/19.png",
+        "code": "TWPOJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751109691959,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

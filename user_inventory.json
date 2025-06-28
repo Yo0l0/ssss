@@ -70814,6 +70814,71 @@
         "obtainedAt": 1751120950349,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/49.png",
+        "code": "T5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751122234158,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "RO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751122234158,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "O1S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751122234158,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "RV7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751122234158,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dugtrio",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/23.png",
+        "code": "Y45V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751122234158,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   }

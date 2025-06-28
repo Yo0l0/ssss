@@ -70424,6 +70424,71 @@
         "obtainedAt": 1751116740754,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "JTS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118054058,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "TN6S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118054058,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "5NWC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118054058,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "HTUP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118054058,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "22FE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118054058,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

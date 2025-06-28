@@ -71724,6 +71724,71 @@
         "obtainedAt": 1751131046663,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/85.png",
+        "code": "Q7M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751135644262,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/58.png",
+        "code": "BBX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751135644262,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "GNBZUJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751135644262,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "3YKX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751135644262,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Snorlax",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/49.png",
+        "code": "7983",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751135644262,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

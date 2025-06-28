@@ -71594,6 +71594,71 @@
         "obtainedAt": 1751129202961,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "GDTPA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751131046663,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "9L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751131046663,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "1CJ00P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751131046663,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "4N1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751131046663,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Blastoise",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
+        "code": "IBXV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751131046663,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

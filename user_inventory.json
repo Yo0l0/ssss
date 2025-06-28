@@ -71204,6 +71204,71 @@
         "obtainedAt": 1751124769151,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/54.png",
+        "code": "N6O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751126384249,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "69Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751126384249,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/40.png",
+        "code": "4AU9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751126384249,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "VG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751126384249,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Weezing",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/31.png",
+        "code": "RR0S0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751126384249,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -70229,6 +70229,71 @@
         "set": "Fossil",
         "image": "https://www.pikawiz.com/images/fossil/35.png",
         "code": "9WY"
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "B06U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751115114046,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "Y39U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751115114047,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "KBSKU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751115114047,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "CBK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751115114047,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Flying Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/25.png",
+        "code": "GKPFT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751115114047,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

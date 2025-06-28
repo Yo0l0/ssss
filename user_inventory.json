@@ -70412,6 +70412,71 @@
         "obtainedAt": 1751122766351,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "FR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751124068258,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/67.png",
+        "code": "Y0VML",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751124068258,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "D9R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751124068258,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "FJB0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751124068258,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Muk",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/28.png",
+        "code": "0U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751124068258,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

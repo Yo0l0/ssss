@@ -70477,6 +70477,71 @@
         "obtainedAt": 1751124068258,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/51.png",
+        "code": "2TLW7Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751125309264,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/88.png",
+        "code": "MPBIS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751125309265,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "RA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751125309265,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "CORGBD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751125309265,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "OPS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751125309265,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

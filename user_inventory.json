@@ -69320,6 +69320,71 @@
         "obtainedAt": 1751046598553,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "X2AK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751085851979,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "6WE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751085851979,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "IZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751085851979,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "66957B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751085851979,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Smeargle",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/32.png",
+        "code": "WYDHF3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751085851979,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

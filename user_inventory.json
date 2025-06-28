@@ -70554,6 +70554,71 @@
         "obtainedAt": 1751118054058,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "14S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751119314841,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/88.png",
+        "code": "E1D94I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751119314841,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "P13",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751119314841,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "DATRMR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751119314841,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "85",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751119314841,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   }

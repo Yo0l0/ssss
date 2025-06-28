@@ -70282,6 +70282,71 @@
         "obtainedAt": 1751120330154,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/63.png",
+        "code": "8EL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751121561240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/94.png",
+        "code": "Q261",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751121561240,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "07ET",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751121561240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "FC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751121561240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marowak",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/39.png",
+        "code": "EANVT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751121561240,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

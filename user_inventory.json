@@ -70152,6 +70152,71 @@
         "obtainedAt": 1751117228857,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Magnemite",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
+        "code": "I37S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118477251,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/25.png",
+        "code": "N46SY3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118477251,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "GGVY7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118477251,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Venonat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/96.png",
+        "code": "X3YGT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118477251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Victreebel",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/26.png",
+        "code": "HD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751118477251,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -60708,6 +60708,14 @@
         "obtainedAt": 1751096168757,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/6.png",
+        "code": "QR"
       }
     ],
     "lastDaily": 1749972090690,

@@ -31607,6 +31607,19 @@
         "obtainedAt": 1751287616911,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Hypno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/9.png",
+        "code": "DVBYX",
+        "condition": "Light play",
+        "obtainedAt": 1751300536688,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

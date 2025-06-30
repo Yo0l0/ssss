@@ -63496,6 +63496,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1747029817342
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "3BFPW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751317051866,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
+        "code": "HGS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751317051866,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "83UD1L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751317051866,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "0L5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751317051866,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "86M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751317051866,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

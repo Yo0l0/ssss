@@ -62718,6 +62718,19 @@
         "obtainedAt": 1751360945143,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/11.png",
+        "code": "0Y",
+        "condition": "Light play",
+        "obtainedAt": 1751378163272,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

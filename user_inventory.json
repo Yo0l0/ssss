@@ -77465,5 +77465,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1336062892558127175": {
+    "cards": [
+      {
+        "name": "Rocket's Scyther",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/13.png",
+        "code": "L9",
+        "condition": "Near Mint",
+        "obtainedAt": 1751364963161,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

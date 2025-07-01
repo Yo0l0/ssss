@@ -71421,6 +71421,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/35.png",
+        "code": "KH6OV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751357425652,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "BKBJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751357425652,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "7CJY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751357425652,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "QV23P3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751357425652,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [J]",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/38.png",
+        "code": "YGE363",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751357425652,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

@@ -73774,6 +73774,19 @@
         "obtainedAt": 1751294543956,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Erika's Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/3.png",
+        "code": "Y8IZ8O",
+        "condition": "Damaged",
+        "obtainedAt": 1751332562660,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

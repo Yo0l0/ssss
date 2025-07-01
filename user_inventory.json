@@ -79494,5 +79494,74 @@
         "isHolo": false
       }
     ]
+  },
+  "1369866012152827914": {
+    "cards": [
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/43.png",
+        "code": "BB2U2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751413809499,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "8S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751413809499,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "0LMN1W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751413809499,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "ZGFKM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751413809499,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "MH6XB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751413809499,
+        "condition": "Damaged",
+        "isHolo": false
+      }
+    ]
   }
 }

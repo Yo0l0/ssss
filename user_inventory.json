@@ -78554,5 +78554,74 @@
         "isHolo": true
       }
     ]
+  },
+  "242271230382702593": {
+    "cards": [
+      {
+        "name": "Misty's Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/87.png",
+        "code": "E06QH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403599983,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "08T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403599983,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "I40TXN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403599983,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "7PKN8J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403599983,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/26.png",
+        "code": "XEK0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403599983,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

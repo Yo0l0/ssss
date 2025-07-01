@@ -79092,5 +79092,143 @@
         "isHolo": false
       }
     ]
+  },
+  "1324456585061466164": {
+    "cards": [
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/36.png",
+        "code": "SJ9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412179961,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "4HS1N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412179961,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "MWQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412179961,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "K89X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412179961,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgeotto",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/22.png",
+        "code": "CHKYPB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412179961,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
+  },
+  "1333540474862047364": {
+    "cards": [
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/48.png",
+        "code": "66YPSE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412184541,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "KXJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412184541,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "PV36",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412184541,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "XOFT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412184541,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "PJHX4P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412184541,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

@@ -71482,6 +71482,58 @@
         "obtainedAt": 1751241766685,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Jolteon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/4.png",
+        "code": "FZ",
+        "condition": "Light play",
+        "obtainedAt": 1751327162505,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Mewtwo",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/10.png",
+        "code": "68ZSO",
+        "condition": "Damaged",
+        "obtainedAt": 1751323262406,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/13.png",
+        "code": "7TCTZ",
+        "condition": "Mint",
+        "obtainedAt": 1751299636686,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "4GTX6",
+        "condition": "Damaged",
+        "obtainedAt": 1751253402872,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -78485,5 +78485,74 @@
         "isHolo": true
       }
     ]
+  },
+  "1247327428485976134": {
+    "cards": [
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "ISGX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403140264,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "MI9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403140264,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "0BZJFW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403140264,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "J0J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403140264,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Arbok",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/2.png",
+        "code": "9YDU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751403140264,
+        "condition": "Mint",
+        "isHolo": true
+      }
+    ]
   }
 }

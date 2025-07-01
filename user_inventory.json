@@ -79230,5 +79230,74 @@
         "isHolo": false
       }
     ]
+  },
+  "994356661957431406": {
+    "cards": [
+      {
+        "name": "Magnemite",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
+        "code": "4JA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412224561,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "FM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412224561,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "1KB3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412224561,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "9I016",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412224561,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golbat",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/24.png",
+        "code": "KR9MZT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412224561,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

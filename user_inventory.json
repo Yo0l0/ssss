@@ -78278,5 +78278,74 @@
         "isHolo": false
       }
     ]
+  },
+  "649483390126653440": {
+    "cards": [
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "CX8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401645645,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "RJKW6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401645645,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "4XS1I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401645645,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "ZT1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401645645,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/17.png",
+        "code": "0U0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401645645,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

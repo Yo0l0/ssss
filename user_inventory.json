@@ -78347,5 +78347,74 @@
         "isHolo": false
       }
     ]
+  },
+  "642753754843709470": {
+    "cards": [
+      {
+        "name": "Tentacool",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/56.png",
+        "code": "JZ8Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401900652,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/63.png",
+        "code": "K0F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401900652,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "SQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401900652,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Onix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/21.png",
+        "code": "YG5THF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401900652,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Hypno",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/26.png",
+        "code": "5XN4S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751401900652,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

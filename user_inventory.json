@@ -77556,6 +77556,19 @@
         "obtainedAt": 1751386944147,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Electrode",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/2.png",
+        "code": "9PH",
+        "condition": "Near Mint",
+        "obtainedAt": 1751400204463,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

@@ -79023,5 +79023,74 @@
         "isHolo": false
       }
     ]
+  },
+  "1332075603591168030": {
+    "cards": [
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
+        "code": "IHXRG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412052770,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Drowzee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/54.png",
+        "code": "AM8Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412052770,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "JR0AV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412052770,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "KUM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412052770,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "L81D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751412052770,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

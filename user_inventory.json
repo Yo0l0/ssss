@@ -78729,5 +78729,74 @@
         "code": "MTTD8"
       }
     ]
+  },
+  "761788049796628491": {
+    "cards": [
+      {
+        "name": "Misty's Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/30.png",
+        "code": "584",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751404814083,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "V0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751404814083,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "7I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751404814083,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "FFIOB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751404814083,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Rocket's Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/11.png",
+        "code": "C1SH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751404814083,
+        "condition": "Mint",
+        "isHolo": true
+      }
+    ]
   }
 }

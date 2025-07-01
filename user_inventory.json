@@ -78416,5 +78416,74 @@
         "isHolo": false
       }
     ]
+  },
+  "372789710260666378": {
+    "cards": [
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "MR1RD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751402300773,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/53.png",
+        "code": "CX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751402300773,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "ZCZ93I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751402300773,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "HJD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751402300773,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/13.png",
+        "code": "96YFP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751402300773,
+        "condition": "Near Mint",
+        "isHolo": true
+      }
+    ]
   }
 }

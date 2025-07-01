@@ -76600,7 +76600,73 @@
     ]
   },
   "468500660929691688": {
-    "cards": [],
+    "cards": [
+      {
+        "name": "Misty's Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/88.png",
+        "code": "8KTR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751336149365,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/85.png",
+        "code": "VCIJO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751336149365,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "FU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751336149365,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Venonat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/96.png",
+        "code": "P0BDA8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751336149365,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "255",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751336149365,
+        "condition": "Mint",
+        "isHolo": false
+      }
+    ],
     "coins": 0
   }
 }

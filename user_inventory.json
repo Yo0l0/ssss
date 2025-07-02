@@ -79893,6 +79893,19 @@
         "obtainedAt": 1751467141777,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/4.png",
+        "code": "LCNSL",
+        "condition": "Near Mint",
+        "obtainedAt": 1751477900165,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

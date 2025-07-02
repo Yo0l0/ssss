@@ -72643,6 +72643,19 @@
         "obtainedAt": 1751357425652,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Muk",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/13.png",
+        "code": "NWZNT",
+        "condition": "Light play",
+        "obtainedAt": 1751431999397,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

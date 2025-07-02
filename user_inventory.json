@@ -79665,6 +79665,71 @@
         "obtainedAt": 1751413809499,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/36.png",
+        "code": "TSKUAC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751424957953,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "S6145",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751424957953,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "UVYF7K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751424957953,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "RAR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751424957953,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "YRRJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751424957953,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

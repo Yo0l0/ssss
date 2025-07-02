@@ -81464,6 +81464,71 @@
         "obtainedAt": 1751489187661,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/52.png",
+        "code": "ZM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751496442251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Venonat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/63.png",
+        "code": "8SEGLQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751496442251,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "4MENZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751496442251,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "NMC9C",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751496442251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flareon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/3.png",
+        "code": "DK3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751496442251,
+        "condition": "Light Play",
+        "isHolo": true
       }
     ]
   },

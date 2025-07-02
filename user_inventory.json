@@ -78403,6 +78403,32 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Muk",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/13.png",
+        "code": "UH8S9B",
+        "condition": "Light play",
+        "obtainedAt": 1751391204117,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Wigglytuff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/16.png",
+        "code": "XUFK",
+        "condition": "Light play",
+        "obtainedAt": 1751401400193,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

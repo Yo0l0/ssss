@@ -80451,6 +80451,71 @@
         "obtainedAt": 1751466970846,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/22.png",
+        "code": "F7LDBP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751481872007,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/61.png",
+        "code": "07K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751481872007,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "XIT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751481872007,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "C00",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751481872007,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "GPX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751481872007,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

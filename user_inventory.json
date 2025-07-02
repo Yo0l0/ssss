@@ -78883,6 +78883,71 @@
         "obtainedAt": 1751406486453,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "BJB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751414954070,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/55.png",
+        "code": "R49E0R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751414954070,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "T7U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751414954070,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "R9ZPN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751414954070,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/8.png",
+        "code": "VZDMHY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751414954070,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

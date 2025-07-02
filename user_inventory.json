@@ -78123,6 +78123,71 @@
         "obtainedAt": 1751449867157,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "3AW1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457635471,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "EU6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457635471,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "28B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457635471,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "54FD8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457635471,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "EAUB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457635471,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

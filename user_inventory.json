@@ -80061,5 +80061,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1384032112469868594": {
+    "cards": [
+      {
+        "name": "Blastoise",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/2.png",
+        "code": "2L",
+        "condition": "Light play",
+        "obtainedAt": 1751437099482,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

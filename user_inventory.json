@@ -78199,6 +78199,71 @@
         "obtainedAt": 1751336149365,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/85.png",
+        "code": "CPEQU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751429630847,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "D4Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751429630847,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "VWLV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751429630847,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "N2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751429630847,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "7EU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751429630847,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "coins": 0

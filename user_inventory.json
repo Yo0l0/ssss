@@ -80127,6 +80127,71 @@
         "obtainedAt": 1751487222078,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/59.png",
+        "code": "7O0NG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492279390,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "V8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492279390,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "F4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492279390,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "76X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492279390,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "BSE32",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492279390,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -80723,6 +80788,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751488284269,
         "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "P2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492267176,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/94.png",
+        "code": "XSXFCQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492267176,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "FAKZ8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492267176,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "S3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492267176,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "PT7PBB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492267176,
+        "condition": "Mint",
         "isHolo": false
       }
     ]

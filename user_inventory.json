@@ -75516,6 +75516,14 @@
         "obtainedAt": 1751449851145,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/67.png",
+        "code": "6ICHV1"
       }
     ]
   },

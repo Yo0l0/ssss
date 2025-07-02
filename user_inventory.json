@@ -79984,6 +79984,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Drowzee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/49.png",
+        "code": "2NDV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751479547252,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "WFT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751479547252,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "2MWV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751479547252,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "CY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751479547252,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/14.png",
+        "code": "5TVKJX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751479547252,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

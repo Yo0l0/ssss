@@ -78425,6 +78425,71 @@
         "obtainedAt": 1751336182787,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "0UH1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751433533342,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/52.png",
+        "code": "HHW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751433533342,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "AO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751433533342,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "0JZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751433533342,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Vileplume",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/31.png",
+        "code": "5J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751433533342,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

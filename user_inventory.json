@@ -82600,5 +82600,74 @@
         "isHolo": true
       }
     ]
+  },
+  "1241553307223330899": {
+    "cards": [
+      {
+        "name": "Sabrina's Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/94.png",
+        "code": "UNYM8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751497737766,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/59.png",
+        "code": "JW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751497737766,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "PDRRV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751497737766,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "51RKKR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751497737766,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/44.png",
+        "code": "BJU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751497737766,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

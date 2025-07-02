@@ -79952,6 +79952,19 @@
         "obtainedAt": 1751409293050,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/4.png",
+        "code": "0A66P",
+        "condition": "Light play",
+        "obtainedAt": 1751451199727,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -80650,6 +80650,71 @@
         "obtainedAt": 1751404814083,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/50.png",
+        "code": "MV3SU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486886369,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/43.png",
+        "code": "CM76",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486886369,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "88O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486886369,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "VRI5JG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486886369,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charizard",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/21.png",
+        "code": "LZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486886369,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },
@@ -81531,6 +81596,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751450127553,
         "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "J6FRYL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486885704,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "J16X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486885704,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "UIUV2G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486885704,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "MPOA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486885704,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dragonair",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/18.png",
+        "code": "LB60",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751486885704,
+        "condition": "Mint",
         "isHolo": false
       }
     ]

@@ -80078,5 +80078,22 @@
         "isHolo": true
       }
     ]
+  },
+  "681897625527910469": {
+    "cards": [
+      {
+        "name": "Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/15.png",
+        "code": "ZGDGCJ",
+        "condition": "Light play",
+        "obtainedAt": 1751434399432,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

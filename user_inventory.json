@@ -81053,6 +81053,19 @@
         "obtainedAt": 1751459751555,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Snorlax",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/11.png",
+        "code": "G2K",
+        "condition": "Damaged",
+        "obtainedAt": 1751459899859,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

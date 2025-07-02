@@ -82236,6 +82236,71 @@
         "obtainedAt": 1751479403087,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "3O2W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492186460,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/43.png",
+        "code": "75AUO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492186460,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "FS2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492186460,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "PP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492186460,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "PW3GDC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751492186460,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

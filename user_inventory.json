@@ -32465,6 +32465,19 @@
         "obtainedAt": 1751462466785,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/28.png",
+        "code": "AD",
+        "condition": "Pristine",
+        "obtainedAt": 1751472500086,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

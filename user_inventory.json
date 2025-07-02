@@ -82669,5 +82669,74 @@
         "isHolo": false
       }
     ]
+  },
+  "932949234070736918": {
+    "cards": [
+      {
+        "name": "Misty's Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/30.png",
+        "code": "NEUY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751498254251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Venonat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/63.png",
+        "code": "6HU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751498254251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "N2TL2P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751498254251,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "YB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751498254251,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "O2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751498254251,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

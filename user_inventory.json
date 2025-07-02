@@ -80095,5 +80095,22 @@
         "isHolo": true
       }
     ]
+  },
+  "832313008851648573": {
+    "cards": [
+      {
+        "name": "Haunter",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/6.png",
+        "code": "5AK4",
+        "condition": "Damaged",
+        "obtainedAt": 1751426599295,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -81756,5 +81756,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1150994902302335047": {
+    "cards": [
+      {
+        "name": "Flareon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/3.png",
+        "code": "1IGAI6",
+        "condition": "Damaged",
+        "obtainedAt": 1751479700181,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -78415,6 +78415,32 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/62.png",
         "code": "DC7"
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/16.png",
+        "code": "3Y",
+        "condition": "Light play",
+        "obtainedAt": 1751422699183,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Slowbro",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/12.png",
+        "code": "YAJ8",
+        "condition": "Mint",
+        "obtainedAt": 1751452699766,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

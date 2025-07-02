@@ -80923,6 +80923,71 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/94.png",
         "code": "IXR"
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "MJCU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751459624858,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Drowzee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/54.png",
+        "code": "4B0A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751459624858,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "43MC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751459624858,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "6NP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751459624858,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Pokemon Tower",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/42.png",
+        "code": "P8P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751459624858,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

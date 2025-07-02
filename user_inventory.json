@@ -75537,6 +75537,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "YJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457725172,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "1CXTU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457725172,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marowak",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/39.png",
+        "code": "FVRL0G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457725172,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "Q2NNG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457725172,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Vaporeon",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/28.png",
+        "code": "YMXIOY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751457725172,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

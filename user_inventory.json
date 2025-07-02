@@ -71414,6 +71414,32 @@
         "obtainedAt": 1751465470746,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "2HKB",
+        "condition": "Light play",
+        "obtainedAt": 1751468000005,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Vaporeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/12.png",
+        "code": "TBV9",
+        "condition": "Mint",
+        "obtainedAt": 1751469200021,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

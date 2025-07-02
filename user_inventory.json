@@ -80915,6 +80915,14 @@
         "obtainedAt": 1751444106253,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Sabrina's Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/94.png",
+        "code": "IXR"
       }
     ]
   },

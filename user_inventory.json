@@ -80931,6 +80931,71 @@
         "obtainedAt": 1751450110664,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/41.png",
+        "code": "U00R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751484852283,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Koffing",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/51.png",
+        "code": "1SLO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751484852283,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "QVHJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751484852283,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "MOR5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751484852283,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "2A7P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751484852283,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

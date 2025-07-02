@@ -78355,6 +78355,19 @@
         "obtainedAt": 1751429630847,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Hypno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/9.png",
+        "code": "K6172",
+        "condition": "Near Mint",
+        "obtainedAt": 1751433499428,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

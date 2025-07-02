@@ -71323,6 +71323,19 @@
         "obtainedAt": 1751388848946,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Pinsir",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/9.png",
+        "code": "OW7S",
+        "condition": "Light play",
+        "obtainedAt": 1751433199427,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

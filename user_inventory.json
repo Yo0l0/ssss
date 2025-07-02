@@ -69281,6 +69281,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/47.png",
+        "code": "MDD7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751478725448,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "AAKO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751478725448,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "JH0EM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751478725448,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "P1D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751478725448,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "ZYN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751478725448,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "lastDaily": 1749885608987

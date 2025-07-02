@@ -80255,5 +80255,74 @@
         "isHolo": true
       }
     ]
+  },
+  "879105707935416391": {
+    "cards": [
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "R9MX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751444106253,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "ULJL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751444106253,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "D9K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751444106253,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "2P11",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751444106253,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "K8R670",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751444106253,
+        "condition": "Damaged",
+        "isHolo": false
+      }
+    ]
   }
 }

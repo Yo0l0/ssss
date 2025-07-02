@@ -75524,6 +75524,19 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/67.png",
         "code": "6ICHV1"
+      },
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "M5X",
+        "condition": "Damaged",
+        "obtainedAt": 1751457199821,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

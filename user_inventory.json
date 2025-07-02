@@ -82816,5 +82816,74 @@
         "isHolo": false
       }
     ]
+  },
+  "628557841321558076": {
+    "cards": [
+      {
+        "name": "Jigglypuff",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/54.png",
+        "code": "GPN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751499534378,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/54.png",
+        "code": "2KEMT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751499534378,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "XHA4IN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751499534378,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "YNV8F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751499534378,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gyarados",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/25.png",
+        "code": "TLR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751499534378,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

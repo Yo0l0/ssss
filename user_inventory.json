@@ -83185,6 +83185,71 @@
         "obtainedAt": 1751502366475,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Bulbasaur",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/44.png",
+        "code": "P90YMJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504056545,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/52.png",
+        "code": "BEN5B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504056545,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "JQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504056545,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "X7Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504056545,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Pokemon Tower",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/42.png",
+        "code": "IGR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504056545,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   }

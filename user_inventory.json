@@ -82253,6 +82253,71 @@
         "obtainedAt": 1751556839573,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "DY5GFJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573818040,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/86.png",
+        "code": "O3ZWM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573818041,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "174VXS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573818041,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "3MU8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573818041,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "85IK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573818041,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

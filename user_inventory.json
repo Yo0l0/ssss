@@ -85525,6 +85525,71 @@
         "obtainedAt": 1751527253157,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "ECAFGK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751530859167,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "NH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751530859167,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "U8O3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751530859167,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "4770ME",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751530859167,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Slowbro",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/12.png",
+        "code": "WZJUD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751530859167,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

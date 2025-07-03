@@ -79936,6 +79936,71 @@
         "obtainedAt": 1751518080853,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Paras",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/59.png",
+        "code": "S5HGA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521776446,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "G88J8M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521776446,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "ETR2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521776446,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "ZM24E9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521776446,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "UJPR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521776446,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

@@ -84056,6 +84056,71 @@
         "obtainedAt": 1751512950567,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Caterpie",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/45.png",
+        "code": "24E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751513059663,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Lickitung",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/41.png",
+        "code": "AZV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751513059663,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "IA7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751513059663,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "VE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751513059663,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "2CGM9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751513059663,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   }

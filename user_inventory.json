@@ -84621,5 +84621,74 @@
         "isHolo": false
       }
     ]
+  },
+  "1064621878561489019": {
+    "cards": [
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "Z9OY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518127250,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "CCHNX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518127250,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "T28UXG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518127250,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "S07IX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518127250,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Rhydon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/45.png",
+        "code": "R5R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518127250,
+        "condition": "Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

@@ -87346,58 +87346,6 @@
   "789950781242867762": {
     "cards": [
       {
-        "name": "Geodude",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/47.png",
-        "code": "9YCV",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576836647,
-        "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Ekans",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/46.png",
-        "code": "KQ6A",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576836647,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Weezing",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/45.png",
-        "code": "IFAP",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576836647,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Tentacruel",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/44.png",
-        "code": "47OR",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576836647,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
         "name": "Moltres",
         "rarity": "rare",
         "type": "pokemon",
@@ -87408,58 +87356,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751576836647,
         "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Kabuto",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/50.png",
-        "code": "VAL5",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576912063,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Grimer",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/48.png",
-        "code": "XH3E9J",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576912063,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Sandslash",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/41.png",
-        "code": "1T5M",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576912063,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Graveler",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/37.png",
-        "code": "SJID9",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576912063,
-        "condition": "Light Play",
         "isHolo": false
       },
       {

@@ -84369,6 +84369,19 @@
         "obtainedAt": 1751526964359,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "WI2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520829668,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -85247,19 +85260,6 @@
         "set": "Team Rocket",
         "image": "https://www.pikawiz.com/images/teamrocket/69.png",
         "code": "7G0IZ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751520829668,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Psyduck",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
-        "code": "WI2",
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1751520829668,

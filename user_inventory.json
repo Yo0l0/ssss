@@ -86972,6 +86972,71 @@
         "obtainedAt": 1751580110690,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "F8YVUA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751583956676,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Natu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/67.png",
+        "code": "4SBKAJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751583956676,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "5MEM6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751583956676,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "S8UKU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751583956676,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Articuno",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/22.png",
+        "code": "CEB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751583956676,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

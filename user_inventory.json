@@ -88194,5 +88194,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1337387470349668355": {
+    "cards": [
+      {
+        "name": "Wigglytuff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/16.png",
+        "code": "BY9AA",
+        "condition": "Light play",
+        "obtainedAt": 1751576185666,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

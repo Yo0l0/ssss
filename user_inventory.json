@@ -63303,6 +63303,19 @@
         "obtainedAt": 1751444436645,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/5.png",
+        "code": "A9I9KL",
+        "condition": "Damaged",
+        "obtainedAt": 1751517800480,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

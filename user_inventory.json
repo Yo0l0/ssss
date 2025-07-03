@@ -84766,6 +84766,19 @@
         "obtainedAt": 1751575939457,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ditto",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/3.png",
+        "code": "WRD0KN",
+        "condition": "Mint",
+        "obtainedAt": 1751577985663,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

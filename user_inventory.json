@@ -81585,8 +81585,8 @@
         "set": "WOTC Promos",
         "image": "https://www.pikawiz.com/images/wotcpromo/8.png",
         "code": "VZDMHY",
-        "grade": null,
-        "gradeRequestedAt": 1751492354555,
+        "grade": 9,
+        "gradeRequestedAt": null,
         "obtainedAt": 1751414954070,
         "condition": "Near Mint",
         "isHolo": false
@@ -84158,6 +84158,71 @@
         "obtainedAt": 1751523942446,
         "condition": "Damaged",
         "isHolo": true
+      },
+      {
+        "name": "Caterpie",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/45.png",
+        "code": "0Y5U0M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751556946748,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/82.png",
+        "code": "GBB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751556946748,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "DCQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751556946748,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Fearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/36.png",
+        "code": "7I0J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751556946748,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Aerodactyl",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/16.png",
+        "code": "HB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751556946748,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

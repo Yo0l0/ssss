@@ -87215,32 +87215,6 @@
   "789950781242867762": {
     "cards": [
       {
-        "name": "Krabby",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/51.png",
-        "code": "MTEH6F",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751518095147,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Misty's Horsea",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/85.png",
-        "code": "N5UH",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751518095147,
-        "condition": "Mint",
-        "isHolo": false
-      },
-      {
         "name": "Dark Machoke",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -87264,45 +87238,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751518095147,
         "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Muk",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/28.png",
-        "code": "Q16",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751518095147,
-        "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Slowpoke",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
-        "code": "VH7OIC",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751520854748,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Poliwhirl",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/38.png",
-        "code": "E5IMH",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751520854748,
-        "condition": "Mint",
         "isHolo": false
       },
       {
@@ -87332,45 +87267,6 @@
         "isHolo": false
       },
       {
-        "name": "Flareon",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/19.png",
-        "code": "L8Q",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751520854748,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Aipom",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/26.png",
-        "code": "EZ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751574136448,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Rattata",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
-        "code": "IVK",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751574136448,
-        "condition": "Mint",
-        "isHolo": false
-      },
-      {
         "name": "Arbok",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -87394,45 +87290,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751574136448,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Hitmonlee",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/22.png",
-        "code": "D9GLGC",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751574136448,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Pikachu",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/58.png",
-        "code": "UGU9CC",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576255570,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Granbull",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/37.png",
-        "code": "BF",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576255570,
-        "condition": "Near Mint",
         "isHolo": false
       },
       {

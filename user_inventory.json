@@ -83173,6 +83173,71 @@
         "obtainedAt": 1751507232057,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Sandshrew",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/62.png",
+        "code": "BAB7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509080357,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/43.png",
+        "code": "GI7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509080357,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "ITMSW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509080357,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "E1WUF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509080357,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacruel",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/10.png",
+        "code": "E86020",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509080357,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

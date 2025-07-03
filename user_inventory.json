@@ -88141,6 +88141,71 @@
         "obtainedAt": 1751577852947,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "G5QA4P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751580291855,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/55.png",
+        "code": "PH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751580291855,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "K53CHQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751580291855,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "BPUBBS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751580291855,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Exeggutor",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/44.png",
+        "code": "A0D2R6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751580291855,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

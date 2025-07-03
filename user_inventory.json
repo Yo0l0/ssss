@@ -83463,19 +83463,6 @@
         "isHolo": false
       },
       {
-        "name": "Dragonite",
-        "rarity": "promo",
-        "type": "pokemon",
-        "set": "WOTC Promos",
-        "image": "https://www.pikawiz.com/images/wotcpromo/5.png",
-        "code": "YX7",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751518304356,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
         "name": "Poliwhirl",
         "rarity": "common",
         "type": "pokemon",

@@ -84264,6 +84264,71 @@
         "obtainedAt": 1751513059663,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
+        "code": "57VD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751514645540,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/68.png",
+        "code": "BTFQPW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751514645540,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "RLV5E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751514645540,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "L7TE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751514645540,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "1K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751514645540,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   }

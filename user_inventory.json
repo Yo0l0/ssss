@@ -80027,6 +80027,71 @@
         "obtainedAt": 1751521776446,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "HPS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536569765,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/68.png",
+        "code": "WDX49",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536569765,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "5TZL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536569765,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "TFBC6M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536569765,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/11.png",
+        "code": "P71HJX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536569765,
+        "condition": "Mint",
+        "isHolo": true
       }
     ],
     "coins": 0

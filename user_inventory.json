@@ -83550,6 +83550,19 @@
         "obtainedAt": 1751513973951,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "RLV5E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751514645540,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -84289,19 +84302,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751514645540,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Dark Charmeleon",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
-        "code": "RLV5E",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751514645540,
-        "condition": "Near Mint",
         "isHolo": false
       },
       {

@@ -82977,6 +82977,71 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/43.png",
         "code": "IFWM7"
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/67.png",
+        "code": "HSVP6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751500794964,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/68.png",
+        "code": "G8IKH6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751500794964,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/33.png",
+        "code": "Z4TIK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751500794964,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/40.png",
+        "code": "7FE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751500794964,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/10.png",
+        "code": "X6HH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751500794964,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   }

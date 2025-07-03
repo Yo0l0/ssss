@@ -82978,6 +82978,71 @@
         "obtainedAt": 1751502523478,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
+        "code": "DOI6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504163259,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "D3UB51",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504163259,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "QAWFTJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504163259,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "3W046N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504163259,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "5TT1XY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751504163259,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

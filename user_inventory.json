@@ -82759,6 +82759,19 @@
         "obtainedAt": 1751548730256,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/5.png",
+        "code": "7F6IW",
+        "condition": "Near Mint",
+        "obtainedAt": 1751516000484,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

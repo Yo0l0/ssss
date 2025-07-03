@@ -80781,6 +80781,14 @@
         "obtainedAt": 1751578368657,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Miltank",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/41.png",
+        "code": "VJD"
       }
     ],
     "coins": 0
@@ -84779,6 +84787,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/30.png",
+        "code": "67PYY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578850523,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Mantine",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/64.png",
+        "code": "CWI6RB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578850523,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "LM1VEE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578850523,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/40.png",
+        "code": "TYKD0K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578850523,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Fearow",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/7.png",
+        "code": "FW97",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578850523,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -87072,5 +87072,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1011031375803056161": {
+    "cards": [
+      {
+        "name": "Dark Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/5.png",
+        "code": "UJ70C",
+        "condition": "Damaged",
+        "obtainedAt": 1751445199617,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

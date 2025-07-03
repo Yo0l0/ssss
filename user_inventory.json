@@ -83315,6 +83315,71 @@
         "obtainedAt": 1751504056545,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/83.png",
+        "code": "XN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751505299741,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "EUT019",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751505299741,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "F73",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751505299741,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "W0OH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751505299741,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Electabuzz",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/6.png",
+        "code": "HZJBF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751505299741,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

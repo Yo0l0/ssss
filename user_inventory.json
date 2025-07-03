@@ -83108,6 +83108,71 @@
         "obtainedAt": 1751505418760,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "W0Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751507232057,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Starmie",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/64.png",
+        "code": "D1D78B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751507232057,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "7AQII",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751507232057,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Venonat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/96.png",
+        "code": "UX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751507232057,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/5.png",
+        "code": "OR47UK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751507232057,
+        "condition": "Light Play",
+        "isHolo": true
       }
     ]
   },

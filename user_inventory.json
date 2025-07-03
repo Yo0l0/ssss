@@ -82980,6 +82980,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "O77",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518304356,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/47.png",
+        "code": "RAL1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518304356,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "01VJFY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518304356,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "MHU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518304356,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dragonite",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/5.png",
+        "code": "YX7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518304356,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -85369,6 +85369,71 @@
         "obtainedAt": 1751522160342,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "3Y2W1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751527253157,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
+        "code": "GINCJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751527253157,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "TMN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751527253157,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "P0D1TY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751527253157,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machamp",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/27.png",
+        "code": "P89",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751527253157,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

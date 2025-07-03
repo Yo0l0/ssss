@@ -87868,6 +87868,71 @@
         "obtainedAt": 1751574025051,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Wooper",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/82.png",
+        "code": "PY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576183772,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Donphan",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/21.png",
+        "code": "J6HR8K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576183772,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "FXI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576183772,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "5LS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576183772,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "KCN9L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576183772,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

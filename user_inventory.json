@@ -82448,6 +82448,71 @@
         "obtainedAt": 1751573818041,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Drowzee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/49.png",
+        "code": "DY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575993563,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "FV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575993563,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "501HX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575993563,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "BBHI5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575993563,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "BCMO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575993563,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -84239,6 +84239,71 @@
         "obtainedAt": 1751520440264,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "W61H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751524511286,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/52.png",
+        "code": "WXHI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751524511286,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "W7OU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751524511286,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "MD3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751524511286,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "XCO7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751524511286,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

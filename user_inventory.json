@@ -83339,6 +83339,71 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/38.png",
         "code": "L6XU"
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "6ISNLY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520866777,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "XRXX5R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520866777,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "WN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520866777,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/33.png",
+        "code": "PHL7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520866777,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "NHSL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520866777,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },
@@ -85107,6 +85172,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751518095147,
         "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "VH7OIC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520854748,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "E5IMH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520854748,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "I44NB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520854748,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "1DBEQK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520854748,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flareon",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/19.png",
+        "code": "L8Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520854748,
+        "condition": "Light Play",
         "isHolo": false
       }
     ]

@@ -82976,6 +82976,71 @@
         "obtainedAt": 1751579050960,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "HN73QR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751584264548,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/68.png",
+        "code": "V09P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751584264548,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "RAS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751584264548,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "VNN6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751584264548,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "P2Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751584264548,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -85094,6 +85094,71 @@
         "obtainedAt": 1751578323742,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "FP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578444578,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "M3FRM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578444578,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "1U6ML",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578444578,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "UA4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578444578,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/29.png",
+        "code": "IVXSAZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578444578,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

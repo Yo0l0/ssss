@@ -81232,6 +81232,14 @@
         "obtainedAt": 1751548287845,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "P1"
       }
     ]
   },

@@ -80651,6 +80651,71 @@
         "obtainedAt": 1751573948341,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "QIZMWA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576187741,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Mareep",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/65.png",
+        "code": "IQ6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576187741,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "C8I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576187741,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "BPHBM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576187741,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Aerodactyl",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/16.png",
+        "code": "0AV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576187741,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

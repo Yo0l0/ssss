@@ -87916,6 +87916,14 @@
         "obtainedAt": 1751578345621,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Caterpie",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/45.png",
+        "code": "916"
       }
     ],
     "deck": [

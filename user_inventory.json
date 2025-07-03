@@ -87500,6 +87500,71 @@
         "obtainedAt": 1751577004060,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "34NB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577067863,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Grimer",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/48.png",
+        "code": "0B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577067863,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "W7XFV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577067863,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "QB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577067863,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "WS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577067863,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

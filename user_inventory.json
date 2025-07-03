@@ -83991,6 +83991,71 @@
         "obtainedAt": 1751509724405,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/51.png",
+        "code": "TW90",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751512950567,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "1KFUO8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751512950567,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "76I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751512950567,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "EKJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751512950567,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/83.png",
+        "code": "O6K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751512950567,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   }

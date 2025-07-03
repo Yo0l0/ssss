@@ -84342,6 +84342,71 @@
         "obtainedAt": 1751514645540,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "G44OPL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751516224153,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/88.png",
+        "code": "6B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751516224153,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "9FVJQD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751516224153,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "738I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751516224153,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "2NAFX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751516224153,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   }

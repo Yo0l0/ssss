@@ -84704,7 +84704,73 @@
     ]
   },
   "1150994902302335047": {
-    "cards": []
+    "cards": [
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "RSSKLM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576713645,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "E3DZ3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576713645,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "9E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576713645,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "G74LC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576713645,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "MXF6J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751576713645,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   },
   "1045810879310069830": {
     "cards": [

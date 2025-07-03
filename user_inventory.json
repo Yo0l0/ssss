@@ -80716,6 +80716,71 @@
         "obtainedAt": 1751576187741,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "37",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578368657,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/48.png",
+        "code": "VHX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578368657,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "D1BQOJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578368657,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "KLXG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578368657,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "JG5P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578368657,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0
@@ -87643,6 +87708,71 @@
         "obtainedAt": 1751577004060,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Spinarak",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/75.png",
+        "code": "532W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578345621,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Hoppip",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/61.png",
+        "code": "SK9K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578345621,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "7M11",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578345621,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "U0ZYF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578345621,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Rocket's Scyther",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/13.png",
+        "code": "MCO67H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578345621,
+        "condition": "Mint",
+        "isHolo": true
       }
     ],
     "deck": [
@@ -88125,6 +88255,75 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      }
+    ]
+  },
+  "1323133182287024269": {
+    "cards": [
+      {
+        "name": "Ariados",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/27.png",
+        "code": "8GO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578369172,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/51.png",
+        "code": "V6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578369172,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "CH38",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578369172,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Fearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/36.png",
+        "code": "UXK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578369172,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "7R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751578369172,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   }

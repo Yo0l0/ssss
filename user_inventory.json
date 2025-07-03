@@ -85385,6 +85385,71 @@
         "obtainedAt": 1751518127250,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/86.png",
+        "code": "OYGPKJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521741441,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/52.png",
+        "code": "4CC9K0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521741441,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "1K2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521741441,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/42.png",
+        "code": "M5S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521741441,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Lucky Stadium",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/41.png",
+        "code": "8ZS91",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751521741441,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

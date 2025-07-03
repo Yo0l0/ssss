@@ -83913,6 +83913,71 @@
         "obtainedAt": 1751508510388,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "NWQX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509724405,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "12",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509724405,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "GJUE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509724405,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "FJ7BU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509724405,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Blastoise",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
+        "code": "WZT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751509724405,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   }

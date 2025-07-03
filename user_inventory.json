@@ -82578,6 +82578,71 @@
         "obtainedAt": 1751575993563,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Granbull",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/37.png",
+        "code": "Z0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577282553,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "A0DDB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577282553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "FO3ZI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577282553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "Y7NJJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577282553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Celebi",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/50.png",
+        "code": "JWWX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751577282553,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -80521,6 +80521,71 @@
         "obtainedAt": 1751536569765,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Sunkern",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/78.png",
+        "code": "OLY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573948341,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Quagsire",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/45.png",
+        "code": "XL16R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573948341,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "KYJVEF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573948341,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "JA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573948341,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/20.png",
+        "code": "QNS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751573948341,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

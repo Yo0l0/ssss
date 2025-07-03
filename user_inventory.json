@@ -79507,6 +79507,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Misty's Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/86.png",
+        "code": "PEND",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518080852,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/49.png",
+        "code": "VK7GVY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518080853,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "FOH1W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518080853,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "KE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518080853,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "251V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751518080853,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

@@ -84441,6 +84441,71 @@
         "obtainedAt": 1751575448047,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/53.png",
+        "code": "RO2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575939457,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "9E9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575939457,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "062FU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575939457,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "OGCH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575939457,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/30.png",
+        "code": "OK1E5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751575939457,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

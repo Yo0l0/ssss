@@ -83818,6 +83818,71 @@
         "obtainedAt": 1751517436241,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
+        "code": "HXHSU6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520440264,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "7TDJK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520440264,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "BL0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520440264,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Fearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/36.png",
+        "code": "ULK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520440264,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Computer Error",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/16.png",
+        "code": "W8U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751520440264,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

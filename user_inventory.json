@@ -84603,6 +84603,71 @@
         "obtainedAt": 1751534698361,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "YY560",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536466071,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "JV1J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536466071,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "8X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536466071,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "2K63Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536466071,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cool Porygon",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/15.png",
+        "code": "5YU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751536466071,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -83045,6 +83045,14 @@
         "obtainedAt": 1751518304356,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "L6XU"
       }
     ]
   },

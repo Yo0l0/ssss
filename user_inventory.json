@@ -84473,6 +84473,71 @@
         "obtainedAt": 1751530424971,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
+        "code": "PFI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751533002185,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/47.png",
+        "code": "VC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751533002185,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "T1ML",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751533002185,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "4YPQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751533002185,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gyarados",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/8.png",
+        "code": "999RV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751533002185,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

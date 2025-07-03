@@ -83394,6 +83394,19 @@
         "obtainedAt": 1751509080357,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "VE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751513059663,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },
@@ -84090,19 +84103,6 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/27.png",
         "code": "IA7",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751513059663,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Seadra",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/42.png",
-        "code": "VE",
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1751513059663,

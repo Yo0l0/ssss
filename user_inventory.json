@@ -82716,6 +82716,71 @@
         "obtainedAt": 1751577282553,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "ZYBCL8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751579050960,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Murkrow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/24.png",
+        "code": "VPU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751579050960,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "G94",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751579050960,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "JM8E3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751579050960,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Azumarill",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/2.png",
+        "code": "RRPZFF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751579050960,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

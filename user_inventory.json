@@ -85604,5 +85604,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1365489568723374130": {
+    "cards": [
+      {
+        "name": "Mr. Mime",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/6.png",
+        "code": "MY8C",
+        "condition": "Damaged",
+        "obtainedAt": 1751525300491,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

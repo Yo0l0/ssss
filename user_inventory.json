@@ -83042,6 +83042,71 @@
         "obtainedAt": 1751500794964,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "PIAU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751502366475,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/48.png",
+        "code": "XKIH5L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751502366475,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "N4DDS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751502366475,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "WHR4KZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751502366475,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonite",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/22.png",
+        "code": "B5CCVN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751502366475,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   }

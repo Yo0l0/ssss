@@ -87775,6 +87775,71 @@
         "obtainedAt": 1751664987880,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "1NOS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751666771250,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/51.png",
+        "code": "Q8YV1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751666771250,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "9D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751666771250,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "NM2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751666771250,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Ampharos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/1.png",
+        "code": "QM5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751666771250,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ]
   },

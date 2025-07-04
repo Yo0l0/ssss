@@ -87635,6 +87635,19 @@
         "obtainedAt": 1751596790869,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "QEKIPS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751598622777,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },
@@ -89479,19 +89492,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751598622777,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Omastar",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/40.png",
-        "code": "QEKIPS",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751598622777,
-        "condition": "Pristine",
         "isHolo": false
       }
     ]

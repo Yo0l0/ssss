@@ -85908,6 +85908,19 @@
         "obtainedAt": 1751580955145,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "C9VD",
+        "condition": "Mint",
+        "obtainedAt": 1751589385910,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

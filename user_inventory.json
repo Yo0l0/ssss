@@ -83725,6 +83725,32 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Golbat",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/7.png",
+        "code": "CEM",
+        "condition": "Near Mint",
+        "obtainedAt": 1751603486094,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/1.png",
+        "code": "A2M6PA",
+        "condition": "Damaged",
+        "obtainedAt": 1751607686111,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

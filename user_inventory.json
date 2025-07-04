@@ -89883,6 +89883,71 @@
         "obtainedAt": 1751598622777,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/55.png",
+        "code": "7W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751612984354,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/25.png",
+        "code": "2JZC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751612984354,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "J5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751612984354,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "57K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751612984354,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "976J5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751612984354,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

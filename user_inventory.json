@@ -89880,6 +89880,71 @@
         "obtainedAt": 1751579706452,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Caterpie",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/45.png",
+        "code": "B0RFT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596053160,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Donphan",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/21.png",
+        "code": "F29HEN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596053160,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "YBS2PT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596053160,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "MLWLS5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596053160,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Ditto",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/3.png",
+        "code": "QACIQN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596053160,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

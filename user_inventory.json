@@ -88038,6 +88038,71 @@
         "obtainedAt": 1751599890256,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "H20ZZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751613852482,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sneasel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/25.png",
+        "code": "WZFA8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751613852482,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "USJ4RT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751613852482,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "8NOD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751613852482,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Victreebel",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/26.png",
+        "code": "H2ZM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751613852482,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

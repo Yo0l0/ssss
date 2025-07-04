@@ -92806,6 +92806,71 @@
         "obtainedAt": 1751649425346,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "6BO8B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751664317373,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/30.png",
+        "code": "33Q4K6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751664317373,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "AWL4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751664317373,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "BOSH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751664317373,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/33.png",
+        "code": "1O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751664317373,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

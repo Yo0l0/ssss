@@ -87167,6 +87167,19 @@
         "obtainedAt": 1751583956676,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "4ZN8X7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587466159,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -88777,19 +88790,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751587466159,
         "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Misty's Psyduck",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Gym Heroes",
-        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
-        "code": "4ZN8X7",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751587466159,
-        "condition": "Near Mint",
         "isHolo": false
       }
     ]

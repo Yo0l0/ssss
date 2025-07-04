@@ -82104,6 +82104,19 @@
         "obtainedAt": 1751401384787,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Jumpluff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/7.png",
+        "code": "Z5G",
+        "condition": "Mint",
+        "obtainedAt": 1751647903081,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

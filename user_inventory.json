@@ -86220,6 +86220,71 @@
         "obtainedAt": 1751596201247,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "LNB28C",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751598943550,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Elekid",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/22.png",
+        "code": "2M4R30",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751598943550,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "KEAA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751598943550,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "C1LXD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751598943550,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "2CY8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751598943550,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -85242,6 +85242,71 @@
         "obtainedAt": 1751585809367,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Miltank",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/41.png",
+        "code": "RY0V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587862054,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "S1VMH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587862054,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "9O4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587862054,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "B0GWI2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587862054,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "SF03",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587862054,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

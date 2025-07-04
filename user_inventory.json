@@ -88246,6 +88246,19 @@
         "obtainedAt": 1751613852482,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "WCHVDD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751619402763,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -90337,19 +90350,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751619402763,
         "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Dark Vaporeon",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
-        "code": "WCHVDD",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751619402763,
-        "condition": "Near Mint",
         "isHolo": false
       }
     ]

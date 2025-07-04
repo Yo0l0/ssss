@@ -80047,6 +80047,19 @@
         "obtainedAt": 1751509695844,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Muk",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/13.png",
+        "code": "554LZ",
+        "condition": "Near Mint",
+        "obtainedAt": 1751640086891,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

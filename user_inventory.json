@@ -92034,5 +92034,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1370917353189015613": {
+    "cards": [
+      {
+        "name": "Hypno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/8.png",
+        "code": "0P",
+        "condition": "Mint",
+        "obtainedAt": 1751637086838,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

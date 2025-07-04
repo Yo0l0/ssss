@@ -32881,6 +32881,19 @@
         "obtainedAt": 1751582937068,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Kingdra",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/8.png",
+        "code": "QJT",
+        "condition": "Light play",
+        "obtainedAt": 1751619086441,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

@@ -85710,6 +85710,71 @@
         "obtainedAt": 1751587862054,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Lickitung",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/41.png",
+        "code": "4K5Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751616402156,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/78.png",
+        "code": "Y7C1Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751616402156,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "DXYBX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751616402156,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "NN7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751616402156,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/11.png",
+        "code": "AFZ7B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751616402156,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

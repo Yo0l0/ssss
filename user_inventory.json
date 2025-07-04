@@ -87983,6 +87983,71 @@
         "obtainedAt": 1751666771250,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "54ZRU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751668299081,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "4GG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751668299081,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "Q8RHJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751668299081,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "9GFWYU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751668299081,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Moltres",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/21.png",
+        "code": "50LZ65",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751668299081,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

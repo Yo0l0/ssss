@@ -87258,6 +87258,19 @@
         "obtainedAt": 1751587466159,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "02O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751588888745,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },
@@ -88907,19 +88920,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751588888745,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Dark Golduck",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
-        "code": "02O",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751588888745,
-        "condition": "Mint",
         "isHolo": false
       },
       {

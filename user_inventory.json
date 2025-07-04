@@ -86771,6 +86771,71 @@
         "obtainedAt": 1751631541958,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Misty's Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/86.png",
+        "code": "YCM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751651886252,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
+        "code": "9HV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751651886252,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "REABS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751651886252,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "K7W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751651886252,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Ancient Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/54.png",
+        "code": "HJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751651886252,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

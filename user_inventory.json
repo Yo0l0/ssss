@@ -88726,6 +88726,71 @@
         "obtainedAt": 1751582902562,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Croconaw",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/31.png",
+        "code": "7NL1KM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587466159,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
+        "code": "SMHH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587466159,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "C75NU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587466159,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Fearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/36.png",
+        "code": "VN8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587466159,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "4ZN8X7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751587466159,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

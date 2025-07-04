@@ -81582,6 +81582,19 @@
         "obtainedAt": 1751619345786,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Lugia",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/9.png",
+        "code": "CBEC",
+        "condition": "Damaged",
+        "obtainedAt": 1751632586767,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

@@ -72545,6 +72545,19 @@
         "obtainedAt": 1751580732056,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Lugia",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/9.png",
+        "code": "FIXW",
+        "condition": "Light play",
+        "obtainedAt": 1751587885902,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

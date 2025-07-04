@@ -90286,6 +90286,71 @@
         "obtainedAt": 1751617892564,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Natu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/67.png",
+        "code": "G6GXVW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751619402763,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "N0VOM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751619402763,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "0SJKE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751619402763,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Rhydon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/45.png",
+        "code": "33BF5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751619402763,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "WCHVDD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751619402763,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -81218,6 +81218,71 @@
         "obtainedAt": 1751598919758,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Ledian",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/39.png",
+        "code": "PBQP7Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606078992,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "2K4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606078992,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "LG2DTO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606078992,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "BCG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606078992,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/19.png",
+        "code": "KRCL4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606078992,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "coins": 0
@@ -89960,6 +90025,71 @@
         "obtainedAt": 1751596109644,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Koffing",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/58.png",
+        "code": "JUENI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606070166,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ledian",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/39.png",
+        "code": "BZRXL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606070166,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "2UZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606070166,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "SIUR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606070166,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "YOYN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751606070166,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

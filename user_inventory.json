@@ -83509,6 +83509,71 @@
         "obtainedAt": 1751584264548,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/53.png",
+        "code": "VDZE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751626409050,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/62.png",
+        "code": "SKH0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751626409050,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "WMYHKP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751626409050,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "PV1BW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751626409050,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Computer Error",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/16.png",
+        "code": "PR0P6H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751626409050,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

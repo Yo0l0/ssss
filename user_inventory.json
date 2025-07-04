@@ -86061,6 +86061,71 @@
         "obtainedAt": 1751627394256,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/55.png",
+        "code": "8EVDIX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751627459774,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/61.png",
+        "code": "XRY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751627459774,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "WTDGZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751627459774,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "47IE3U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751627459774,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "R8AVZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751627459774,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

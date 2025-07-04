@@ -87570,6 +87570,71 @@
         "obtainedAt": 1751595107063,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "KM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596790869,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/47.png",
+        "code": "MHE0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596790869,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "WYY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596790869,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "AU0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596790869,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "XA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751596790869,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

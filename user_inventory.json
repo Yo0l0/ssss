@@ -83877,6 +83877,14 @@
         "obtainedAt": 1751638603646,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "8MC"
       }
     ]
   },

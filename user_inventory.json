@@ -77890,6 +77890,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Misty's Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/30.png",
+        "code": "13DL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751688033305,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Krabby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/51.png",
+        "code": "LT32GA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751688033305,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "MSD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751688033305,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Onix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/21.png",
+        "code": "LIC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751688033305,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "3BK8Q5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751688033305,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

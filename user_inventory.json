@@ -89475,6 +89475,19 @@
         "obtainedAt": 1751619402763,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "V5H8DE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751690722679,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -91709,19 +91722,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751690722679,
         "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Pikachu",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/58.png",
-        "code": "V5H8DE",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751690722679,
-        "condition": "Near Mint",
         "isHolo": false
       },
       {

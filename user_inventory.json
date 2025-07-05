@@ -93404,6 +93404,71 @@
         "obtainedAt": 1751664317373,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Erika's Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/25.png",
+        "code": "7CMU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678678096,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Paras",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/59.png",
+        "code": "A81XL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678678096,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "5Z8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678678096,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "QV1V9L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678678096,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "JPK9R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678678096,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

@@ -93370,5 +93370,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1332583350623404063": {
+    "cards": [
+      {
+        "name": "Dark Alakazam",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/1.png",
+        "code": "1XO",
+        "condition": "Mint",
+        "obtainedAt": 1751689794469,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

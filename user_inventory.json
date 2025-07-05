@@ -94671,7 +94671,7 @@
       "I3LMJ",
       "DUOL9R",
       "CWVR",
-      null
+      "OVZXQ"
     ]
   },
   "626567833685590037": {
@@ -94875,6 +94875,13 @@
         "condition": "Pristine",
         "isHolo": false
       }
+    ],
+    "deck": [
+      "SR",
+      null,
+      null,
+      null,
+      null
     ]
   }
 }

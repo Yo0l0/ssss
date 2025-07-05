@@ -93798,5 +93798,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1289739203046932561": {
+    "cards": [
+      {
+        "name": "Hitmonlee",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/7.png",
+        "code": "Y6WC5O",
+        "condition": "Damaged",
+        "obtainedAt": 1751712294949,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

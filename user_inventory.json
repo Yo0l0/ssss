@@ -94638,6 +94638,71 @@
         "obtainedAt": 1751754727259,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/57.png",
+        "code": "TD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754920653,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "VH3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754920653,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "XV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754920653,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "OVZXQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754920653,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "HX00",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754920653,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

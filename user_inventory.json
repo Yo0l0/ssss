@@ -94783,6 +94783,71 @@
         "obtainedAt": 1751754449359,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Paras",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/59.png",
+        "code": "8T0F45",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754804259,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/51.png",
+        "code": "80XE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754804259,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "7M6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754804259,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "SQ98DB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754804259,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/21.png",
+        "code": "SR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754804259,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   }

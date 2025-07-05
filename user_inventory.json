@@ -94521,6 +94521,71 @@
         "obtainedAt": 1751754298912,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/49.png",
+        "code": "9WQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754434949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Paras",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/59.png",
+        "code": "KKIU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754434949,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "RULC4R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754434949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marowak",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/39.png",
+        "code": "I3LMJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754434949,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Jolteon",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/20.png",
+        "code": "OP06NX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754434949,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -94589,6 +94654,75 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751754394036,
         "condition": "Pristine",
+        "isHolo": false
+      }
+    ]
+  },
+  "159774401745780736": {
+    "cards": [
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "EJ1MV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754449359,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/30.png",
+        "code": "6E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754449359,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "OGSBRE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754449359,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "PUG2G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754449359,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Graveler",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/40.png",
+        "code": "6L9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754449359,
+        "condition": "Light Play",
         "isHolo": false
       }
     ]

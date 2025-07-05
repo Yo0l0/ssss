@@ -93498,6 +93498,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Togepi",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/51.png",
+        "code": "BA0D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751692417941,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandshrew",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/62.png",
+        "code": "C29V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751692417941,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "IEGZF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751692417941,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "MA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751692417941,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "FJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751692417941,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

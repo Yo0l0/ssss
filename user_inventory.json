@@ -84419,6 +84419,71 @@
         "obtainedAt": 1751678837545,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "FY7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751680291359,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/47.png",
+        "code": "QM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751680291359,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "7N5ZQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751680291359,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "TYF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751680291359,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "NWJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751680291359,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

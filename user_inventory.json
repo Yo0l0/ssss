@@ -92153,6 +92153,71 @@
         "obtainedAt": 1751619402763,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "A4MA79",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751679710943,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "8D3R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751679710943,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "5MG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751679710943,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "D1H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751679710943,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/9.png",
+        "code": "G9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751679710943,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

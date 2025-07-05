@@ -94471,19 +94471,6 @@
         "isHolo": false
       },
       {
-        "name": "Jigglypuff",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/54.png",
-        "code": "PB",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751754298912,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
         "name": "Rhydon",
         "rarity": "uncommon",
         "type": "pokemon",

@@ -94573,6 +94573,71 @@
         "obtainedAt": 1751754434949,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "R2X9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754727259,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/47.png",
+        "code": "MHV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754727259,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "YQJLST",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754727259,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "51K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754727259,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Electabuzz",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/6.png",
+        "code": "CWVR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751754727259,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

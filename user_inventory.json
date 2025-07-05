@@ -94484,19 +94484,6 @@
         "isHolo": false
       },
       {
-        "name": "Tauros",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/47.png",
-        "code": "TE",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751754298912,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Dark Kadabra",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -94653,19 +94640,6 @@
         "isHolo": false
       },
       {
-        "name": "Ekans",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/46.png",
-        "code": "VH3",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751754920653,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Cloyster",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -94689,19 +94663,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751754920653,
         "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Magmar",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/39.png",
-        "code": "HX00",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751754920653,
-        "condition": "Damaged",
         "isHolo": false
       }
     ],

@@ -94071,6 +94071,72 @@
     ]
   },
   "1084374658230530179": {
-    "cards": []
+    "cards": [
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/57.png",
+        "code": "FH6LV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751729387639,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Hoppip",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/61.png",
+        "code": "KR3GP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751729387639,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "S6T5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751729387639,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "1NZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751729387639,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magneton",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/8.png",
+        "code": "ZKQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751729387639,
+        "condition": "Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

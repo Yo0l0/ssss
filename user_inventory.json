@@ -70685,6 +70685,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Bellossom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/3.png",
+        "code": "GJ",
+        "condition": "Mint",
+        "obtainedAt": 1751710794941,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749885608987

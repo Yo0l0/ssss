@@ -80632,6 +80632,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/55.png",
+        "code": "XD8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751687998745,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/55.png",
+        "code": "IA3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751687998745,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "ZT3KX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751687998745,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "XJFDZV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751687998745,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Magneton",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/28.png",
+        "code": "2AI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751687998745,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

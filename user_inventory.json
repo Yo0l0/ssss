@@ -86958,6 +86958,19 @@
         "obtainedAt": 1751498861851,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Heracross",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/6.png",
+        "code": "4G3E",
+        "condition": "Mint",
+        "obtainedAt": 1751732095219,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

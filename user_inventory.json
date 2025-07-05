@@ -92578,6 +92578,71 @@
         "obtainedAt": 1751619320463,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Donphan",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/21.png",
+        "code": "7WW0D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751686088689,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cleffa",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/20.png",
+        "code": "L3W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751686088690,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "6A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751686088690,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "IU2GI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751686088690,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "BX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751686088690,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

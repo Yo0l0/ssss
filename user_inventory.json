@@ -81113,6 +81113,19 @@
         "obtainedAt": 1751692285641,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Pidgeot",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/8.png",
+        "code": "YNE4A2",
+        "condition": "Light play",
+        "obtainedAt": 1751757295482,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

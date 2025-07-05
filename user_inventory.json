@@ -93263,5 +93263,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1390586500487315498": {
+    "cards": [
+      {
+        "name": "Sabrina's Gengar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/14.png",
+        "code": "QKE8XH",
+        "condition": "Light play",
+        "obtainedAt": 1751648503070,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

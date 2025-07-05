@@ -93828,5 +93828,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1084374658230530179": {
+    "cards": [
+      {
+        "name": "Dark Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/4.png",
+        "code": "1BQC",
+        "condition": "Mint",
+        "obtainedAt": 1751702394714,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

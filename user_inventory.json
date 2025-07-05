@@ -93712,5 +93712,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1261860883827789831": {
+    "cards": [
+      {
+        "name": "Bellossom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/3.png",
+        "code": "FM43H",
+        "condition": "Mint",
+        "obtainedAt": 1751700894684,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

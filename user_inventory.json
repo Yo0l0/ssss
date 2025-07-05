@@ -84354,6 +84354,71 @@
         "obtainedAt": 1751676376253,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Chikorita",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/53.png",
+        "code": "S99C",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678837545,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
+        "code": "IYYM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678837545,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "6LE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678837545,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "D6G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678837545,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Poliwrath",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/13.png",
+        "code": "CFCK8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751678837545,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

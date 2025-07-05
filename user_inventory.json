@@ -93742,5 +93742,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1255994908255453206": {
+    "cards": [
+      {
+        "name": "Dark Golbat",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/7.png",
+        "code": "M5G7",
+        "condition": "Light play",
+        "obtainedAt": 1751687694468,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

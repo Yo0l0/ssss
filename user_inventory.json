@@ -87200,6 +87200,71 @@
         "obtainedAt": 1751651886252,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/55.png",
+        "code": "LQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751676743466,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Furret",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/35.png",
+        "code": "8MQK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751676743466,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "8O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751676743466,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "SH1R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751676743466,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "H5V2JD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751676743466,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

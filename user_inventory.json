@@ -80762,6 +80762,19 @@
         "obtainedAt": 1751687998745,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ninetales",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/12.png",
+        "code": "1E03F3",
+        "condition": "Mint",
+        "obtainedAt": 1751688294464,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

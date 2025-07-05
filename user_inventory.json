@@ -82726,6 +82726,19 @@
         "obtainedAt": 1751686115873,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/10.png",
+        "code": "V1A",
+        "condition": "Light play",
+        "obtainedAt": 1751740195305,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

@@ -81492,6 +81492,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/5.png",
+        "code": "BVZY8N",
+        "condition": "Damaged",
+        "obtainedAt": 1751611586209,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Azumarill",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/2.png",
+        "code": "LV9",
+        "condition": "Mint",
+        "obtainedAt": 1751654069249,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Venusaur",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/15.png",
+        "code": "DLQ8",
+        "condition": "Light play",
+        "obtainedAt": 1751655869150,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Bellossom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/3.png",
+        "code": "V3HVO0",
+        "condition": "Pristine",
+        "obtainedAt": 1751660310980,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "MT0B3H",
+        "condition": "Near Mint",
+        "obtainedAt": 1751690694474,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

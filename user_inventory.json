@@ -87348,6 +87348,71 @@
         "obtainedAt": 1751813841466,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/51.png",
+        "code": "JDZ84D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813926079,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
+        "code": "BXM9S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813926079,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "2DYK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813926079,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "544",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813926079,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dugtrio",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/6.png",
+        "code": "5NIF5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813926079,
+        "condition": "Damaged",
+        "isHolo": true
       }
     ]
   },

@@ -95281,5 +95281,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1359949050262065375": {
+    "cards": [
+      {
+        "name": "Meganium",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/10.png",
+        "code": "VH",
+        "condition": "Damaged",
+        "obtainedAt": 1751781295674,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

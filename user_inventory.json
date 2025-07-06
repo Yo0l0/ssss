@@ -95510,5 +95510,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1275266855350829076": {
+    "cards": [
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "VJKK6",
+        "condition": "Near Mint",
+        "obtainedAt": 1751796595742,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

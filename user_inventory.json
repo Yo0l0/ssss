@@ -33362,6 +33362,19 @@
         "obtainedAt": 1751740117385,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "OYZEAE",
+        "condition": "Mint",
+        "obtainedAt": 1751761195554,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

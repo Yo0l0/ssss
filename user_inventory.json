@@ -95624,6 +95624,19 @@
         "obtainedAt": 1751754394036,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Flareon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/3.png",
+        "code": "81",
+        "condition": "Mint",
+        "obtainedAt": 1751825128396,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

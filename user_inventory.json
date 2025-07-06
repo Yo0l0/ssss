@@ -87478,6 +87478,32 @@
         "obtainedAt": 1751813978445,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Lapras",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/10.png",
+        "code": "6W6V",
+        "condition": "Light play",
+        "obtainedAt": 1751818196449,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Jolteon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/4.png",
+        "code": "T5MS7",
+        "condition": "Light play",
+        "obtainedAt": 1751816996054,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

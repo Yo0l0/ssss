@@ -73819,6 +73819,71 @@
         "obtainedAt": 1751826438583,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/36.png",
+        "code": "9FJ50",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838005347,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/46.png",
+        "code": "1Z8M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838005347,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "ZI5EAP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838005347,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "DR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838005347,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "PJM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838005347,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

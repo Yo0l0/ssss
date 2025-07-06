@@ -75308,6 +75308,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Erika's Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/5.png",
+        "code": "VGDJC",
+        "condition": "Damaged",
+        "obtainedAt": 1751807095803,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

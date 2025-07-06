@@ -33427,19 +33427,6 @@
         "obtainedAt": 1751819788871,
         "condition": "Damaged",
         "isHolo": false
-      },
-      {
-        "name": "Jolteon",
-        "rarity": "holo",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/4.png",
-        "code": "FJXXAQ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751819788871,
-        "condition": "Near Mint",
-        "isHolo": true
       }
     ],
     "currency": -600,

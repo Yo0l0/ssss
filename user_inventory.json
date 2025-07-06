@@ -95324,5 +95324,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1050102301248995399": {
+    "cards": [
+      {
+        "name": "Feraligatr",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/4.png",
+        "code": "R3G6",
+        "condition": "Damaged",
+        "obtainedAt": 1751736295253,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

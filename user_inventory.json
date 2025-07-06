@@ -95180,6 +95180,71 @@
         "obtainedAt": 1751686088690,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/40.png",
+        "code": "82SK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751842849800,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Onix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/69.png",
+        "code": "16L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751842849800,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "O7JGKL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751842849800,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "CS4XEI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751842849800,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flying Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/25.png",
+        "code": "CPRE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751842849800,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

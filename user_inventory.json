@@ -87413,6 +87413,71 @@
         "obtainedAt": 1751813926079,
         "condition": "Damaged",
         "isHolo": true
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
+        "code": "K4YBU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813978445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "E2K4SL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813978445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "M8F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813978445,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "2W41",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813978445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "5JPM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813978445,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

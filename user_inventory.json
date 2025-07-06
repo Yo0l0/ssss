@@ -95884,6 +95884,19 @@
         "obtainedAt": 1751825710445,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Electrode",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/2.png",
+        "code": "IQPIV",
+        "condition": "Near Mint",
+        "obtainedAt": 1751826928467,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -93993,32 +93993,6 @@
         "isHolo": false
       },
       {
-        "name": "Spinarak",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/75.png",
-        "code": "532W",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751578345621,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Hoppip",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/61.png",
-        "code": "SK9K",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751578345621,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
         "name": "Primeape",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -94058,40 +94032,6 @@
         "isHolo": true
       },
       {
-        "name": "Caterpie",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/45.png",
-        "code": "916"
-      },
-      {
-        "name": "Krabby",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/51.png",
-        "code": "ROQAQ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751578865146,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Omanyte",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/52.png",
-        "code": "2FZW",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751578865146,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
         "name": "Seadra",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -94128,32 +94068,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751578865146,
         "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Shuckle",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/72.png",
-        "code": "4CD94",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751596109644,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Ponyta",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
-        "code": "B4",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751596109644,
-        "condition": "Damaged",
         "isHolo": false
       },
       {
@@ -94196,32 +94110,6 @@
         "isHolo": true
       },
       {
-        "name": "Koffing",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/58.png",
-        "code": "JUENI",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751606070166,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Ledian",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/39.png",
-        "code": "BZRXL",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751606070166,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
         "name": "Slowbro",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -94257,32 +94145,6 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1751606070166,
-        "condition": "Light Play",
-        "isHolo": false
-      },
-      {
-        "name": "Meowth",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/56.png",
-        "code": "3T1N",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751842819805,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Ariados",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Neo Genesis",
-        "image": "https://www.pikawiz.com/images/neogenesis/27.png",
-        "code": "W8S9RU",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751842819805,
         "condition": "Light Play",
         "isHolo": false
       },

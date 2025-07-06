@@ -89001,6 +89001,58 @@
         "obtainedAt": 1751679559154,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/4.png",
+        "code": "F4X3F",
+        "condition": "Near Mint",
+        "obtainedAt": 1751820295990,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/16.png",
+        "code": "GBJB",
+        "condition": "Light play",
+        "obtainedAt": 1751816695880,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Lugia",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/9.png",
+        "code": "92C6",
+        "condition": "Damaged",
+        "obtainedAt": 1751804995781,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Bellossom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/3.png",
+        "code": "TB",
+        "condition": "Mint",
+        "obtainedAt": 1751790895713,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

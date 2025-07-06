@@ -85930,6 +85930,19 @@
         "obtainedAt": 1751724335385,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Golbat",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/7.png",
+        "code": "VW51",
+        "condition": "Near Mint",
+        "obtainedAt": 1751786395715,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

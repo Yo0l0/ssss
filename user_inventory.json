@@ -73884,6 +73884,14 @@
         "obtainedAt": 1751838005347,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "RPPBLO"
       }
     ]
   },

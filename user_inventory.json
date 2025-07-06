@@ -95212,6 +95212,71 @@
         "obtainedAt": 1751754804259,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/66.png",
+        "code": "9KLK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751801447359,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Mareep",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/65.png",
+        "code": "Z7N1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751801447359,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "O6RB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751801447359,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "5EGT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751801447359,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "TO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751801447359,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

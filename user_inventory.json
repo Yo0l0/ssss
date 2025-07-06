@@ -70919,6 +70919,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Venusaur",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/15.png",
+        "code": "FO4",
+        "condition": "Light play",
+        "obtainedAt": 1751777695644,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749885608987

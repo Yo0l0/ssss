@@ -81592,6 +81592,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Hitmonlee",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/7.png",
+        "code": "VH392Y",
+        "condition": "Damaged",
+        "obtainedAt": 1751772895621,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

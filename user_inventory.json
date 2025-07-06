@@ -94742,6 +94742,19 @@
         "obtainedAt": 1751754920653,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ampharos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/1.png",
+        "code": "W5062",
+        "condition": "Pristine",
+        "obtainedAt": 1751774095622,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

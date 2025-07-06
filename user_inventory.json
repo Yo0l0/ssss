@@ -87283,6 +87283,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/51.png",
+        "code": "6K54EJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813841466,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Koffing",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/58.png",
+        "code": "QGO2W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813841466,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "SWY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813841466,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "GZC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813841466,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Blastoise",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
+        "code": "7ZRY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751813841466,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

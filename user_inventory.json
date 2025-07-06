@@ -93954,45 +93954,6 @@
   "789950781242867762": {
     "cards": [
       {
-        "name": "Moltres",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/27.png",
-        "code": "PG",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576836647,
-        "condition": "Mint",
-        "isHolo": false
-      },
-      {
-        "name": "Haunter",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/21.png",
-        "code": "M3BBUD",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751576912063,
-        "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Dark Blastoise",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
-        "code": "DQM",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751577004060,
-        "condition": "Near Mint",
-        "isHolo": false
-      },
-      {
         "name": "Rocket's Scyther",
         "rarity": "holo",
         "type": "pokemon",

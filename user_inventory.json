@@ -73957,6 +73957,71 @@
         "obtainedAt": 1751838208453,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Chinchou",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/55.png",
+        "code": "53T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838236245,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Granbull",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/37.png",
+        "code": "2T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838236245,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "Q5YPV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838236245,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "EU9J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838236245,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoking",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/11.png",
+        "code": "FS5AH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751838236245,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

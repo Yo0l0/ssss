@@ -95637,6 +95637,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "1I31",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751825710440,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Phanpy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/43.png",
+        "code": "CN8L9G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751825710440,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "SVG4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751825710445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "VCWO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751825710445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Weezing",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/31.png",
+        "code": "7G9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751825710445,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

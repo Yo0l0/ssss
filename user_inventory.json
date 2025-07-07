@@ -98171,5 +98171,74 @@
         "isHolo": true
       }
     ]
+  },
+  "726173298114691083": {
+    "cards": [
+      {
+        "name": "Gloom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/36.png",
+        "code": "NOZQQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751885829266,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
+        "code": "M1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751885829266,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "MV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751885829266,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "AN2K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751885829266,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Vileplume",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/31.png",
+        "code": "3TP07B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751885829266,
+        "condition": "Damaged",
+        "isHolo": false
+      }
+    ]
   }
 }

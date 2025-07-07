@@ -90130,6 +90130,71 @@
         "obtainedAt": 1751850373553,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/53.png",
+        "code": "W43B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850442221,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cubone",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/50.png",
+        "code": "BKS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850442221,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "4BJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850442221,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "3GX1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850442221,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/1.png",
+        "code": "QP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850442221,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

@@ -85169,6 +85169,71 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/48.png",
         "code": "P1"
+      },
+      {
+        "name": "Phanpy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/43.png",
+        "code": "HCGSJV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751900172151,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/36.png",
+        "code": "AV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751900172151,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "U4APT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751900172151,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "P7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751900172151,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "ACAE0N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751900172151,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

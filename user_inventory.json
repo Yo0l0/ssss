@@ -33492,6 +33492,19 @@
         "obtainedAt": 1751824808501,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ninetales",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/12.png",
+        "code": "EV3",
+        "condition": "Near Mint",
+        "obtainedAt": 1751845228836,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

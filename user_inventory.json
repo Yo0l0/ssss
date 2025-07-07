@@ -90260,6 +90260,71 @@
         "obtainedAt": 1751850504262,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Cubone",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/50.png",
+        "code": "KC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850570956,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "11TM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850570956,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "OMXZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850570956,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "X1NW2G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850570956,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Vileplume",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/31.png",
+        "code": "05",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850570956,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },
@@ -94507,6 +94572,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1751846085275,
         "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/39.png",
+        "code": "KJSA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850566055,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "K4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850566055,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "8UZP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850566055,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "GK9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850566055,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/42.png",
+        "code": "2QF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751850566055,
+        "condition": "Light Play",
         "isHolo": false
       }
     ]

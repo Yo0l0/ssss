@@ -98076,5 +98076,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1391352730093617253": {
+    "cards": [
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/16.png",
+        "code": "7CZ",
+        "condition": "Damaged",
+        "obtainedAt": 1751869666433,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

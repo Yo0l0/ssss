@@ -98971,5 +98971,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1384806495149097011": {
+    "cards": [
+      {
+        "name": "Poliwrath",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/13.png",
+        "code": "Q3LJ4",
+        "condition": "Near Mint",
+        "obtainedAt": 1751929095939,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

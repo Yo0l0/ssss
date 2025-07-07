@@ -98772,5 +98772,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1391822375942754516": {
+    "cards": [
+      {
+        "name": "Nidoqueen",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/7.png",
+        "code": "IFTZN",
+        "condition": "Damaged",
+        "obtainedAt": 1751910847680,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

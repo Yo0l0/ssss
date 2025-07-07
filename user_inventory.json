@@ -85234,6 +85234,14 @@
         "obtainedAt": 1751900172151,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ariados",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/27.png",
+        "code": "7B0QO"
       }
     ]
   },

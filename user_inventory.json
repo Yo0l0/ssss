@@ -91351,6 +91351,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Azumarill",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/2.png",
+        "code": "7QQW6",
+        "condition": "Near Mint",
+        "obtainedAt": 1751917148248,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -95171,6 +95171,71 @@
         "obtainedAt": 1751854769042,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Chinchou",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/55.png",
+        "code": "CC4EAE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751856010662,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Lickitung",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/41.png",
+        "code": "T33GUT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751856010662,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Onix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/21.png",
+        "code": "OIDD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751856010662,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "JV8HI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751856010662,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/4.png",
+        "code": "V0WJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751856010662,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

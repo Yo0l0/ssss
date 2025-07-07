@@ -98238,6 +98238,71 @@
         "obtainedAt": 1751885829266,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "XW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751887490547,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Togepi",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/51.png",
+        "code": "09ZE7J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751887490548,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "HIJU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751887490548,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "U9XV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751887490548,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "YAK7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751887490548,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

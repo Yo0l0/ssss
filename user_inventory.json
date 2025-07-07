@@ -96624,6 +96624,19 @@
         "obtainedAt": 1751842849800,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/1.png",
+        "code": "X7P4",
+        "condition": "Near Mint",
+        "obtainedAt": 1751909647662,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

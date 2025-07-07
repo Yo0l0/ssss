@@ -82918,6 +82918,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/1.png",
+        "code": "8M87Q",
+        "condition": "Damaged",
+        "obtainedAt": 1751930295938,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

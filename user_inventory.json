@@ -100974,6 +100974,71 @@
         "obtainedAt": 1752017146847,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "UG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017469843,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/83.png",
+        "code": "24O11J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017469843,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "3HKFGV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017469843,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "MJJ8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017469843,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "T0O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017469843,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

@@ -99209,5 +99209,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1367092583611760711": {
+    "cards": [
+      {
+        "name": "Articuno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/2.png",
+        "code": "MRUMC",
+        "condition": "Light play",
+        "obtainedAt": 1751966596556,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

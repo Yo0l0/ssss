@@ -101236,6 +101236,71 @@
         "obtainedAt": 1752016862450,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/53.png",
+        "code": "6A77",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016936665,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "K7Q6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016936665,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "XMPN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016936666,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "5UTX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016936666,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "796F2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016936666,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "coins": 0

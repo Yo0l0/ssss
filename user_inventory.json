@@ -101093,6 +101093,71 @@
         "obtainedAt": 1752016762250,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "NZAX8L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016813183,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "Z98QHU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016813183,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "1TM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016813183,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "LIOT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016813183,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "NIOCIJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016813183,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0

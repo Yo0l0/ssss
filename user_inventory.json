@@ -101782,6 +101782,71 @@
         "obtainedAt": 1752017696072,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "WL1PDW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017750079,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Grimer",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/57.png",
+        "code": "99N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017750079,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "LZMEH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017750079,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "UFK3KI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017750079,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/10.png",
+        "code": "Q1O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017750079,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ],
     "coins": 0

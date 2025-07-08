@@ -102172,6 +102172,71 @@
         "obtainedAt": 1752018030972,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "N3OKM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018065971,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
+        "code": "HCX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018065971,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "23JU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018065971,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "1JRYX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018065971,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "C91M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018065971,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0

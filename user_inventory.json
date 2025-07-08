@@ -100688,6 +100688,71 @@
         "obtainedAt": 1752016218053,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "IJI70",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016603562,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "99",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016603562,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "4U3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016603562,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "DU1GHL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016603562,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/4.png",
+        "code": "E3GXA2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016603562,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

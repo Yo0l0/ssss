@@ -83214,6 +83214,19 @@
         "obtainedAt": 1751944823685,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Feraligatr",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/4.png",
+        "code": "RDVR",
+        "condition": "Mint",
+        "obtainedAt": 1751996708491,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

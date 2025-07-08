@@ -91006,6 +91006,71 @@
         "obtainedAt": 1752008924352,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Koffing",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/58.png",
+        "code": "4F35",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752009015541,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/53.png",
+        "code": "XU7KL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752009015541,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "6U1S0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752009015541,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "AL7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752009015541,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "XF0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752009015542,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

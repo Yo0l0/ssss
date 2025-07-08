@@ -100281,5 +100281,74 @@
   "1373381602406830192": {
     "cards": [],
     "coins": 0
+  },
+  "905675333544583168": {
+    "cards": [
+      {
+        "name": "Electabuzz",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/33.png",
+        "code": "KLVX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752012425761,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/30.png",
+        "code": "JNR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752012425761,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "KCMJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752012425761,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "V4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752012425761,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "LMY2Q2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752012425761,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

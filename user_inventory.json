@@ -82642,6 +82642,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Drowzee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/54.png",
+        "code": "NLLZG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751944823685,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "ZJY3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751944823685,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "ZS8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751944823685,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "T0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751944823685,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Computer Error",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/16.png",
+        "code": "UMV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751944823685,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

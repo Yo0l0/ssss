@@ -99425,5 +99425,74 @@
       }
     ],
     "coins": 0
+  },
+  "1260765104031662181": {
+    "cards": [
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "XZBKO8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751988497553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Noctowl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/42.png",
+        "code": "NIC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751988497553,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "IEND",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751988497553,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "A61M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751988497553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "FP164",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751988497553,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

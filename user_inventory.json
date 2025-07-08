@@ -99596,6 +99596,19 @@
         "obtainedAt": 1751988497553,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Lapras",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/10.png",
+        "code": "NKFQ",
+        "condition": "Damaged",
+        "obtainedAt": 1751998508484,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   }

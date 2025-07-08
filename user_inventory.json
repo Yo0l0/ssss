@@ -99693,5 +99693,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1197313321049796861": {
+    "cards": [
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "KYP",
+        "condition": "Mint",
+        "obtainedAt": 1752002708667,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

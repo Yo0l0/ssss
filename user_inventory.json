@@ -100766,6 +100766,71 @@
         "obtainedAt": 1752016603562,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "X5R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016973974,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "18TXUI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016973974,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "HGEA3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016973974,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "LCO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016973974,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Blastoise",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
+        "code": "7P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016973974,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

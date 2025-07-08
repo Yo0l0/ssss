@@ -99840,5 +99840,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1390994267798896682": {
+    "cards": [
+      {
+        "name": "Pinsir",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/9.png",
+        "code": "QQH",
+        "condition": "Damaged",
+        "obtainedAt": 1751991517658,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

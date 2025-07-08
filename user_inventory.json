@@ -88955,6 +88955,19 @@
         "obtainedAt": 1751412184541,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Vaporeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/12.png",
+        "code": "VC5CT6",
+        "condition": "Near Mint",
+        "obtainedAt": 1751998208481,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

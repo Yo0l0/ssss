@@ -99611,5 +99611,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1071634023723581471": {
+    "cards": [
+      {
+        "name": "Dark Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/10.png",
+        "code": "WE",
+        "condition": "Near Mint",
+        "obtainedAt": 1751997908740,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

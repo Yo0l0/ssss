@@ -101312,6 +101312,19 @@
         "obtainedAt": 1752018236756,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Houndoom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/7.png",
+        "code": "MS26N",
+        "condition": "Mint",
+        "obtainedAt": 1752016444381,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

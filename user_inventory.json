@@ -101028,6 +101028,71 @@
         "obtainedAt": 1752016702964,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/61.png",
+        "code": "V6ID1D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016762250,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Paras",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/59.png",
+        "code": "CHOIYX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016762250,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "JJJEB4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016762250,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "ACA4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016762250,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "RHG06",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752016762250,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

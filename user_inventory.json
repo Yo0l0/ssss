@@ -102367,6 +102367,71 @@
         "obtainedAt": 1752018162460,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Drowzee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/54.png",
+        "code": "BE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018418982,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mareep",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/65.png",
+        "code": "QGHACV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018418982,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "1PBL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018418982,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/40.png",
+        "code": "FNU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018418982,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "Q78CYI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752018418982,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

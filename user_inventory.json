@@ -96894,8 +96894,8 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/13.png",
         "code": "MCO67H",
-        "grade": null,
-        "gradeRequestedAt": 1751843052960,
+        "grade": 9,
+        "gradeRequestedAt": null,
         "obtainedAt": 1751578345621,
         "condition": "Mint",
         "isHolo": true

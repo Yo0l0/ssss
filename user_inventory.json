@@ -87229,6 +87229,19 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/46.png",
         "code": "8MC"
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/16.png",
+        "code": "BWYP",
+        "condition": "Near Mint",
+        "obtainedAt": 1751967196569,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

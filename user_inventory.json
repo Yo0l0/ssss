@@ -99039,6 +99039,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Snorlax",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/11.png",
+        "code": "M0H3V",
+        "condition": "Damaged",
+        "obtainedAt": 1752017644471,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -101573,6 +101586,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752016936666,
         "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/51.png",
+        "code": "ON9KP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017645051,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "L1A35",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017645051,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/46.png",
+        "code": "TCU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017645051,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "S7I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017645051,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shining Celebi",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/106.png",
+        "code": "JE0ZX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752017645051,
+        "condition": "Light Play",
         "isHolo": false
       }
     ],

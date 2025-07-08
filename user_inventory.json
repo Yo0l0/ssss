@@ -99026,6 +99026,19 @@
         "obtainedAt": 1751692417941,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Blastoise",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/2.png",
+        "code": "7DH",
+        "condition": "Near Mint",
+        "obtainedAt": 1751993110586,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

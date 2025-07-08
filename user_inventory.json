@@ -99239,5 +99239,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1390801509096095855": {
+    "cards": [
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/14.png",
+        "code": "QKR5",
+        "condition": "Mint",
+        "obtainedAt": 1751959396761,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

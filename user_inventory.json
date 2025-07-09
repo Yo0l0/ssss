@@ -102791,6 +102791,71 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/82.png",
         "code": "DJE4RR"
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/33.png",
+        "code": "JG8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752083175652,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "JX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752083175652,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "6SG9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752083175652,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown P",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/58.png",
+        "code": "3X3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752083175652,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Shining Kabutops",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/108.png",
+        "code": "K3Y1YR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752083175652,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

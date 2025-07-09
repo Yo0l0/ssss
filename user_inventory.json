@@ -99139,6 +99139,32 @@
         "obtainedAt": 1752033584454,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/1.png",
+        "code": "SW5",
+        "condition": "Mint",
+        "obtainedAt": 1752030545053,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Venusaur",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/15.png",
+        "code": "T2UX7",
+        "condition": "Light play",
+        "obtainedAt": 1752036544967,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

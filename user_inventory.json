@@ -103188,5 +103188,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1299709104574566521": {
+    "cards": [
+      {
+        "name": "Feraligatr",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/4.png",
+        "code": "HDX",
+        "condition": "Near Mint",
+        "obtainedAt": 1752045845164,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

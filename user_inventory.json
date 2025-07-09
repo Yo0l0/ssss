@@ -104924,6 +104924,71 @@
         "obtainedAt": 1752033040782,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Sunkern",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/83.png",
+        "code": "2L1XB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752099364241,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "3SXNP6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752099364241,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "1YULDV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752099364241,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "RD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752099364241,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Jumpluff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/7.png",
+        "code": "DZ4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752099364241,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ]
   },

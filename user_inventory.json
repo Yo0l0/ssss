@@ -102113,6 +102113,71 @@
         "obtainedAt": 1752061682378,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/70.png",
+        "code": "AL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752065539848,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/66.png",
+        "code": "H5WEM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752065539848,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "Z43",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752065539848,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "RG8G72",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752065539848,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "UZ4L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752065539848,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

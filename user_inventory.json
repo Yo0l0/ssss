@@ -104659,6 +104659,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
+        "code": "PEUB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752095993460,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sentret",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/71.png",
+        "code": "DVLHOQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752095993460,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Light Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/54.png",
+        "code": "05UR7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752095993460,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "G9PAJH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752095993460,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Aerodactyl",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/16.png",
+        "code": "IF3GHS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752095993460,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "coins": 0

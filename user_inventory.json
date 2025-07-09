@@ -104855,5 +104855,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1386749137172828373": {
+    "cards": [
+      {
+        "name": "Rocket's Scyther",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/13.png",
+        "code": "ERRI9",
+        "condition": "Damaged",
+        "obtainedAt": 1752054845328,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -94647,6 +94647,19 @@
         "obtainedAt": 1752011862172,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Togepi",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/56.png",
+        "code": "IFFO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752045404584,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -97349,19 +97362,6 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752045404584,
         "condition": "Damaged",
-        "isHolo": false
-      },
-      {
-        "name": "Togepi",
-        "rarity": "uncommon",
-        "type": "pokemon",
-        "set": "Neo Destiny",
-        "image": "https://www.pikawiz.com/images/neodestiny/56.png",
-        "code": "IFFO",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1752045404584,
-        "condition": "Near Mint",
         "isHolo": false
       }
     ]

@@ -100645,6 +100645,71 @@
         "obtainedAt": 1751729387639,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/81.png",
+        "code": "XE0ZY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752100777766,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mantine",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/74.png",
+        "code": "FNK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752100777766,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "LL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752100777766,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "KO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752100777766,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "V4NPP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752100777766,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

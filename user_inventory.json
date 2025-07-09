@@ -102711,6 +102711,71 @@
         "obtainedAt": 1752065539848,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Totodile",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/85.png",
+        "code": "MWD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752084084869,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Octillery",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/62.png",
+        "code": "56YW8F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752084084869,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "MHONUL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752084084870,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "QT3C5A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752084084870,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Surfing Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/28.png",
+        "code": "GR02",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752084084870,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

@@ -101897,6 +101897,71 @@
         "obtainedAt": 1752030593880,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
+        "code": "Q7FHO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752061590984,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Natu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/67.png",
+        "code": "R03R9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752061590984,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "MLVCBD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752061590984,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "E5QOO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752061590984,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgeot",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/24.png",
+        "code": "R6YTD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752061590984,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

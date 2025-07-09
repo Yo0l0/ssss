@@ -102647,5 +102647,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1294486570073591881": {
+    "cards": [
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/15.png",
+        "code": "SFW",
+        "condition": "Damaged",
+        "obtainedAt": 1752022744553,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

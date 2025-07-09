@@ -101962,6 +101962,14 @@
         "obtainedAt": 1752061590984,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "IQJAZ5"
       }
     ]
   },

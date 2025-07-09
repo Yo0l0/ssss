@@ -102783,7 +102783,16 @@
     ]
   },
   "1373381602406830192": {
-    "cards": [],
+    "cards": [
+      {
+        "name": "Lt. Surge's Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/82.png",
+        "code": "DJE4RR"
+      }
+    ],
     "coins": 0
   },
   "905675333544583168": {

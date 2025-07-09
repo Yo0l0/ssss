@@ -104568,6 +104568,71 @@
         "obtainedAt": 1752092091359,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Chikorita",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/53.png",
+        "code": "3TY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752093929175,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "7L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752093929175,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "1HHUR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752093929175,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "F3EFS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752093929175,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kabutops",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/9.png",
+        "code": "73CCA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752093929175,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ],
     "coins": 0

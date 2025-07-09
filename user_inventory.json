@@ -103171,5 +103171,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1345346864999956490": {
+    "cards": [
+      {
+        "name": "Rocket's Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/12.png",
+        "code": "61XLSM",
+        "condition": "Light play",
+        "obtainedAt": 1752047045166,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

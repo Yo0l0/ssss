@@ -103381,6 +103381,32 @@
         "obtainedAt": 1752087883984,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/16.png",
+        "code": "J3V",
+        "condition": "Damaged",
+        "obtainedAt": 1752095273446,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Light Arcanine",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/12.png",
+        "code": "6Z",
+        "condition": "Near Mint",
+        "obtainedAt": 1752101573553,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

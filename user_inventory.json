@@ -101372,8 +101372,8 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/3.png",
         "code": "K1Q45",
-        "grade": null,
-        "gradeRequestedAt": 1752061850344,
+        "grade": 9,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752017051165,
         "condition": "Mint",
         "isHolo": true

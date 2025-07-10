@@ -106104,6 +106104,71 @@
         "obtainedAt": 1752131165049,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Paras",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/59.png",
+        "code": "YP7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131172948,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "K65A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131172948,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "56L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131172948,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "OQX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131172948,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Marowak",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/39.png",
+        "code": "TET",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131172948,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0

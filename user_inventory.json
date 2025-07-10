@@ -103953,6 +103953,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/5.png",
+        "code": "70WAUT",
+        "condition": "Light play",
+        "obtainedAt": 1752146981651,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

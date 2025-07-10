@@ -103317,6 +103317,71 @@
         "obtainedAt": 1752084084870,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Magby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/23.png",
+        "code": "WJ1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752108692279,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "B5SFOC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752108692279,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/40.png",
+        "code": "XV1J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752108692279,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "ZKJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752108692279,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Computer Error",
+        "rarity": "promo",
+        "type": "trainer",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/16.png",
+        "code": "YDH2L3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752108692279,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

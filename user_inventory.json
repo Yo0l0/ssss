@@ -106201,6 +106201,14 @@
         "obtainedAt": 1752172525059,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "FZDK8X"
       }
     ],
     "coins": 0

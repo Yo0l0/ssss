@@ -78583,6 +78583,45 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Lt. Surge's Fearow",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/7.png",
+        "code": "9U",
+        "condition": "Near Mint",
+        "obtainedAt": 1752116080744,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Weezing",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/14.png",
+        "code": "P7VQ",
+        "condition": "Near Mint",
+        "obtainedAt": 1752124481306,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Venomoth",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/13.png",
+        "code": "B6B2A",
+        "condition": "Light play",
+        "obtainedAt": 1752129281381,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

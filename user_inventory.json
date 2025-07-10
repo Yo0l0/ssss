@@ -106475,5 +106475,74 @@
         "isHolo": false
       }
     ]
+  },
+  "885250332358230066": {
+    "cards": [
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "VF34ND",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752142255148,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/23.png",
+        "code": "CKTP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752142255148,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "REOC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752142255148,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "234N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752142255148,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dragonair",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/4.png",
+        "code": "5SMUG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752142255148,
+        "condition": "Near Mint",
+        "isHolo": true
+      }
+    ]
   }
 }

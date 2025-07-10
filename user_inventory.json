@@ -66787,6 +66787,19 @@
         "obtainedAt": 1752109222064,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Dark Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/5.png",
+        "code": "D9Q",
+        "condition": "Near Mint",
+        "obtainedAt": 1752110380480,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

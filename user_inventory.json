@@ -106172,5 +106172,74 @@
       }
     ],
     "coins": 0
+  },
+  "1347985721109254217": {
+    "cards": [
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "P3UG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131592652,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flaaffy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/34.png",
+        "code": "Z200",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131592652,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "X5S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131592652,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "T9FDQ7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131592652,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "HNY1A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752131592652,
+        "condition": "Light Play",
+        "isHolo": false
+      }
+    ]
   }
 }

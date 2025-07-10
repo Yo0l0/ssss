@@ -73419,6 +73419,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Donphan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/3.png",
+        "code": "Z5ZX3",
+        "condition": "Mint",
+        "obtainedAt": 1752118481059,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

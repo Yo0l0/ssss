@@ -106799,5 +106799,22 @@
         "code": "WYX"
       }
     ]
+  },
+  "1186302373988155403": {
+    "cards": [
+      {
+        "name": "Misty's Tentacruel",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/10.png",
+        "code": "7SUH",
+        "condition": "Light play",
+        "obtainedAt": 1752149081673,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -86413,6 +86413,19 @@
         "obtainedAt": 1752013048958,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Ditto",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/3.png",
+        "code": "9DVG3",
+        "condition": "Mint",
+        "obtainedAt": 1752110680547,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

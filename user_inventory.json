@@ -104312,6 +104312,71 @@
         "obtainedAt": 1751534624274,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
+        "code": "Y3S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752159909685,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "V57J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752159909685,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flaaffy",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/34.png",
+        "code": "3SF66",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752159909685,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "KH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752159909685,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonite",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/22.png",
+        "code": "8PP6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752159909685,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

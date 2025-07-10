@@ -107455,6 +107455,71 @@
         "obtainedAt": 1752180572684,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mantine",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/74.png",
+        "code": "EGVPR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180723516,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "750SI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180723516,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/49.png",
+        "code": "W9ZF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180723516,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "M3PXFR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180723516,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "FFCK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180723516,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

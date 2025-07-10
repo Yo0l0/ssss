@@ -106542,6 +106542,14 @@
         "obtainedAt": 1752142255148,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Unown [J]",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/38.png",
+        "code": "WYX"
       }
     ]
   }

@@ -96936,19 +96936,6 @@
         "isHolo": false
       },
       {
-        "name": "Slowpoke",
-        "rarity": "common",
-        "type": "pokemon",
-        "set": "Team Rocket",
-        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
-        "code": "4WDDQ",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1751534624274,
-        "condition": "Pristine",
-        "isHolo": false
-      },
-      {
         "name": "Dark Electrode",
         "rarity": "uncommon",
         "type": "pokemon",
@@ -103700,6 +103687,19 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752080962981,
         "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "4WDDQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1751534624274,
+        "condition": "Pristine",
         "isHolo": false
       }
     ]

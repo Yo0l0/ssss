@@ -102362,6 +102362,19 @@
         "obtainedAt": 1751921876567,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Alakazam",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/1.png",
+        "code": "HBJP59",
+        "condition": "Mint",
+        "obtainedAt": 1752158681764,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

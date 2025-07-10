@@ -105174,6 +105174,71 @@
         "obtainedAt": 1752113834841,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "T5K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752116443968,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "WONG9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752116443968,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "S5U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752116443968,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "ZCW6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752116443968,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flareon",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/19.png",
+        "code": "794IV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752116443968,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

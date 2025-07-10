@@ -107390,6 +107390,71 @@
         "set": "WOTC Promos",
         "image": "https://www.pikawiz.com/images/wotcpromo/38.png",
         "code": "WYX"
+      },
+      {
+        "name": "Hoppip",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/61.png",
+        "code": "K9I8DP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180572684,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "G1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180572684,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Houndour",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/43.png",
+        "code": "MXWXM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180572684,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Heracross",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/41.png",
+        "code": "QN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180572684,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Exeggutor",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/44.png",
+        "code": "3O3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752180572684,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -105649,7 +105649,73 @@
     "coins": 0
   },
   "1346469856232345724": {
-    "cards": [],
+    "cards": [
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "71",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752130823840,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "6DXKOX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752130823840,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "EE3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752130823840,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "RM5P0R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752130823840,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "8PH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752130823840,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ],
     "coins": 0
   }
 }

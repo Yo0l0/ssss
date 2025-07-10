@@ -105644,6 +105644,19 @@
         "set": "Team Rocket",
         "image": "https://www.pikawiz.com/images/teamrocket/44.png",
         "code": "M4B2"
+      },
+      {
+        "name": "Dark Houndoom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/7.png",
+        "code": "48",
+        "condition": "Damaged",
+        "obtainedAt": 1752129581358,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

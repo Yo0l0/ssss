@@ -91598,6 +91598,71 @@
         "obtainedAt": 1751413447054,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Lanturn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/38.png",
+        "code": "M6Q7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257670949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/36.png",
+        "code": "WI229",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257670949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "8JJBIS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257670949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "9OXNWZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257670949,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "531",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257670949,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },
@@ -91939,6 +92004,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752252694155,
         "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "PAQEX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257652656,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "VTTIWT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257652656,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Light Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/45.png",
+        "code": "XI56QQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257652656,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "VS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257652656,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Croconaw",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/32.png",
+        "code": "X8V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752257652656,
+        "condition": "Pristine",
         "isHolo": false
       }
     ]

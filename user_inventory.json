@@ -107725,6 +107725,71 @@
         "obtainedAt": 1752249006474,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/55.png",
+        "code": "SVTD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249125267,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "7EF88T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249125267,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "RGC3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249125267,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "CV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249125267,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "F90O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249125267,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "coins": 0

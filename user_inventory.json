@@ -106976,6 +106976,19 @@
         "obtainedAt": 1752177721979,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Gyarados",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/8.png",
+        "code": "70A",
+        "condition": "Mint",
+        "obtainedAt": 1752212982343,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

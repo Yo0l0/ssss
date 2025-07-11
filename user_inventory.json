@@ -108663,6 +108663,71 @@
         "obtainedAt": 1752223802752,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
+        "code": "WC67",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752224588951,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/65.png",
+        "code": "F3X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752224588951,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/51.png",
+        "code": "QF75",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752224588951,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "FF3J7H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752224588951,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "GJQPD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752224588951,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

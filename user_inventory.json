@@ -107773,5 +107773,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1340015929953878048": {
+    "cards": [
+      {
+        "name": "Clefairy",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/5.png",
+        "code": "U5",
+        "condition": "Light play",
+        "obtainedAt": 1752194682271,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

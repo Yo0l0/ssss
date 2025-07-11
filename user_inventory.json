@@ -103831,6 +103831,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Lanturn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/38.png",
+        "code": "PWV3AM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752264171041,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/79.png",
+        "code": "VE8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752264171041,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Pupitar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/38.png",
+        "code": "XDX2Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752264171041,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "B6S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752264171041,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lapras",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/10.png",
+        "code": "3F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752264171041,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

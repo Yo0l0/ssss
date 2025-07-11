@@ -110524,5 +110524,22 @@
         "isHolo": true
       }
     ]
+  },
+  "894227777228783617": {
+    "cards": [
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/11.png",
+        "code": "L50",
+        "condition": "Mint",
+        "obtainedAt": 1752272082946,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -108301,5 +108301,22 @@
         "isHolo": false
       }
     ]
+  },
+  "339444704821248001": {
+    "cards": [
+      {
+        "name": "Dark Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/5.png",
+        "code": "79PT9Q",
+        "condition": "Mint",
+        "obtainedAt": 1752211482338,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

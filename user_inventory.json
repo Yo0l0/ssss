@@ -67203,6 +67203,32 @@
         "obtainedAt": 1752250044174,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Typhlosion",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/17.png",
+        "code": "NU584",
+        "condition": "Mint",
+        "obtainedAt": 1752256183243,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Hypno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/8.png",
+        "code": "OLCAQY",
+        "condition": "Light play",
+        "obtainedAt": 1752258282705,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

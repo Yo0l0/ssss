@@ -107790,6 +107790,71 @@
         "obtainedAt": 1752249125267,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
+        "code": "WUTF6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249162848,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "DQ81",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249162848,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "QD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249162848,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "DRF0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249162848,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/40.png",
+        "code": "YSS2M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249162848,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0

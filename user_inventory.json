@@ -108598,6 +108598,71 @@
         "obtainedAt": 1752211274453,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "O24V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752223802752,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Jigglypuff",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/54.png",
+        "code": "B1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752223802752,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "BO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752223802752,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "0WO171",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752223802752,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mewtwo",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/12.png",
+        "code": "GCGY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752223802752,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -110072,5 +110072,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1321950190961295360": {
+    "cards": [
+      {
+        "name": "Dark Typhlosion",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/10.png",
+        "code": "RYT6JO",
+        "condition": "Light play",
+        "obtainedAt": 1752257983246,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -85268,6 +85268,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/55.png",
+        "code": "6NXED",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752229832445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "6FS33",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752229832445,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Pupitar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/38.png",
+        "code": "7YE6Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752229832445,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "HE8IJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752229832445,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Cleffa",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/31.png",
+        "code": "3W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752229832445,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

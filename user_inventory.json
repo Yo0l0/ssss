@@ -94641,6 +94641,71 @@
         "obtainedAt": 1752168496841,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/36.png",
+        "code": "D7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752258837985,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/55.png",
+        "code": "8C66J7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752258837985,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/51.png",
+        "code": "4C4JIG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752258837985,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "4FNK5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752258837985,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "8EOKVE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752258837985,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

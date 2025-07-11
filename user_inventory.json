@@ -107985,6 +107985,71 @@
         "obtainedAt": 1752249204166,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "PM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249253272,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "39V5W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249253272,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "7R2V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249253272,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "XWGP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249253272,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "X7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249253272,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

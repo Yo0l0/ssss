@@ -85333,6 +85333,14 @@
         "obtainedAt": 1752229832445,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "MSS"
       }
     ],
     "deck": [

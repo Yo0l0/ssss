@@ -110429,5 +110429,35 @@
         "isHolo": true
       }
     ]
+  },
+  "1376404261801427005": {
+    "cards": [
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/11.png",
+        "code": "ISX",
+        "condition": "Damaged",
+        "obtainedAt": 1752244782659,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Poliwrath",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/13.png",
+        "code": "51",
+        "condition": "Near Mint",
+        "obtainedAt": 1752266982736,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

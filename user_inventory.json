@@ -85354,6 +85354,19 @@
         "set": "Jungle",
         "image": "https://www.pikawiz.com/images/jungle/44.png",
         "code": "MSS"
+      },
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "72F",
+        "condition": "Mint",
+        "obtainedAt": 1752230682645,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

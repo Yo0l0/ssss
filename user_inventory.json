@@ -105067,6 +105067,19 @@
         "obtainedAt": 1752149088549,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Skarmory",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/13.png",
+        "code": "M7HED2",
+        "condition": "Light play",
+        "obtainedAt": 1752233082594,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

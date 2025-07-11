@@ -107660,6 +107660,71 @@
         "obtainedAt": 1752222961870,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Blaine's Growlithe",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/35.png",
+        "code": "CC79R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249006474,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Donphan",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/21.png",
+        "code": "FJ3W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249006474,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "SYUAO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249006474,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "Z4CJF3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249006474,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "V9IVEW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752249006474,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

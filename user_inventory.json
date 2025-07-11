@@ -81746,6 +81746,19 @@
         "obtainedAt": 1751946869376,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Wigglytuff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/16.png",
+        "code": "Y6K3FT",
+        "condition": "Near Mint",
+        "obtainedAt": 1752169782048,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

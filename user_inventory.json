@@ -108871,6 +108871,71 @@
         "obtainedAt": 1752269789886,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Xatu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/52.png",
+        "code": "I3GW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752279689151,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Onix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/69.png",
+        "code": "J5J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752279689151,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "87P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752279689151,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Croconaw",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/32.png",
+        "code": "5MMI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752279689151,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [J]",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/38.png",
+        "code": "SMUB8V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752279689151,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

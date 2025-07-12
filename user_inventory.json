@@ -111710,5 +111710,35 @@
         "isHolo": true
       }
     ]
+  },
+  "1383703607341486161": {
+    "cards": [
+      {
+        "name": "Erika's Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/3.png",
+        "code": "CHV4",
+        "condition": "Mint",
+        "obtainedAt": 1752341084993,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Espeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/4.png",
+        "code": "LB27",
+        "condition": "Near Mint",
+        "obtainedAt": 1752338384962,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

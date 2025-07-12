@@ -111691,6 +111691,19 @@
         "obtainedAt": 1752331883844,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Kabutops",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/9.png",
+        "code": "7O2",
+        "condition": "Light play",
+        "obtainedAt": 1752341984997,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

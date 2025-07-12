@@ -93638,6 +93638,32 @@
         "obtainedAt": 1752189308067,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "74",
+        "condition": "Mint",
+        "obtainedAt": 1752293383957,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/5.png",
+        "code": "4UQWH",
+        "condition": "Near Mint",
+        "obtainedAt": 1752275082771,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

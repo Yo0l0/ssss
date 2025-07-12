@@ -96531,6 +96531,32 @@
         "obtainedAt": 1751851777682,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Pidgeot",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/8.png",
+        "code": "WUU",
+        "condition": "Pristine",
+        "obtainedAt": 1752303284481,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Scizor",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/9.png",
+        "code": "TZ",
+        "condition": "Near Mint",
+        "obtainedAt": 1752305084508,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

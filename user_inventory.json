@@ -35364,6 +35364,19 @@
         "obtainedAt": 1752326912752,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mewtwo",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/10.png",
+        "code": "KZBR",
+        "condition": "Mint",
+        "obtainedAt": 1752334784894,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,
@@ -111593,6 +111606,19 @@
         "code": "ST8HYH",
         "condition": "Near Mint",
         "obtainedAt": 1752302084469,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Jolteon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/4.png",
+        "code": "XGW75F",
+        "condition": "Near Mint",
+        "obtainedAt": 1752335984947,
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true

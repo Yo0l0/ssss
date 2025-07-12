@@ -35221,6 +35221,19 @@
         "obtainedAt": 1752266353083,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Skarmory",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/13.png",
+        "code": "D4P",
+        "condition": "Pristine",
+        "obtainedAt": 1752284382853,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

@@ -109911,6 +109911,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "92XAA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752354023649,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "GPOJVS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752354023649,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "PB92WH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752354023649,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "3Y8W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752354023649,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgeot",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/24.png",
+        "code": "IQD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752354023649,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0

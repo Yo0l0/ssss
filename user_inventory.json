@@ -109391,6 +109391,19 @@
         "obtainedAt": 1752279689151,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Bellossom",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/3.png",
+        "code": "OJJH",
+        "condition": "Damaged",
+        "obtainedAt": 1752285282787,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

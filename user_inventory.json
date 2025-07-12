@@ -102670,6 +102670,19 @@
         "obtainedAt": 1752308797781,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Erika's Dragonair",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/4.png",
+        "code": "13F3X9",
+        "condition": "Mint",
+        "obtainedAt": 1752314985277,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

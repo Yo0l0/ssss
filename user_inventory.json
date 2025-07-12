@@ -109651,6 +109651,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Alakazam",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/1.png",
+        "code": "5IL",
+        "condition": "Damaged",
+        "obtainedAt": 1752311384647,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

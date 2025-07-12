@@ -110150,6 +110150,71 @@
         "obtainedAt": 1752261735154,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Onix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/69.png",
+        "code": "V09ZF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752345188446,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [L]",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/86.png",
+        "code": "MGEZP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752345188446,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Forretress",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/35.png",
+        "code": "Q47J0U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752345188446,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "QRAW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752345188446,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Tyranitar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/11.png",
+        "code": "8SXE2F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752345188446,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

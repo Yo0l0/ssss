@@ -111589,5 +111589,22 @@
         "isHolo": false
       }
     ]
+  },
+  "663254495945424916": {
+    "cards": [
+      {
+        "name": "Feraligatr",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/4.png",
+        "code": "TDIPNE",
+        "condition": "Light play",
+        "obtainedAt": 1752326984733,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -109976,6 +109976,14 @@
         "obtainedAt": 1752354023649,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/2.png",
+        "code": "M0Y"
       }
     ],
     "coins": 0

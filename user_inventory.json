@@ -95034,6 +95034,19 @@
         "obtainedAt": 1752264193187,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/8.png",
+        "code": "0H",
+        "condition": "Near Mint",
+        "obtainedAt": 1752277782774,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

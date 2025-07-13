@@ -113423,6 +113423,71 @@
         "obtainedAt": 1752416990244,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/73.png",
+        "code": "ESX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752428086867,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Venonat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/63.png",
+        "code": "V29V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752428086867,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "DUKQKR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752428086867,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/40.png",
+        "code": "QGUYD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752428086867,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Moltres",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/27.png",
+        "code": "WCC15F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752428086867,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

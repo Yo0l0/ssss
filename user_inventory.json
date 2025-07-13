@@ -112994,6 +112994,71 @@
         "obtainedAt": 1752409655950,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/43.png",
+        "code": "JZWYO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416990244,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Totodile",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/80.png",
+        "code": "DBR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416990244,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "P5B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416990244,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "5PMB1V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416990244,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ancient Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/54.png",
+        "code": "ZL61G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416990244,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   }

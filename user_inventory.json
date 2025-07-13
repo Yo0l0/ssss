@@ -113511,6 +113511,71 @@
         "obtainedAt": 1752374912551,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Kabuto",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/50.png",
+        "code": "01X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433424159,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/76.png",
+        "code": "V3P52",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433424159,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/33.png",
+        "code": "VTAC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433424159,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "7IR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433424159,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacruel",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/10.png",
+        "code": "90T21G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433424159,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

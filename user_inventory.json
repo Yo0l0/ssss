@@ -112711,5 +112711,22 @@
         "isHolo": true
       }
     ]
+  },
+  "199725481476489216": {
+    "cards": [
+      {
+        "name": "Dark Slowbro",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/12.png",
+        "code": "7YRVQC",
+        "condition": "Damaged",
+        "obtainedAt": 1752395985441,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

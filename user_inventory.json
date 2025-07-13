@@ -93344,6 +93344,71 @@
         "obtainedAt": 1752430360758,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/81.png",
+        "code": "2RL6WJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752441979460,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
+        "code": "PK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752441979460,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "WQZS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752441979460,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "PN2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752441979460,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "1E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752441979460,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

@@ -76548,6 +76548,71 @@
         "obtainedAt": 1752445969351,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Totodile",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/85.png",
+        "code": "PTYP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445997666,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/68.png",
+        "code": "65HOQR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445997666,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown P",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/58.png",
+        "code": "E7K8O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445997666,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Pupitar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/38.png",
+        "code": "34XM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445997666,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Ledian",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/24.png",
+        "code": "YM7SV6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445997666,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "lastDaily": 1749885608987

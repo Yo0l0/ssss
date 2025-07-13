@@ -103385,6 +103385,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Ariados",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/27.png",
+        "code": "CQHZQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752429062667,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/68.png",
+        "code": "VOGSN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752429062667,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "KXK49",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752429062667,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "5PQ9A0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752429062667,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "H0DMAU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752429062667,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

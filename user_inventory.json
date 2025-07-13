@@ -93136,6 +93136,71 @@
         "obtainedAt": 1752257652656,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Murkrow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/24.png",
+        "code": "A39BI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752430360758,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "QDFPQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752430360758,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Light Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/48.png",
+        "code": "K6EVK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752430360758,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "SY0Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752430360758,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "YXH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752430360758,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

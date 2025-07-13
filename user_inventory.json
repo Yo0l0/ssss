@@ -76418,6 +76418,71 @@
         "obtainedAt": 1752445832364,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Octillery",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/62.png",
+        "code": "ZHOA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445846342,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/78.png",
+        "code": "Z14",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445846342,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "RWMD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445846342,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/40.png",
+        "code": "VX5O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445846342,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Croconaw",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/32.png",
+        "code": "2ZRG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445846342,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "lastDaily": 1749885608987

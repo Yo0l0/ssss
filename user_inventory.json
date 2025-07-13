@@ -112727,6 +112727,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "PW6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416445450,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "K8HN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416445450,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "LF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416445450,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "D59",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416445450,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/29.png",
+        "code": "MLT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752416445450,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

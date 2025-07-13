@@ -75053,6 +75053,71 @@
         "obtainedAt": 1752445444876,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gligar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/67.png",
+        "code": "3L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445463951,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/61.png",
+        "code": "S7L8H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445463951,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "9HSA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445463951,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "EMN8SC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445463951,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Omastar",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/19.png",
+        "code": "ZHL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752445463952,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "lastDaily": 1749885608987

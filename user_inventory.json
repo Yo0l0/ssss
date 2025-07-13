@@ -93409,6 +93409,71 @@
         "obtainedAt": 1752441979460,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/66.png",
+        "code": "93HBBK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752444260683,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/78.png",
+        "code": "6JIAP0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752444260683,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "81Y9CH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752444260683,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/33.png",
+        "code": "GTNS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752444260683,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Slowbro",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/59.png",
+        "code": "P1W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752444260683,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -113269,6 +113269,71 @@
         "obtainedAt": 1752379016750,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/50.png",
+        "code": "FHX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752437531454,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Cubone",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/50.png",
+        "code": "FB2END",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752437531454,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "2NPZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752437531454,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "U7C1G0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752437531454,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Ninetales",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/50.png",
+        "code": "9A8M1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752437531454,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

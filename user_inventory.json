@@ -106167,6 +106167,19 @@
         "obtainedAt": 1752429062667,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/8.png",
+        "code": "56ZI",
+        "condition": "Mint",
+        "obtainedAt": 1752446086044,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

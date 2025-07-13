@@ -116376,6 +116376,71 @@
         "obtainedAt": 1752437531454,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/51.png",
+        "code": "ESKG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752448731551,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/56.png",
+        "code": "TG9P21",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752448731551,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "JY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752448731551,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "6JJAU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752448731551,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/19.png",
+        "code": "7MW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752448731551,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

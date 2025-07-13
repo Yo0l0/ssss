@@ -114209,5 +114209,22 @@
         "isHolo": true
       }
     ]
+  },
+  "885879801548795904": {
+    "cards": [
+      {
+        "name": "Mewtwo",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/10.png",
+        "code": "SE4",
+        "condition": "Mint",
+        "obtainedAt": 1752441586032,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

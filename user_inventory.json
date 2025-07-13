@@ -111905,6 +111905,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Phanpy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/43.png",
+        "code": "5033WV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752381332655,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "9LL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752381332655,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "8LUQP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752381332655,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "7F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752381332655,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Dragonair",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/22.png",
+        "code": "N2BP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752381332655,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

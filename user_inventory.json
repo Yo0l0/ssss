@@ -113826,6 +113826,71 @@
         "obtainedAt": 1752428086867,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Aipom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/26.png",
+        "code": "FCTE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433812041,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "NXJAYO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433812041,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "NDR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433812041,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "BW08VB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433812041,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/9.png",
+        "code": "BLFAMJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752433812041,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

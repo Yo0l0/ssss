@@ -113988,6 +113988,32 @@
         "set": "WOTC Promos",
         "image": "https://www.pikawiz.com/images/wotcpromo/2.png",
         "code": "M0Y"
+      },
+      {
+        "name": "Dark Gyarados",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/8.png",
+        "code": "9MZG",
+        "condition": "Mint",
+        "obtainedAt": 1752466186134,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Steelix",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/15.png",
+        "code": "D3EW9",
+        "condition": "Near Mint",
+        "obtainedAt": 1752466786165,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

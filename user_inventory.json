@@ -99556,6 +99556,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/4.png",
+        "code": "KZVA",
+        "condition": "Near Mint",
+        "obtainedAt": 1752509686682,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -108020,6 +108033,19 @@
         "code": "LR92",
         "condition": "Damaged",
         "obtainedAt": 1752373185379,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "U0G",
+        "condition": "Light play",
+        "obtainedAt": 1752509686609,
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true

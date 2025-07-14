@@ -119127,6 +119127,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/47.png",
+        "code": "LYPAUA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752511042552,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/61.png",
+        "code": "4IFJU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752511042552,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "E3RU45",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752511042552,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/45.png",
+        "code": "7PN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752511042552,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "DK9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752511042552,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

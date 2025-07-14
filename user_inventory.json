@@ -77081,6 +77081,19 @@
         "obtainedAt": 1752446270441,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "LIA",
+        "condition": "Mint",
+        "obtainedAt": 1752478486153,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749885608987

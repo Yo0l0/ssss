@@ -107924,6 +107924,32 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/9.png",
+        "code": "UI",
+        "condition": "Light play",
+        "obtainedAt": 1752478186155,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "MVI",
+        "condition": "Mint",
+        "obtainedAt": 1752498586209,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

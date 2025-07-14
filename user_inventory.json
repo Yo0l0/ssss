@@ -119667,6 +119667,19 @@
         "obtainedAt": 1752522352554,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Rocket's Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/12.png",
+        "code": "IE02U9",
+        "condition": "Damaged",
+        "obtainedAt": 1752533386898,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

@@ -116978,6 +116978,71 @@
         "obtainedAt": 1752460193377,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "FUO0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752464491348,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Jigglypuff",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/54.png",
+        "code": "00A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752464491348,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/42.png",
+        "code": "7QZ6G6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752464491348,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/42.png",
+        "code": "2G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752464491348,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/5.png",
+        "code": "EBCH87",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752464491348,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

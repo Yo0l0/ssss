@@ -118228,5 +118228,22 @@
         "isHolo": true
       }
     ]
+  },
+  "904347398766223370": {
+    "cards": [
+      {
+        "name": "Electrode",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/2.png",
+        "code": "X4D",
+        "condition": "Near Mint",
+        "obtainedAt": 1752458086085,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

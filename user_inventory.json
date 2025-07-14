@@ -115005,6 +115005,19 @@
         "obtainedAt": 1752502933647,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Blaine's Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/1.png",
+        "code": "BE0L",
+        "condition": "Mint",
+        "obtainedAt": 1752506986481,
+        "grade": null,
+        "gradeRequestedAt": 1752507166653,
+        "isHolo": true
       }
     ],
     "coins": 0

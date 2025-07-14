@@ -114849,6 +114849,71 @@
         "obtainedAt": 1752502256773,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "28",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502893655,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/43.png",
+        "code": "SBGB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502893655,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "1I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502893655,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "0S122",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502893655,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Kangaskhan",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/36.png",
+        "code": "JRP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502893655,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

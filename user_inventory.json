@@ -118222,6 +118222,71 @@
         "obtainedAt": 1752460200457,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "E3VVU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752494025049,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/56.png",
+        "code": "2YT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752494025049,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "BXY4F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752494025049,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/51.png",
+        "code": "QBM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752494025049,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowking",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/14.png",
+        "code": "FYZE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752494025049,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

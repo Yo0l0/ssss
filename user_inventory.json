@@ -77834,6 +77834,19 @@
         "obtainedAt": 1752453006452,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Steelix",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/15.png",
+        "code": "YQXV22",
+        "condition": "Pristine",
+        "obtainedAt": 1752485386447,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

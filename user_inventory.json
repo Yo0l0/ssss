@@ -114914,6 +114914,71 @@
         "obtainedAt": 1752502893655,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/30.png",
+        "code": "PI5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502933647,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Staryu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/89.png",
+        "code": "FR7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502933647,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "M66",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502933647,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "02ZJYF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502933647,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "ZBRCC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752502933647,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

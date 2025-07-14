@@ -119283,6 +119283,71 @@
         "obtainedAt": 1752511042552,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Sudowoodo",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/77.png",
+        "code": "G3UDLO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752521126957,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "3OKZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752521126957,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown C",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/57.png",
+        "code": "2DQ0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752521126957,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "EL1CT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752521126957,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/29.png",
+        "code": "XZA4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752521126957,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

@@ -115857,6 +115857,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "17SK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752456827155,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gligar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/59.png",
+        "code": "X9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752456827155,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Mankey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/67.png",
+        "code": "XSUQEL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752456827155,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "IBMECG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752456827155,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "69",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752456827155,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

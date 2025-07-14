@@ -119114,6 +119114,19 @@
         "obtainedAt": 1752506665641,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Light Azumarill",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/13.png",
+        "code": "VQ",
+        "condition": "Light play",
+        "obtainedAt": 1752510586615,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

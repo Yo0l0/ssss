@@ -117977,5 +117977,22 @@
         "isHolo": false
       }
     ]
+  },
+  "730187665747738714": {
+    "cards": [
+      {
+        "name": "Ditto",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/3.png",
+        "code": "TMNH",
+        "condition": "Light play",
+        "obtainedAt": 1752476986162,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

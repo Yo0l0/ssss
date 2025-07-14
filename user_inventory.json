@@ -119228,5 +119228,48 @@
         "isHolo": true
       }
     ]
+  },
+  "727581792827211806": {
+    "cards": [
+      {
+        "name": "Gyarados",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/6.png",
+        "code": "NAC",
+        "condition": "Damaged",
+        "obtainedAt": 1752515086741,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "Z8D",
+        "condition": "Damaged",
+        "obtainedAt": 1752488086446,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Wigglytuff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/16.png",
+        "code": "KQSEK1",
+        "condition": "Mint",
+        "obtainedAt": 1752489586172,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -111298,6 +111298,14 @@
         "obtainedAt": 1752083175652,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/65.png",
+        "code": "T43T1G"
       }
     ],
     "coins": 0

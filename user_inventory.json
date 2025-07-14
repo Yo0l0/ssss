@@ -115818,6 +115818,45 @@
         "obtainedAt": 1752381332655,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/28.png",
+        "code": "9VW",
+        "condition": "Mint",
+        "obtainedAt": 1752392385391,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Nidoqueen",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/7.png",
+        "code": "3GC",
+        "condition": "Light play",
+        "obtainedAt": 1752406185655,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/9.png",
+        "code": "O01",
+        "condition": "Mint",
+        "obtainedAt": 1752448786044,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -118510,6 +118510,71 @@
         "obtainedAt": 1752521408343,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Blaine's Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/60.png",
+        "code": "RKPSV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752522611345,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/30.png",
+        "code": "WFF0SY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752522611345,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorina",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/40.png",
+        "code": "CZ1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752522611345,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "BT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752522611345,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "JK4F6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752522611345,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

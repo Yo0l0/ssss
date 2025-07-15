@@ -120398,6 +120398,71 @@
         "obtainedAt": 1752596364559,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/56.png",
+        "code": "3FS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752597807840,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/40.png",
+        "code": "NM5DPQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752597807840,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Venonat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/96.png",
+        "code": "N0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752597807840,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown C",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/57.png",
+        "code": "TH2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752597807840,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Ancient Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/54.png",
+        "code": "Q5GRI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752597807840,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

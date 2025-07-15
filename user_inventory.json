@@ -111576,6 +111576,19 @@
         "obtainedAt": 1752236155055,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/83.png",
+        "code": "WS707O",
+        "condition": "Mint",
+        "obtainedAt": 1752584087489,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

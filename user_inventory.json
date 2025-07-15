@@ -115805,6 +115805,19 @@
         "obtainedAt": 1752559208660,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Hypno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/8.png",
+        "code": "7X",
+        "condition": "Mint",
+        "obtainedAt": 1752566387083,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

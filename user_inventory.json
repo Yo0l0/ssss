@@ -119648,6 +119648,71 @@
         "obtainedAt": 1752607196145,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/54.png",
+        "code": "ITB3SF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752610313754,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/49.png",
+        "code": "AHXQ60",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752610313754,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "800NM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752610313754,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Rhydon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/45.png",
+        "code": "3WO7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752610313754,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Smeargle",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/32.png",
+        "code": "I56",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752610313754,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

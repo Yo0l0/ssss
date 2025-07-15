@@ -115512,6 +115512,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Erika's Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/78.png",
+        "code": "AFURCJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752559208660,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/86.png",
+        "code": "UYPS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752559208660,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "5V32",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752559208660,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "B4AX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752559208660,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Snorlax",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/27.png",
+        "code": "6QIUW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752559208660,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

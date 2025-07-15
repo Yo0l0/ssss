@@ -115382,6 +115382,71 @@
         "obtainedAt": 1752520206384,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/64.png",
+        "code": "1J777",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752547351557,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Krabby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/51.png",
+        "code": "E6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752547351557,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "WTZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752547351557,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "CCQ6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752547351557,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "I5AG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752547351557,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "coins": 0

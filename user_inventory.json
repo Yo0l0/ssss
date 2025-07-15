@@ -121620,6 +121620,71 @@
         "obtainedAt": 1752620548678,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/66.png",
+        "code": "HJW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752621756640,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Xatu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/52.png",
+        "code": "JPIL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752621756640,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/43.png",
+        "code": "1X0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752621756640,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "JHV7D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752621756640,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwrath",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/31.png",
+        "code": "6ZJ9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752621756640,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

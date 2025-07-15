@@ -120298,6 +120298,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Sneasel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/25.png",
+        "code": "LP3G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752581072847,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slugma",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/82.png",
+        "code": "A2LSD1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752581072847,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "EZZ5G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752581072847,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "JN59",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752581072847,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "CFMP3Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752581072847,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

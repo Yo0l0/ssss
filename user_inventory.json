@@ -120892,6 +120892,71 @@
         "obtainedAt": 1752605841846,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Sunkern",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/78.png",
+        "code": "9VQAX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607097553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "4ZTV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607097553,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "B46",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607097553,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "KZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607097553,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Rhydon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/2.png",
+        "code": "11EGXB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607097553,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

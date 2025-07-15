@@ -121698,6 +121698,71 @@
         "obtainedAt": 1752621756640,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gligar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/67.png",
+        "code": "5F5MD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752623338473,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/65.png",
+        "code": "PO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752623338473,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "7A7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752623338473,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/33.png",
+        "code": "1AHXS9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752623338473,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Shining Raichu",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/111.png",
+        "code": "85E5G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752623338473,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

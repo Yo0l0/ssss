@@ -120704,6 +120704,71 @@
         "obtainedAt": 1752586311654,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Sneasel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/25.png",
+        "code": "UR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752590681949,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
+        "code": "A3Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752590681949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Pupitar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/38.png",
+        "code": "AS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752590681949,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Togepi",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/56.png",
+        "code": "2UO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752590681949,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "FO2U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752590681949,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

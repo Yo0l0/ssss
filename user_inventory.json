@@ -120268,5 +120268,22 @@
         "isHolo": true
       }
     ]
+  },
+  "893223699803693096": {
+    "cards": [
+      {
+        "name": "Erika's Clefable",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/3.png",
+        "code": "GUE",
+        "condition": "Damaged",
+        "obtainedAt": 1752564887078,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

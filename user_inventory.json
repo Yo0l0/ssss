@@ -119891,6 +119891,71 @@
         "obtainedAt": 1752584330453,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "MITOS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586274559,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [V]",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/89.png",
+        "code": "FZM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586274559,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Q",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/59.png",
+        "code": "PMS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586274559,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "H4IX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586274559,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/4.png",
+        "code": "OO2M4V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586274559,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

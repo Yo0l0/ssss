@@ -119570,6 +119570,71 @@
         "obtainedAt": 1752595461144,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "JR3IDI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607196145,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Jigglypuff",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/54.png",
+        "code": "50R954",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607196145,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rhydon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/45.png",
+        "code": "0NE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607196145,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "OR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607196145,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Eevee",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/11.png",
+        "code": "QY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752607196145,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

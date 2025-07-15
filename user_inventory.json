@@ -120574,6 +120574,71 @@
         "obtainedAt": 1752584338452,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/70.png",
+        "code": "NJX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586311654,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [T]",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/88.png",
+        "code": "FT19",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586311654,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "TN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586311654,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "PBC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586311654,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/10.png",
+        "code": "N39",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752586311654,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

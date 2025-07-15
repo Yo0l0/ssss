@@ -120251,5 +120251,22 @@
         "isHolo": false
       }
     ]
+  },
+  "455419706292174849": {
+    "cards": [
+      {
+        "name": "Clefairy",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/5.png",
+        "code": "XQ6P",
+        "condition": "Pristine",
+        "obtainedAt": 1752560387052,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

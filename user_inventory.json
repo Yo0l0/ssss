@@ -116104,6 +116104,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Chansey",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/3.png",
+        "code": "VQKZBV",
+        "condition": "Damaged",
+        "obtainedAt": 1752621887757,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

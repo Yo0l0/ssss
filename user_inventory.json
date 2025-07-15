@@ -107155,6 +107155,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Xatu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/52.png",
+        "code": "TG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752573468084,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Ledyba",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/63.png",
+        "code": "VWH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752573468084,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown P",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/58.png",
+        "code": "CFB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752573468084,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "CFF9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752573468084,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Snorlax",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/49.png",
+        "code": "VDFX5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752573468084,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

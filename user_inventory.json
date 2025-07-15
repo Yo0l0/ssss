@@ -119344,6 +119344,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Espeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/4.png",
+        "code": "K2P",
+        "condition": "Near Mint",
+        "obtainedAt": 1752569387093,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

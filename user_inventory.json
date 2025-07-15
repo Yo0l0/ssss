@@ -119826,6 +119826,71 @@
         "set": "WOTC Promos",
         "image": "https://www.pikawiz.com/images/wotcpromo/49.png",
         "code": "YVRZB"
+      },
+      {
+        "name": "Magnemite",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
+        "code": "Q62",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584330452,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "KX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584330452,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "CXDLJB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584330453,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "WY7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584330453,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/29.png",
+        "code": "097E3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584330453,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },
@@ -120379,6 +120444,71 @@
         "set": "Neo Genesis",
         "image": "https://www.pikawiz.com/images/neogenesis/82.png",
         "code": "ZN34HS"
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/59.png",
+        "code": "HQ09IG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584338452,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/83.png",
+        "code": "3X8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584338452,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Chansey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/31.png",
+        "code": "6ISAAK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584338452,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "SYLZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584338452,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "NDXHO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752584338452,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

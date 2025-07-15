@@ -121256,6 +121256,71 @@
         "obtainedAt": 1752610113552,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Tentacool",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/56.png",
+        "code": "XOW3F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752613537666,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "JWO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752613537666,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "G7Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752613537666,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown P",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/58.png",
+        "code": "BCYZVR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752613537666,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Seadra",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/9.png",
+        "code": "ZX2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752613537666,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

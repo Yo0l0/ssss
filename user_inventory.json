@@ -96728,6 +96728,19 @@
         "obtainedAt": 1752014155551,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "4C",
+        "condition": "Mint",
+        "obtainedAt": 1752599387675,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -119977,8 +119977,8 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/4.png",
         "code": "OO2M4V",
-        "grade": null,
-        "gradeRequestedAt": 1752586907548,
+        "grade": 8,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752586274559,
         "condition": "Near Mint",
         "isHolo": true

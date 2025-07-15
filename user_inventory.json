@@ -121555,6 +121555,71 @@
         "obtainedAt": 1752618507879,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/39.png",
+        "code": "BYN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752620548678,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/36.png",
+        "code": "G0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752620548678,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "3G2U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752620548678,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/33.png",
+        "code": "B8NE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752620548678,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "A4UD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752620548678,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

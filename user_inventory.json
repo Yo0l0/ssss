@@ -77938,6 +77938,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Misty's Seadra",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/9.png",
+        "code": "I37PEN",
+        "condition": "Near Mint",
+        "obtainedAt": 1752566087646,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

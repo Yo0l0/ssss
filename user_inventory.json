@@ -119753,6 +119753,71 @@
         "obtainedAt": 1752433812041,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Granbull",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/37.png",
+        "code": "01Y1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752580946053,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/50.png",
+        "code": "EMSBP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752580946053,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Venonat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/96.png",
+        "code": "DZYMH7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752580946053,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "38WDM1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752580946053,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Omanyte",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/37.png",
+        "code": "2NLZM8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752580946053,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ]
   },

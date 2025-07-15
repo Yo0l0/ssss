@@ -115499,6 +115499,19 @@
         "obtainedAt": 1752547351557,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Meganium",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/10.png",
+        "code": "5BP8T",
+        "condition": "Near Mint",
+        "obtainedAt": 1752558287044,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

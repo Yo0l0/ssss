@@ -122264,6 +122264,71 @@
         "obtainedAt": 1752610206043,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/53.png",
+        "code": "E1WI9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752612348453,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Growlithe",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/35.png",
+        "code": "B4VFR9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752612348453,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Fearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/36.png",
+        "code": "PM17",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752612348453,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown P",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/58.png",
+        "code": "EZ2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752612348453,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Chansey",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/3.png",
+        "code": "CHY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752612348453,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ],
     "deck": [

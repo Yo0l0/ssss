@@ -123155,6 +123155,71 @@
         "obtainedAt": 1752627605945,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/57.png",
+        "code": "15ASD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752627747351,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Krabby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/51.png",
+        "code": "U3F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752627747351,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "Z3278J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752627747351,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "ZGSQV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752627747351,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lapras",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/25.png",
+        "code": "WKNZM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752627747351,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

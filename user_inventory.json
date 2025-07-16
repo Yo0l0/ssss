@@ -122040,6 +122040,71 @@
         "obtainedAt": 1752686435354,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Misty's Staryu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/89.png",
+        "code": "6ELGT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692343262,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/66.png",
+        "code": "Y7N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692343262,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "5QP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692343262,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "MM8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692343262,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "2S8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692343262,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "deck": [

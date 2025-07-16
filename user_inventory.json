@@ -121104,6 +121104,71 @@
         "obtainedAt": 1752673135649,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/52.png",
+        "code": "7QJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676398381,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Phanpy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/43.png",
+        "code": "KAHI6W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676398381,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/33.png",
+        "code": "ZZ5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676398381,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "GLB91",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676398381,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "60RG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676398381,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

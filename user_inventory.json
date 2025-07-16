@@ -123015,6 +123015,71 @@
         "obtainedAt": 1752701245741,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Kabuto",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/50.png",
+        "code": "8E30P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701297462,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "OIIR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701297462,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "DVE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701297462,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "B5PQBY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701297462,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "PRWBZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701297462,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

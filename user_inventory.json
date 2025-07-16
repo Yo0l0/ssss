@@ -125202,6 +125202,71 @@
         "obtainedAt": 1752681663659,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "T086I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752682864846,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "G9JJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752682864846,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "NXR0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752682864846,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "8HHZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752682864846,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Snorlax",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/27.png",
+        "code": "62N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752682864847,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

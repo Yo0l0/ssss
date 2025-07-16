@@ -123629,6 +123629,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "R9R8Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752667557387,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Chikorita",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/53.png",
+        "code": "SDS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752667557387,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "MD7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752667557387,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "QS2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752667557387,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/5.png",
+        "code": "OZO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752667557387,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ]
   },

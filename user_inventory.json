@@ -122560,6 +122560,71 @@
         "obtainedAt": 1752698770448,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/33.png",
+        "code": "C1W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699359483,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "SEHA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699359483,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "8D4Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699359483,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "BDX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699359483,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/48.png",
+        "code": "90Y66",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699359483,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

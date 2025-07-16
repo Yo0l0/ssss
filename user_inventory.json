@@ -120220,6 +120220,71 @@
         "obtainedAt": 1752637174244,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Staryu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/89.png",
+        "code": "OOMG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637262949,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "YGP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637262949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "M9D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637262949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Spearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/52.png",
+        "code": "7QZ6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637262949,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Weepinbell",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/49.png",
+        "code": "ZO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637262949,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

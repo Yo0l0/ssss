@@ -121939,6 +121939,71 @@
         "obtainedAt": 1752624695445,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "YH5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752626212254,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Swinub",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/84.png",
+        "code": "U0I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752626212254,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "0WJGKQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752626212254,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "SCG5T4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752626212254,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/8.png",
+        "code": "NNQ3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752626212254,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

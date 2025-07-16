@@ -122950,6 +122950,71 @@
         "obtainedAt": 1752701201641,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "DV3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701245741,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Grimer",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/48.png",
+        "code": "0W7U4F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701245741,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "8V428",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701245741,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "LYEP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701245741,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "VMTWX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701245741,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

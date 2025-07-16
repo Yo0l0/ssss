@@ -123340,6 +123340,71 @@
         "obtainedAt": 1752702097951,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "6CG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752702429778,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "PX6GAI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752702429778,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Golem",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/36.png",
+        "code": "RBCAPI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752702429778,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "G90B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752702429778,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Moltres",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/27.png",
+        "code": "33MPMB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752702429778,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

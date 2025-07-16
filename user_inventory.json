@@ -123408,6 +123408,71 @@
         "obtainedAt": 1752661759155,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Nidorino",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/37.png",
+        "code": "Q2G2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752664145948,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "41NW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752664145948,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Forretress",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/35.png",
+        "code": "58X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752664145948,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "V21",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752664145948,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Clefable",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/17.png",
+        "code": "8ILU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752664145948,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

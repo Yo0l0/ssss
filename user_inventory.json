@@ -121624,6 +121624,71 @@
         "obtainedAt": 1752681164545,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/85.png",
+        "code": "KL88FH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681640663,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Lickitung",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/41.png",
+        "code": "MTBR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681640663,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "C70D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681640663,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "XFLX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681640663,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Onix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/21.png",
+        "code": "0SB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681640663,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [
@@ -125006,6 +125071,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752679799149,
         "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "6XE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681663659,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/50.png",
+        "code": "LYPU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681663659,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "8VI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681663659,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/48.png",
+        "code": "8FC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681663659,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "DAORN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681663659,
+        "condition": "Light Play",
         "isHolo": false
       }
     ]

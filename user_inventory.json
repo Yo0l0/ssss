@@ -120285,6 +120285,71 @@
         "obtainedAt": 1752637262949,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "OEP36",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637320353,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/36.png",
+        "code": "UP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637320353,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/43.png",
+        "code": "A8U9A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637320353,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/40.png",
+        "code": "IBT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637320353,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shining Celebi",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/106.png",
+        "code": "NWJ4PS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752637320353,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -125748,6 +125748,71 @@
         "obtainedAt": 1752688525084,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/49.png",
+        "code": "HJASGX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752690473154,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "JH81GH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752690473155,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "F32O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752690473155,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Pupitar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/38.png",
+        "code": "JE1X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752690473155,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Igglybuff",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/36.png",
+        "code": "9D5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752690473155,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

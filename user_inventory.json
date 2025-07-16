@@ -123210,6 +123210,71 @@
         "obtainedAt": 1752701509460,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "HHOE7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773248,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "D1T6J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773248,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "IW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773248,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "D49EFI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773248,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "HG78",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773249,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [
@@ -128927,6 +128992,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "HP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773688,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ledyba",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/63.png",
+        "code": "LSVC7M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773688,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "E7Q9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773688,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "6L4YO5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773688,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Pikachu",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/81.png",
+        "code": "WD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701773688,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

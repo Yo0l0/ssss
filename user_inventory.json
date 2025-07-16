@@ -125417,6 +125417,71 @@
         "obtainedAt": 1752661979267,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "FZ0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752672091570,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "2MZW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752672091570,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "MA873F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752672091570,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown C",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/57.png",
+        "code": "YO4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752672091570,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "1SX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752672091570,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

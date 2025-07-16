@@ -125332,6 +125332,71 @@
         "obtainedAt": 1752682864847,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/64.png",
+        "code": "5CFFZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752685193560,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "68",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752685193560,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "9KTZ6A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752685193560,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "8D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752685193560,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Kangaskhan",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/36.png",
+        "code": "MI9JJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752685193560,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

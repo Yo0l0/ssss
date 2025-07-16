@@ -128475,6 +128475,14 @@
         "obtainedAt": 1752695301271,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/39.png",
+        "code": "WCMQ"
       }
     ]
   }

@@ -122170,6 +122170,71 @@
         "obtainedAt": 1752692912941,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/22.png",
+        "code": "HW9WL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693249449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandslash",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/23.png",
+        "code": "KBQMW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693249449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "ABSOCK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693249449,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "W7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693249449,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "MU8S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693249449,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

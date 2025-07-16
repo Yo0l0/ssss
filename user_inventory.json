@@ -122885,6 +122885,71 @@
         "obtainedAt": 1752700705189,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "6T6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701201641,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "1L9PT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701201641,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "UF08",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701201641,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "7WR9FH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701201641,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "OTF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701201641,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

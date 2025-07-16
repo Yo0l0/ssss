@@ -123392,19 +123392,6 @@
         "obtainedAt": 1752702429778,
         "condition": "Mint",
         "isHolo": false
-      },
-      {
-        "name": "Moltres",
-        "rarity": "rare",
-        "type": "pokemon",
-        "set": "Fossil",
-        "image": "https://www.pikawiz.com/images/fossil/27.png",
-        "code": "33MPMB",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1752702429778,
-        "condition": "Mint",
-        "isHolo": false
       }
     ],
     "deck": [
@@ -127568,6 +127555,19 @@
         "obtainedAt": 1752702019054,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Moltres",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/27.png",
+        "code": "33MPMB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752702429778,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

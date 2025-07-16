@@ -116429,6 +116429,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Magnemite",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/53.png",
+        "code": "LOF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752656680051,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "RSCUEE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752656680051,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "YDG4NP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752656680051,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "9ZGC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752656680051,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "WJV0P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752656680051,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

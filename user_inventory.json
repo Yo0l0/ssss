@@ -121026,6 +121026,71 @@
         "obtainedAt": 1752672975159,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/70.png",
+        "code": "K6PZ7O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752673135649,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/88.png",
+        "code": "SCQL9D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752673135649,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "2U1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752673135649,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Forretress",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/35.png",
+        "code": "1RPZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752673135649,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Mankey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/67.png",
+        "code": "1239B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752673135649,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

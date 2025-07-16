@@ -125813,6 +125813,71 @@
         "obtainedAt": 1752690473155,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/57.png",
+        "code": "KI3BSP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692060449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "S17D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692060449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "IZOYDJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692060449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "FBP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692060449,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Mew",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/8.png",
+        "code": "06AM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752692060449,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

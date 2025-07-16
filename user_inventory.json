@@ -123616,6 +123616,19 @@
         "obtainedAt": 1752666268463,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Clefairy",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/5.png",
+        "code": "09D",
+        "condition": "Mint",
+        "obtainedAt": 1752666588256,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

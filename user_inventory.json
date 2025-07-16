@@ -123772,6 +123772,71 @@
         "obtainedAt": 1752667557387,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Girafarig",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/66.png",
+        "code": "HLM559",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668813778,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/73.png",
+        "code": "KCKNE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668813778,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Ninetales",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/50.png",
+        "code": "FSE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668813778,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "II58T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668813778,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charizard",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/21.png",
+        "code": "FKM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668813778,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

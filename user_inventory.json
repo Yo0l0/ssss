@@ -123418,6 +123418,71 @@
         "obtainedAt": 1752702429778,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "H00563",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752703976947,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "VHT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752703976947,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "4AF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752703976947,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "QJWNRS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752703976947,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Pikachu",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/81.png",
+        "code": "4UIG6K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752703976947,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

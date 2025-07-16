@@ -124728,6 +124728,71 @@
         "obtainedAt": 1752638277362,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Xatu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/52.png",
+        "code": "YRCV8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752661979267,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Venonat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/90.png",
+        "code": "M00",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752661979267,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/40.png",
+        "code": "4IXRH6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752661979267,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "JISZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752661979267,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Hitmonlee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/42.png",
+        "code": "2C1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752661979267,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

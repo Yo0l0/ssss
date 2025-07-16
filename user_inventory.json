@@ -121494,6 +121494,71 @@
         "obtainedAt": 1752679922150,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/48.png",
+        "code": "JN9I1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681055255,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Koffing",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/51.png",
+        "code": "1PM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681055255,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "YX2WF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681055255,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "VXL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681055255,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/33.png",
+        "code": "R9D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752681055255,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

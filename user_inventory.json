@@ -122168,8 +122168,8 @@
         "set": "Neo Destiny",
         "image": "https://www.pikawiz.com/images/neodestiny/3.png",
         "code": "CFL",
-        "grade": null,
-        "gradeRequestedAt": 1752640824748,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752603080958,
         "condition": "Pristine",
         "isHolo": true

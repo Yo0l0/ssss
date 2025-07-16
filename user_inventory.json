@@ -125553,6 +125553,71 @@
         "obtainedAt": 1752687178045,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/48.png",
+        "code": "AOI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688525084,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "UTNYY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688525084,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "N7KA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688525084,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Forretress",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/35.png",
+        "code": "OQ7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688525084,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Fearow",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/7.png",
+        "code": "DRAWL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688525084,
+        "condition": "Light Play",
+        "isHolo": true
       }
     ]
   },

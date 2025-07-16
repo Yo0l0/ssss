@@ -124214,6 +124214,71 @@
         "obtainedAt": 1752672894452,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/81.png",
+        "code": "LFSYO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752674098447,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Ledyba",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/63.png",
+        "code": "YTQCQI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752674098447,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/46.png",
+        "code": "I223",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752674098447,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "CJ86",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752674098447,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "77JEM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752674098447,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

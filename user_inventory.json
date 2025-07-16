@@ -122690,6 +122690,71 @@
         "obtainedAt": 1752699481948,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/65.png",
+        "code": "XFBFO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699583766,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/61.png",
+        "code": "4K761",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699583766,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Ninetales",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/50.png",
+        "code": "VR6Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699583766,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/55.png",
+        "code": "0HVR9A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699583766,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "HX74L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752699583766,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

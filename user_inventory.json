@@ -107714,6 +107714,19 @@
         "obtainedAt": 1752644468252,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Dark Dugtrio",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/6.png",
+        "code": "GXVK",
+        "condition": "Damaged",
+        "obtainedAt": 1752655788104,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

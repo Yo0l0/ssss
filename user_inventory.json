@@ -127159,6 +127159,71 @@
         "obtainedAt": 1752677643666,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Wooper",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/82.png",
+        "code": "QUTH9Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688660355,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/87.png",
+        "code": "I6E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688660355,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "ZN9V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688660355,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "UA7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688660355,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Venusaur",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/15.png",
+        "code": "ICS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752688660355,
+        "condition": "Mint",
+        "isHolo": true
       }
     ],
     "deck": [

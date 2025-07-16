@@ -125224,5 +125224,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1266242978263994451": {
+    "cards": [
+      {
+        "name": "Steelix",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/15.png",
+        "code": "5G15",
+        "condition": "Near Mint",
+        "obtainedAt": 1752664788244,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

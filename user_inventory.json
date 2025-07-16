@@ -124869,5 +124869,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1150442018225537115": {
+    "cards": [
+      {
+        "name": "Ninetales",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/12.png",
+        "code": "SJJQN",
+        "condition": "Pristine",
+        "obtainedAt": 1752650088081,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

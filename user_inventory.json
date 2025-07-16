@@ -124813,5 +124813,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1369050787140866230": {
+    "cards": [
+      {
+        "name": "Vaporeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/12.png",
+        "code": "ZJJXA",
+        "condition": "Mint",
+        "obtainedAt": 1752641687923,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

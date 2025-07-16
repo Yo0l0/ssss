@@ -121299,6 +121299,71 @@
         "obtainedAt": 1752676669341,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "3X19",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752677652242,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mantine",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/64.png",
+        "code": "5NNBF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752677652242,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "51I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752677652242,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "PVZ0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752677652242,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Jynx",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/31.png",
+        "code": "MX36",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752677652242,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

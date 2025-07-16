@@ -122290,6 +122290,71 @@
         "obtainedAt": 1752632968451,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "PO86T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752634579663,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/91.png",
+        "code": "0XC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752634579663,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "RMU6N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752634579663,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "KG50",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752634579663,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Victreebel",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/26.png",
+        "code": "8LIM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752634579663,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

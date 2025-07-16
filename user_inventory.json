@@ -107532,6 +107532,45 @@
         "obtainedAt": 1752573468084,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Skarmory",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/13.png",
+        "code": "ZLWAQH",
+        "condition": "Light play",
+        "obtainedAt": 1752587387445,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Tyranitar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/11.png",
+        "code": "Q6C1DU",
+        "condition": "Mint",
+        "obtainedAt": 1752604787626,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Weezing",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/14.png",
+        "code": "AM5R8",
+        "condition": "Damaged",
+        "obtainedAt": 1752616787729,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

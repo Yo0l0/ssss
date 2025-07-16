@@ -122300,6 +122300,71 @@
         "obtainedAt": 1752693307090,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "MKQQK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693465182,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/53.png",
+        "code": "U8MF6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693465183,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "GERI8U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693465183,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "QK94L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693465183,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Moltres",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/27.png",
+        "code": "U9OGQE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693465183,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

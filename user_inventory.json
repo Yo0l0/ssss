@@ -122235,6 +122235,71 @@
         "obtainedAt": 1752693249449,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "4PLT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693307090,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Grimer",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/48.png",
+        "code": "YCW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693307090,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "E45VC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693307090,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Cloyster",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/32.png",
+        "code": "UAHDO4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693307090,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "ROMR2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752693307090,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [
@@ -124755,8 +124820,8 @@
         "set": "Jungle",
         "image": "https://www.pikawiz.com/images/jungle/2.png",
         "code": "MFXZ8Q",
-        "grade": null,
-        "gradeRequestedAt": 1752688706544,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752640850944,
         "condition": "Pristine",
         "isHolo": true

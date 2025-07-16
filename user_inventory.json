@@ -120090,6 +120090,71 @@
         "obtainedAt": 1752635452958,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Omanyte",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/52.png",
+        "code": "9DF03",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752636231869,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "LHJX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752636231869,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "W3OLE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752636231869,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "2M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752636231869,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Aerodactyl",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/16.png",
+        "code": "2F4N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752636231869,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

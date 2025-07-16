@@ -116156,6 +116156,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Kabuto",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/50.png",
+        "code": "6B5ZL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752628846944,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slugma",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/82.png",
+        "code": "QTNT1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752628846944,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "X1I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752628846944,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "2GAWVV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752628846944,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "QHP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752628846944,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "coins": 0

@@ -123077,6 +123077,19 @@
         "obtainedAt": 1752612348453,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Dark Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/13.png",
+        "code": "Z1AD",
+        "condition": "Damaged",
+        "obtainedAt": 1752627587764,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

@@ -98084,6 +98084,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "KPT3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752709243844,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "138",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752709243844,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "N38A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752709243844,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/36.png",
+        "code": "58OZO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752709243844,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Rhydon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/2.png",
+        "code": "IE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752709243844,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

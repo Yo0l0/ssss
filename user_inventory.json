@@ -124156,6 +124156,71 @@
         "obtainedAt": 1752634810078,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mantine",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/74.png",
+        "code": "MZ5R5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752638277362,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Xatu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/52.png",
+        "code": "ZHR45B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752638277362,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "G3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752638277362,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "CHDT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752638277362,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Lanturn",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/23.png",
+        "code": "JAZJR5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752638277362,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

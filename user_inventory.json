@@ -121234,6 +121234,71 @@
         "obtainedAt": 1752676446441,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Grimer",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/57.png",
+        "code": "UHW8QM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676669341,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "Y62",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676669341,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "5EJ2U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676669341,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "747",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676669341,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "DHT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752676669341,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -120844,6 +120844,71 @@
         "obtainedAt": 1752666452764,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "R8F22",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668668152,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Quagsire",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/45.png",
+        "code": "V1RPLU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668668152,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "CA43UY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668668152,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Light Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/49.png",
+        "code": "WF3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668668152,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "8HBOX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752668668152,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

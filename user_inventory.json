@@ -77328,6 +77328,19 @@
         "obtainedAt": 1752604211856,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Lapras",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/10.png",
+        "code": "WULR",
+        "condition": "Near Mint",
+        "obtainedAt": 1752645587970,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749885608987

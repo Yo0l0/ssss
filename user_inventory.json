@@ -122953,6 +122953,71 @@
         "obtainedAt": 1752637389476,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Spinarak",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/75.png",
+        "code": "AYM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752640850944,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/64.png",
+        "code": "S15",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752640850944,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "Z9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752640850944,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "X3489",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752640850944,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Electrode",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/2.png",
+        "code": "MFXZ8Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752640850944,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ]
   },

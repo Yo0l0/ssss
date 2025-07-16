@@ -97863,6 +97863,19 @@
         "obtainedAt": 1752444234066,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Alakazam",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/1.png",
+        "code": "QAH7",
+        "condition": "Near Mint",
+        "obtainedAt": 1752674088335,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -121819,6 +121832,71 @@
         "obtainedAt": 1752682934955,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "7T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752686435354,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Phanpy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/76.png",
+        "code": "IHNAN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752686435354,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "4N5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752686435354,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "580G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752686435354,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lugia",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/9.png",
+        "code": "ZKE5T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752686435354,
+        "condition": "Mint",
+        "isHolo": true
       }
     ],
     "deck": [

@@ -97036,6 +97036,19 @@
         "obtainedAt": 1752444260683,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/5.png",
+        "code": "6T4VOR",
+        "condition": "Light play",
+        "obtainedAt": 1752539987091,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

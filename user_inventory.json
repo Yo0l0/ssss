@@ -120025,6 +120025,71 @@
         "obtainedAt": 1752633276453,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Pineco",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/77.png",
+        "code": "4IT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752635452958,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/67.png",
+        "code": "ZDYSH4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752635452958,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "KJD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752635452958,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "2FR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752635452958,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/42.png",
+        "code": "LA6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752635452958,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

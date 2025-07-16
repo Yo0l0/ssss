@@ -123080,6 +123080,71 @@
         "obtainedAt": 1752701297462,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Kabuto",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/50.png",
+        "code": "BSV27",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701338554,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Grimer",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/48.png",
+        "code": "YJH3LX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701338554,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "O9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701338554,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "WROD66",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701338554,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/4.png",
+        "code": "B9CCF9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752701338554,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ],
     "deck": [

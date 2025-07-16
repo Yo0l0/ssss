@@ -116273,6 +116273,19 @@
         "obtainedAt": 1752628846944,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ampharos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/1.png",
+        "code": "C5IID",
+        "condition": "Mint",
+        "obtainedAt": 1752643487985,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

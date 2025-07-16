@@ -127724,6 +127724,71 @@
         "obtainedAt": 1752703493273,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/56.png",
+        "code": "C9E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752704702972,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Onix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/56.png",
+        "code": "K9GC32",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752704702972,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "FW7M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752704702972,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Croconaw",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/32.png",
+        "code": "SEQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752704702972,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "96U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752704702972,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

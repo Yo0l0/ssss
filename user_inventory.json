@@ -123486,6 +123486,71 @@
         "obtainedAt": 1752664145948,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Erika's Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/47.png",
+        "code": "5YRJST",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752666268461,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Jigglypuff",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/54.png",
+        "code": "DKZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752666268463,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "V8I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752666268463,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "LY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752666268463,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "876",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752666268463,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

@@ -125818,6 +125818,71 @@
         "obtainedAt": 1752768119653,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/47.png",
+        "code": "9ZTV3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752769671155,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/53.png",
+        "code": "JLLHXZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752769671155,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "GVX314",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752769671155,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "6SZWNR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752769671155,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "2BH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752769671155,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -125376,6 +125376,71 @@
         "obtainedAt": 1752753075251,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "3QM0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752755494346,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "E1R1S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752755494346,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "HFZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752755494346,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Fearow",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/36.png",
+        "code": "IK1HA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752755494346,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pinsir",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/25.png",
+        "code": "U4MA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752755494346,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

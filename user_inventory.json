@@ -128088,6 +128088,71 @@
         "obtainedAt": 1752717933153,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "2SX5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719563945,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cyndaquil",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/56.png",
+        "code": "5IPK8P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719563945,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "WDBR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719563945,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "KC6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719563945,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/37.png",
+        "code": "01I5J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719563945,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

@@ -123717,6 +123717,71 @@
         "obtainedAt": 1752720260971,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/85.png",
+        "code": "JHDJA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720335150,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Lickitung",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/41.png",
+        "code": "VCCN0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720335150,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Mankey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/67.png",
+        "code": "KM7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720335150,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Onix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/21.png",
+        "code": "EC6I1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720335150,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Seaking",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/55.png",
+        "code": "716C7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720335150,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

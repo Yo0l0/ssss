@@ -107489,6 +107489,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Sabrina's Gengar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/14.png",
+        "code": "88KTW",
+        "condition": "Near Mint",
+        "obtainedAt": 1752747290352,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -117261,6 +117274,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Miltank",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/41.png",
+        "code": "RSD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752747517649,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Chikorita",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/53.png",
+        "code": "IWPW8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752747517649,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "9QF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752747517649,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "FR5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752747517649,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dugtrio",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/19.png",
+        "code": "VT3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752747517649,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "coins": 0

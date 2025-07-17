@@ -132420,6 +132420,71 @@
         "obtainedAt": 1752775710758,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/61.png",
+        "code": "W52HL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752777008644,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/66.png",
+        "code": "ISF2UM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752777008644,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "ZYX4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752777008644,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "JG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752777008644,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "OZJPX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752777008644,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

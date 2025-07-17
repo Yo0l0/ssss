@@ -97569,6 +97569,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "C9DX9K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752791050477,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Swinub",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/79.png",
+        "code": "F5KG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752791050477,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "ATJOO6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752791050477,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "1VFF0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752791050477,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Ursaring",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/21.png",
+        "code": "L3K3XC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752791050477,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

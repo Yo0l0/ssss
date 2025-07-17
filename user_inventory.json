@@ -131068,6 +131068,71 @@
         "obtainedAt": 1752758198263,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/52.png",
+        "code": "0TRD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759965962,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Octillery",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/62.png",
+        "code": "JT19",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759965962,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "OQWQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759965962,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "VYT2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759965962,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Hitmontop",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/37.png",
+        "code": "BMDE4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759965962,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

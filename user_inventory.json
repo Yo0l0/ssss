@@ -123587,6 +123587,71 @@
         "obtainedAt": 1752703976947,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Cleffa",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/20.png",
+        "code": "X9T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720159969,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "0OSEE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720159969,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Houndour",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/43.png",
+        "code": "T23OK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720159969,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "3NHOT9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720159969,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "0VLJM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752720159969,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

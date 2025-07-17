@@ -125506,6 +125506,71 @@
         "obtainedAt": 1752756068174,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "DTJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756129857,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/38.png",
+        "code": "7QE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756129857,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "AI9M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756129857,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "35D5F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756129857,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Dragonair",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/22.png",
+        "code": "1ON816",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756129857,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

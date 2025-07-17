@@ -126834,19 +126834,6 @@
         "isHolo": true
       },
       {
-        "name": "Dark Scizor",
-        "rarity": "holo",
-        "type": "pokemon",
-        "set": "Neo Destiny",
-        "image": "https://www.pikawiz.com/images/neodestiny/9.png",
-        "code": "D86PT",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1752782257542,
-        "condition": "Mint",
-        "isHolo": true
-      },
-      {
         "name": "Dark Espeon",
         "rarity": "holo",
         "type": "pokemon",
@@ -133317,6 +133304,19 @@
         "obtainedAt": 1752795365857,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Scizor",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/9.png",
+        "code": "D86PT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752782257542,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

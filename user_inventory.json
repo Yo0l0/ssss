@@ -83913,6 +83913,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Porygon2",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/8.png",
+        "code": "V3E",
+        "condition": "Damaged",
+        "obtainedAt": 1752720888646,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -124380,19 +124393,6 @@
         "obtainedAt": 1752724150845,
         "condition": "Light Play",
         "isHolo": false
-      },
-      {
-        "name": "Venomoth",
-        "rarity": "holo",
-        "type": "pokemon",
-        "set": "Jungle",
-        "image": "https://www.pikawiz.com/images/jungle/13.png",
-        "code": "W1A",
-        "grade": null,
-        "gradeRequestedAt": null,
-        "obtainedAt": 1752724150845,
-        "condition": "Near Mint",
-        "isHolo": true
       }
     ],
     "deck": [
@@ -131267,6 +131267,19 @@
         "obtainedAt": 1752560387052,
         "grade": null,
         "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Venomoth",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/13.png",
+        "code": "W1A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752724150845,
+        "condition": "Near Mint",
         "isHolo": true
       }
     ]

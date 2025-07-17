@@ -119325,6 +119325,32 @@
         "obtainedAt": 1752456827155,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Kangaskhan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/5.png",
+        "code": "XO3E2C",
+        "condition": "Pristine",
+        "obtainedAt": 1752522887341,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Azumarill",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/2.png",
+        "code": "BSNXM3",
+        "condition": "Near Mint",
+        "obtainedAt": 1752529186956,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

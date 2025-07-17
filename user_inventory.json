@@ -124185,6 +124185,71 @@
         "obtainedAt": 1752722092968,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "G4Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752722148942,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "KGQB8E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752722148942,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "Y5C",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752722148942,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "95KNX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752722148942,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lapras",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/10.png",
+        "code": "6J91",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752722148942,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ],
     "deck": [

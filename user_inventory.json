@@ -119403,6 +119403,79 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/47.png",
+        "code": "1VD"
+      },
+      {
+        "name": "Lt. Surge's Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/83.png",
+        "code": "PZ8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752742878453,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Jigglypuff",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/54.png",
+        "code": "RKF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752742878453,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/48.png",
+        "code": "VA0XGK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752742878453,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Chansey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/31.png",
+        "code": "RU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752742878453,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "O6HAIS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752742878453,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

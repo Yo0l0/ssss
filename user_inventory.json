@@ -125675,6 +125675,71 @@
         "obtainedAt": 1752759196351,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Bayleef",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/28.png",
+        "code": "R0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752765562353,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "51GY2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752765562353,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "QNE2LH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752765562353,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "YG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752765562353,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "GIFO66",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752765562353,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -125584,6 +125584,71 @@
         "obtainedAt": 1752756129857,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "JMVM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759196351,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/52.png",
+        "code": "1G3N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759196351,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "KLW12D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759196351,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "3JVTU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759196351,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "FPQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752759196351,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

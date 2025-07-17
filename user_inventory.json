@@ -132960,6 +132960,71 @@
         "obtainedAt": 1752751389440,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Aipom",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/26.png",
+        "code": "JOTEED",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752761801384,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Staryu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/89.png",
+        "code": "YA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752761801384,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "XI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752761801384,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "JS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752761801384,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Wigglytuff",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/32.png",
+        "code": "PU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752761801384,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

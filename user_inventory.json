@@ -130592,6 +130592,14 @@
         "obtainedAt": 1752754654951,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ho-oh",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/52.png",
+        "code": "M29"
       }
     ]
   },

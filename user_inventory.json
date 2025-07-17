@@ -117495,6 +117495,19 @@
         "obtainedAt": 1752747517649,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Venomoth",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/13.png",
+        "code": "R4MN0",
+        "condition": "Mint",
+        "obtainedAt": 1752760190655,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

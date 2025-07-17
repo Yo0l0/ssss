@@ -97556,6 +97556,19 @@
         "obtainedAt": 1752697973363,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Golbat",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/7.png",
+        "code": "FDCL1",
+        "condition": "Mint",
+        "obtainedAt": 1752788090881,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

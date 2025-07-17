@@ -130280,6 +130280,71 @@
         "obtainedAt": 1752748360368,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Blaine's Charmander",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/60.png",
+        "code": "BKHOE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752749906852,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Quagsire",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/45.png",
+        "code": "Y0SVR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752749906852,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "LULJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752749906852,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "63N0BC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752749906852,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Articuno",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/22.png",
+        "code": "GD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752749906852,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

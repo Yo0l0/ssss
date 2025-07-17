@@ -123988,6 +123988,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/47.png",
+        "code": "AE7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719709875,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Girafarig",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/58.png",
+        "code": "SWS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719709875,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "ITZNJV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719709875,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/55.png",
+        "code": "1LN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719709875,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/33.png",
+        "code": "KL4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752719709875,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

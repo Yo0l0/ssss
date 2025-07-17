@@ -135295,5 +135295,22 @@
         "code": "M8MI"
       }
     ]
+  },
+  "784063546056114196": {
+    "cards": [
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/15.png",
+        "code": "X9D",
+        "condition": "Damaged",
+        "obtainedAt": 1752783890852,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

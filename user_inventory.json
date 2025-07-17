@@ -135077,6 +135077,14 @@
         "obtainedAt": 1752781940160,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "M8MI"
       }
     ]
   }

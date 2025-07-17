@@ -130150,6 +130150,71 @@
         "obtainedAt": 1752724530852,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "IWF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748360368,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/82.png",
+        "code": "1EPF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748360368,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "4ZR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748360368,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "MRQRH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748360368,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "WXU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748360368,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

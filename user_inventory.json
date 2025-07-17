@@ -125194,6 +125194,71 @@
         "obtainedAt": 1752746125373,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Blaine's Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/63.png",
+        "code": "K03",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748526745,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/79.png",
+        "code": "JHV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748526745,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Jigglypuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/44.png",
+        "code": "LQTD8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748526745,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Chansey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/31.png",
+        "code": "ZBPG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748526745,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/83.png",
+        "code": "29",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752748526745,
+        "condition": "Mint",
+        "isHolo": true
       }
     ],
     "deck": [

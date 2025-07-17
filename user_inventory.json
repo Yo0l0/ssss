@@ -120035,6 +120035,32 @@
         "obtainedAt": 1752746542540,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "BT4KK",
+        "condition": "Light play",
+        "obtainedAt": 1752764990718,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Kabutops",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/9.png",
+        "code": "SYFVCZ",
+        "condition": "Damaged",
+        "obtainedAt": 1752770091440,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

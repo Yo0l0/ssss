@@ -124328,6 +124328,71 @@
         "obtainedAt": 1752722148942,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Mareep",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/65.png",
+        "code": "VZY5YC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752724150844,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "CPML4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752724150845,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "PHSC0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752724150845,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "QRM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752724150845,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Venomoth",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/13.png",
+        "code": "W1A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752724150845,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ],
     "deck": [

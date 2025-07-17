@@ -128182,8 +128182,8 @@
         "set": "Neo Genesis",
         "image": "https://www.pikawiz.com/images/neogenesis/6.png",
         "code": "GVDUCI",
-        "grade": null,
-        "gradeRequestedAt": 1752754770056,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752632968451,
         "condition": "Pristine",
         "isHolo": true

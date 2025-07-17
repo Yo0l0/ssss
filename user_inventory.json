@@ -129154,6 +129154,71 @@
         "obtainedAt": 1752719563945,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "EN9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752723323755,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/22.png",
+        "code": "371OON",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752723323755,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "3TN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752723323755,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "3GX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752723323755,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "TTK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752723323755,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

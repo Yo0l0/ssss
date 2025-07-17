@@ -125441,6 +125441,71 @@
         "obtainedAt": 1752755494346,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "Q5W7FY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756068174,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "SJAM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756068174,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "TSN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756068174,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Arbok",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/31.png",
+        "code": "NLHH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756068174,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Kabutops",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/24.png",
+        "code": "SEDO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752756068174,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "deck": [

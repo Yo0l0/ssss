@@ -125298,6 +125298,71 @@
         "obtainedAt": 1752748526745,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "VYSPS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752753075251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
+        "code": "RVCJNE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752753075251,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Tentacool",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/32.png",
+        "code": "X8DO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752753075251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "9BEN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752753075251,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Gengar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/14.png",
+        "code": "Q9MP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752753075251,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ],
     "deck": [

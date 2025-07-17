@@ -131887,6 +131887,71 @@
         "obtainedAt": 1752769629945,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/43.png",
+        "code": "PD1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752770884963,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Quagsire",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/45.png",
+        "code": "SAK1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752770884963,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "8HE0ZS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752770884963,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "L9MN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752770884963,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "LWX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752770884963,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

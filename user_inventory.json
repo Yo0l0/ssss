@@ -124055,6 +124055,71 @@
         "obtainedAt": 1752720492249,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "MZPJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752721054146,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "U6D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752721054146,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "YM0Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752721054146,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/39.png",
+        "code": "VT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752721054146,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Hypno",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/23.png",
+        "code": "V7ZVA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752721054146,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

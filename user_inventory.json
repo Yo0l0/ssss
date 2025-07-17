@@ -132042,6 +132042,71 @@
         "obtainedAt": 1752701773688,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/70.png",
+        "code": "OUDI5O",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752751389440,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Remoraid",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/80.png",
+        "code": "Q65",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752751389440,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "9Z9K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752751389440,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Venomoth",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/53.png",
+        "code": "JD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752751389440,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "58ZRV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752751389440,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

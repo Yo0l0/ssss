@@ -120061,6 +120061,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Brock's Rhyhorn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/22.png",
+        "code": "7P30",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752786144045,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/83.png",
+        "code": "Z20RT1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752786144045,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "78V6V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752786144045,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "1CC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752786144045,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flying Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/25.png",
+        "code": "FWGA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752786144045,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

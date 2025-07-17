@@ -126286,6 +126286,71 @@
         "obtainedAt": 1752773447550,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/41.png",
+        "code": "AS5Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752779341152,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Magnemite",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/60.png",
+        "code": "2KDSV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752779341152,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "1J5ORZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752779341152,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "W8L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752779341152,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "BC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752779341152,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

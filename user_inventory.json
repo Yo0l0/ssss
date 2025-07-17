@@ -90502,6 +90502,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "OLT1MV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752739418678,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/63.png",
+        "code": "GZGKUH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752739418678,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "OWBY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752739418678,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Forretress",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/35.png",
+        "code": "4LN752",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752739418678,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Vileplume",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/31.png",
+        "code": "5EHE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752739418678,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "deck": [

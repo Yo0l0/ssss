@@ -133018,6 +133018,71 @@
         "obtainedAt": 1752779250664,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Remoraid",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/80.png",
+        "code": "SE6UC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752787971860,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "UVJH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752787971860,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Omastar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/40.png",
+        "code": "M8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752787971860,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "4QD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752787971860,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/64.png",
+        "code": "SSP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752787971860,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

@@ -90723,6 +90723,19 @@
         "obtainedAt": 1752739418678,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Erika's Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/5.png",
+        "code": "XBOZF",
+        "condition": "Mint",
+        "obtainedAt": 1752793490911,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

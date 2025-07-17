@@ -124895,6 +124895,71 @@
         "obtainedAt": 1752725471260,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Slugma",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/82.png",
+        "code": "LE7PQM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752746125373,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/57.png",
+        "code": "70CJZ0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752746125373,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "XMWF4C",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752746125373,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "KAS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752746125373,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Gloom",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/37.png",
+        "code": "QXY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752746125373,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

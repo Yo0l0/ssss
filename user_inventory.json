@@ -130938,6 +130938,71 @@
         "obtainedAt": 1752756013880,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/67.png",
+        "code": "TK2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752758198263,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Furret",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/35.png",
+        "code": "EP9CO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752758198263,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Sandshrew",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/71.png",
+        "code": "Z7QQOE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752758198263,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "KX9V08",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752758198263,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Q",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/59.png",
+        "code": "O5E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752758198263,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -119476,6 +119476,19 @@
         "obtainedAt": 1752742878453,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/9.png",
+        "code": "AA8JH1",
+        "condition": "Near Mint",
+        "obtainedAt": 1752745190779,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

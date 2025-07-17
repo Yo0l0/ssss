@@ -135012,6 +135012,71 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/39.png",
         "code": "WCMQ"
+      },
+      {
+        "name": "Misty's Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/88.png",
+        "code": "Y8N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752781940160,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/54.png",
+        "code": "4C1VM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752781940160,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "IAR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752781940160,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "MEZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752781940160,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Shining Steelix",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/112.png",
+        "code": "FF07",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752781940160,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   }

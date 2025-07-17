@@ -124458,6 +124458,71 @@
         "obtainedAt": 1752724632855,
         "condition": "Light Play",
         "isHolo": true
+      },
+      {
+        "name": "Omanyte",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/52.png",
+        "code": "P5N45",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752725471260,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/78.png",
+        "code": "OMKPF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752725471260,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "KOKM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752725471260,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "0BAFFG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752725471260,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/1.png",
+        "code": "ABSSI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752725471260,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

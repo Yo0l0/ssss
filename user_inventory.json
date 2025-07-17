@@ -126442,6 +126442,71 @@
         "obtainedAt": 1752782068986,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Dark Porygon2",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/8.png",
+        "code": "4E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752782257541,
+        "condition": "Near Mint",
+        "isHolo": true
+      },
+      {
+        "name": "Dark Feraligatr",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/5.png",
+        "code": "ZME",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752782257542,
+        "condition": "Near Mint",
+        "isHolo": true
+      },
+      {
+        "name": "Dark Typhlosion",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/10.png",
+        "code": "IA1HOY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752782257542,
+        "condition": "Near Mint",
+        "isHolo": true
+      },
+      {
+        "name": "Dark Scizor",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/9.png",
+        "code": "D86PT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752782257542,
+        "condition": "Mint",
+        "isHolo": true
+      },
+      {
+        "name": "Dark Espeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/4.png",
+        "code": "VP9H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752782257542,
+        "condition": "Near Mint",
+        "isHolo": true
       }
     ],
     "deck": [

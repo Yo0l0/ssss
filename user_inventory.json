@@ -133889,6 +133889,71 @@
         "obtainedAt": 1752804418942,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "YD5E8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752806022258,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/48.png",
+        "code": "899QAQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752806022258,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Q",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/59.png",
+        "code": "MLV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752806022258,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flaaffy",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/34.png",
+        "code": "T30",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752806022258,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "E8J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752806022258,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -136146,6 +136146,71 @@
         "obtainedAt": 1752852789545,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Tentacool",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/56.png",
+        "code": "KVNCJ8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856427456,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/63.png",
+        "code": "D5BC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856427456,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/36.png",
+        "code": "V40LG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856427456,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "3U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856427456,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Butterfree",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/33.png",
+        "code": "WXAZOY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856427456,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

@@ -127417,6 +127417,19 @@
         "obtainedAt": 1752806548256,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/4.png",
+        "code": "ZDVINP",
+        "condition": "Light play",
+        "obtainedAt": 1752807291138,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

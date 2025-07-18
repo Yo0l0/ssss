@@ -139476,6 +139476,71 @@
         "obtainedAt": 1752866716857,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "N7GS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752873248546,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Miltank",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/41.png",
+        "code": "2K5TZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752873248546,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/55.png",
+        "code": "NK9ED",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752873248546,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "6P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752873248546,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "1ZA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752873248546,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -91087,6 +91087,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Poliwrath",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/13.png",
+        "code": "DJXFN",
+        "condition": "Damaged",
+        "obtainedAt": 1752839691635,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

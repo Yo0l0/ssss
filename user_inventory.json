@@ -127945,6 +127945,71 @@
         "obtainedAt": 1752808718151,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Wooper",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/82.png",
+        "code": "HPETQ2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752838699246,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sudowoodo",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/77.png",
+        "code": "MPXR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752838699246,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Chansey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/31.png",
+        "code": "Y3VZD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752838699246,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "8Y61",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752838699246,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "YCCO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752838699246,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

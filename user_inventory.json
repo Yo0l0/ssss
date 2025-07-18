@@ -133746,6 +133746,71 @@
         "obtainedAt": 1752800732945,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/50.png",
+        "code": "JQRK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804418942,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
+        "code": "0OPVYX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804418942,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Q",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/59.png",
+        "code": "IUFGV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804418942,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "IL3NS5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804418942,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "YBQTH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804418942,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

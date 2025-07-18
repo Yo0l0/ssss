@@ -136679,6 +136679,71 @@
         "obtainedAt": 1752861629185,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "QN023",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752863599758,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/76.png",
+        "code": "AMB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752863599758,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Slowbro",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/51.png",
+        "code": "6Y8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752863599758,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "FY1K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752863599758,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Marill",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/29.png",
+        "code": "FJ8J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752863599758,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

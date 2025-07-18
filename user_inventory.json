@@ -130179,8 +130179,8 @@
         "set": "WOTC Promos",
         "image": "https://www.pikawiz.com/images/wotcpromo/54.png",
         "code": "Q5GRI",
-        "grade": null,
-        "gradeRequestedAt": 1752848875745,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752597807840,
         "condition": "Pristine",
         "isHolo": false

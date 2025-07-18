@@ -98167,6 +98167,71 @@
         "obtainedAt": 1752791050477,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/53.png",
+        "code": "QGA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752868565667,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Magby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/23.png",
+        "code": "U9A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752868565667,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "TXB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752868565667,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Kingler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/38.png",
+        "code": "55KGE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752868565667,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pinsir",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/9.png",
+        "code": "4QHX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752868565667,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ]
   },

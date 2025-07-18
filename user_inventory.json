@@ -137316,6 +137316,71 @@
         "obtainedAt": 1752870535474,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Sandshrew",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/62.png",
+        "code": "4UK1HE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752872090251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Lickitung",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/41.png",
+        "code": "X2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752872090251,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Gastly",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/33.png",
+        "code": "M5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752872090251,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/34.png",
+        "code": "B8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752872090251,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "DW5K7H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752872090251,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

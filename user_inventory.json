@@ -129076,6 +129076,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/63.png",
+        "code": "JD2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866672640,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/70.png",
+        "code": "DFX9S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866672640,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggutor",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/35.png",
+        "code": "GLF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866672640,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "8U0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866672640,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pidgeotto",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/22.png",
+        "code": "9E9Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866672640,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

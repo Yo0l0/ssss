@@ -139008,6 +139008,71 @@
         "set": "Neo Genesis",
         "image": "https://www.pikawiz.com/images/neogenesis/53.png",
         "code": "Y0ZZ"
+      },
+      {
+        "name": "Erika's Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/43.png",
+        "code": "0HJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866716857,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Spearow",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/62.png",
+        "code": "X4BC63",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866716857,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "TZB0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866716857,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Jolteon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/38.png",
+        "code": "610",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866716857,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machamp",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/43.png",
+        "code": "O4KS0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866716857,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -68191,6 +68191,19 @@
         "obtainedAt": 1752748030476,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Vaporeon",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/12.png",
+        "code": "RTBT",
+        "condition": "Damaged",
+        "obtainedAt": 1752795290892,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

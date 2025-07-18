@@ -134773,6 +134773,71 @@
         "obtainedAt": 1752816534249,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Bulbasaur",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/44.png",
+        "code": "GS7LQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752818374059,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Cubone",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/50.png",
+        "code": "EQ71",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752818374059,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Houndour",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/43.png",
+        "code": "7T8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752818374059,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Houndour",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/43.png",
+        "code": "JG3GIW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752818374059,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "94TF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752818374059,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

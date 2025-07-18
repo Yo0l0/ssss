@@ -136419,6 +136419,71 @@
         "obtainedAt": 1752856427456,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Light Sunflora",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/72.png",
+        "code": "FK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752859007555,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Girafarig",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/58.png",
+        "code": "PZ6E5",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752859007555,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "26Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752859007555,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/73.png",
+        "code": "AMRTQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752859007555,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/2.png",
+        "code": "SEZ7K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752859007555,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

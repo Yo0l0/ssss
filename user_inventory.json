@@ -91074,6 +91074,19 @@
         "obtainedAt": 1752807899240,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Dark Ampharos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/1.png",
+        "code": "O13",
+        "condition": "Damaged",
+        "obtainedAt": 1752833691585,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

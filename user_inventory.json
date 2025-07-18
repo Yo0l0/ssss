@@ -120360,6 +120360,19 @@
         "obtainedAt": 1752786695346,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Togetic",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/16.png",
+        "code": "QRQ3",
+        "condition": "Pristine",
+        "obtainedAt": 1752798891009,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

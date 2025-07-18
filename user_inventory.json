@@ -91100,6 +91100,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Light Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/14.png",
+        "code": "P6A7",
+        "condition": "Damaged",
+        "obtainedAt": 1752852292450,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [
@@ -135872,6 +135885,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752851213759,
         "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "GT1F4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752852789545,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "8XG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752852789545,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Drowzee",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/91.png",
+        "code": "7G0HR8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752852789545,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tauros",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/47.png",
+        "code": "IO2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752852789545,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "DTC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752852789545,
+        "condition": "Mint",
         "isHolo": false
       }
     ]

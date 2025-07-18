@@ -136549,6 +136549,71 @@
         "obtainedAt": 1752859007555,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Poliwag",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/59.png",
+        "code": "9V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752861629185,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/79.png",
+        "code": "Y2N",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752861629185,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Vulpix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/65.png",
+        "code": "814",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752861629185,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "LFXL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752861629185,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Omanyte",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/37.png",
+        "code": "9MUP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752861629185,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

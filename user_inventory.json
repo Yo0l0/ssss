@@ -35637,6 +35637,19 @@
         "obtainedAt": 1752773170266,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Charizard",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/4.png",
+        "code": "W2M58",
+        "condition": "Damaged",
+        "obtainedAt": 1752851091787,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "currency": -600,

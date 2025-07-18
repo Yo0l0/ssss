@@ -138103,6 +138103,71 @@
         "obtainedAt": 1752801785542,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Tangela",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/65.png",
+        "code": "AA11U",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752854136853,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/87.png",
+        "code": "ALENJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752854136853,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Light Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/45.png",
+        "code": "Q00Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752854136853,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Weepinbell",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/48.png",
+        "code": "5OX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752854136853,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Venomoth",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/53.png",
+        "code": "FLO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752854136853,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -126988,6 +126988,71 @@
         "obtainedAt": 1752796789858,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "ZTBR6D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752797804054,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Zubat",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/57.png",
+        "code": "C4C5W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752797804054,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flaaffy",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/34.png",
+        "code": "Q5BWU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752797804054,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "F7T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752797804054,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Slowking",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/20.png",
+        "code": "SJ8G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752797804054,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

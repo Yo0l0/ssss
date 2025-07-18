@@ -136016,6 +136016,19 @@
         "obtainedAt": 1752724150845,
         "condition": "Near Mint",
         "isHolo": true
+      },
+      {
+        "name": "Lt. Surge's Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/8.png",
+        "code": "B9J9T",
+        "condition": "Mint",
+        "obtainedAt": 1752802491156,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

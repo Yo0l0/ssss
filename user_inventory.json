@@ -135132,6 +135132,71 @@
         "obtainedAt": 1752821454961,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Bulbasaur",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/44.png",
+        "code": "QIHMK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752822694745,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Caterpie",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/45.png",
+        "code": "XITVBK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752822694745,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Mankey",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/67.png",
+        "code": "IRG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752822694745,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Venomoth",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/53.png",
+        "code": "7JFLO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752822694745,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/10.png",
+        "code": "ZWTJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752822694745,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

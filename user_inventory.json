@@ -120880,6 +120880,14 @@
         "obtainedAt": 1752820822958,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Erika's Clefairy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/25.png",
+        "code": "L6T9"
       }
     ]
   },

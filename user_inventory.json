@@ -135404,6 +135404,19 @@
         "obtainedAt": 1752797758452,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Skarmory",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/13.png",
+        "code": "WGFO",
+        "condition": "Light play",
+        "obtainedAt": 1752799191022,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

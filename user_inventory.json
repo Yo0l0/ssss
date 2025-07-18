@@ -118262,6 +118262,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/53.png",
+        "code": "PXT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752819918652,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Flaaffy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/34.png",
+        "code": "CBP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752819918652,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "9C53BP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752819918652,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "E52",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752819918652,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/44.png",
+        "code": "5LENOK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752819918652,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "coins": 0

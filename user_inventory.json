@@ -135547,6 +135547,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/52.png",
+        "code": "OS4CTH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752801785542,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Phanpy",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/76.png",
+        "code": "2I6S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752801785542,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "E17Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752801785542,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "KRQ0Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752801785542,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Blastoise",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
+        "code": "V6X3SW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752801785542,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

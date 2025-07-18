@@ -133234,8 +133234,8 @@
         "set": "Fossil",
         "image": "https://www.pikawiz.com/images/fossil/23.png",
         "code": "CW3",
-        "grade": null,
-        "gradeRequestedAt": 1752863891945,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752687178045,
         "condition": "Pristine",
         "isHolo": false

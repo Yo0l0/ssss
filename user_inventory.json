@@ -137069,6 +137069,71 @@
         "obtainedAt": 1752863599758,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/53.png",
+        "code": "KRTTW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752867064069,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Croconaw",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/31.png",
+        "code": "LLIWGY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752867064069,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "1MQJ6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752867064069,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/45.png",
+        "code": "5ORP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752867064069,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Muk",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/41.png",
+        "code": "2PSJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752867064069,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

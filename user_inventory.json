@@ -127209,6 +127209,71 @@
         "obtainedAt": 1752797804054,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Oddish",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/63.png",
+        "code": "RBE8SA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804851555,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Mantine",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/74.png",
+        "code": "WWKJJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804851555,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "S0WUXO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804851556,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "ZRZD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804851556,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/40.png",
+        "code": "1J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752804851556,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

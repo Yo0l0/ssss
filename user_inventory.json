@@ -137846,5 +137846,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1330550524256321576": {
+    "cards": [
+      {
+        "name": "Misty's Seadra",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/9.png",
+        "code": "VLQ7",
+        "condition": "Mint",
+        "obtainedAt": 1752824092480,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

@@ -90931,6 +90931,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Cubone",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/50.png",
+        "code": "MCB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752807899240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lanturn",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/38.png",
+        "code": "N65XO6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752807899240,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "4PBYJI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752807899240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Croconaw",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/32.png",
+        "code": "BN",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752807899240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golbat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/34.png",
+        "code": "VMLTT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752807899240,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

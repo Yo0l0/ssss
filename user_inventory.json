@@ -110401,6 +110401,32 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Dark Slowbro",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/12.png",
+        "code": "491Z",
+        "condition": "Damaged",
+        "obtainedAt": 1752857992443,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Lt. Surge's Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/8.png",
+        "code": "G4IA2",
+        "condition": "Light play",
+        "obtainedAt": 1752837591622,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -129139,6 +129165,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "obtainedAt": 1752866672640,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/64.png",
+        "code": "OSQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866837246,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown [V]",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/89.png",
+        "code": "2X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866837246,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Croconaw",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/32.png",
+        "code": "SIFF2P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866837246,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "O4GN2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866837246,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "TT4BU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752866837246,
         "condition": "Near Mint",
         "isHolo": false
       }

@@ -128205,6 +128205,71 @@
         "obtainedAt": 1752839055643,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/91.png",
+        "code": "LW0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752848733449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Remoraid",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/80.png",
+        "code": "VBK6WL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752848733449,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dodrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/34.png",
+        "code": "JSCLV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752848733449,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "9W4ES",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752848733449,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Scizor",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/33.png",
+        "code": "GX1LDL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752848733449,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

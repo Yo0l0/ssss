@@ -128569,6 +128569,71 @@
         "obtainedAt": 1752853999443,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/55.png",
+        "code": "IG99Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856641778,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Togepi",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/51.png",
+        "code": "QPRK",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856641778,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Lt. Surge's Magnemite",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/50.png",
+        "code": "RJX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856641778,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Lickitung",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/38.png",
+        "code": "PJ9A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856641778,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ho-oh",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/52.png",
+        "code": "IXI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752856641778,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

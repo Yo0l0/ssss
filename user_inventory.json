@@ -121876,6 +121876,19 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/25.png",
         "code": "L6T9"
+      },
+      {
+        "name": "Hitmonlee",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/7.png",
+        "code": "C4MA4W",
+        "condition": "Light play",
+        "obtainedAt": 1752913192243,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

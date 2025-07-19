@@ -131372,6 +131372,71 @@
         "obtainedAt": 1752964089344,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Brock's Golem",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/20.png",
+        "code": "1SCZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752969347073,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/56.png",
+        "code": "MXDGD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752969347073,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Unown C",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/57.png",
+        "code": "XW4X6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752969347073,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/55.png",
+        "code": "S1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752969347073,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "9RUBO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752969347073,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -130337,6 +130337,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Koffing",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/51.png",
+        "code": "Q4HC3E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752939035240,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Sneasel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/25.png",
+        "code": "926P6E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752939035240,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown Z",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/60.png",
+        "code": "GDV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752939035240,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "DPH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752939035240,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Machamp",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/8.png",
+        "code": "G7FNF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752939035240,
+        "condition": "Pristine",
+        "isHolo": true
       }
     ],
     "deck": [

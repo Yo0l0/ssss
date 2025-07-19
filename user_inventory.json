@@ -72202,6 +72202,32 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Lt. Surge's Electabuzz",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/6.png",
+        "code": "2KL",
+        "condition": "Near Mint",
+        "obtainedAt": 1752870292054,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Pichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/12.png",
+        "code": "ATAR",
+        "condition": "Light play",
+        "obtainedAt": 1752880792050,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

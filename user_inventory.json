@@ -137576,6 +137576,71 @@
         "obtainedAt": 1752884469058,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Magmar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/40.png",
+        "code": "3JS3M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752887609845,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "W2E6Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752887609845,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sabrina's Abra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/90.png",
+        "code": "W0CJU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752887609845,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Tentacruel",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/44.png",
+        "code": "A212",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752887609845,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "3VUC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752887609845,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

@@ -130402,6 +130402,14 @@
         "obtainedAt": 1752939035240,
         "condition": "Pristine",
         "isHolo": true
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "SFFE"
       }
     ],
     "deck": [

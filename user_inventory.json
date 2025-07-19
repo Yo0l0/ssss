@@ -142017,5 +142017,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1264385626506006529": {
+    "cards": [
+      {
+        "name": "Vileplume",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/15.png",
+        "code": "NTX4Y",
+        "condition": "Near Mint",
+        "obtainedAt": 1752931794244,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

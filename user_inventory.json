@@ -131401,8 +131401,8 @@
         "set": "Gym Heroes",
         "image": "https://www.pikawiz.com/images/gymheroes/9.png",
         "code": "ZX2",
-        "grade": null,
-        "gradeRequestedAt": 1752872353750,
+        "grade": 9,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752613537666,
         "condition": "Mint",
         "isHolo": true

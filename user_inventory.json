@@ -137511,6 +137511,71 @@
         "obtainedAt": 1752872090251,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/61.png",
+        "code": "89R44",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752884469057,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Natu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/67.png",
+        "code": "3S8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752884469057,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Unown C",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/57.png",
+        "code": "07ZSI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752884469058,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Machoke",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/49.png",
+        "code": "UI4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752884469058,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/39.png",
+        "code": "F0YQEP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752884469058,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ]
   },

@@ -103520,6 +103520,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Light Togetic",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/15.png",
+        "code": "NF62U9",
+        "condition": "Mint",
+        "obtainedAt": 1752946797253,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

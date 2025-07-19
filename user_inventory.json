@@ -132155,8 +132155,8 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/8.png",
         "code": "NNQ3",
-        "grade": null,
-        "gradeRequestedAt": 1752887842956,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752626212254,
         "condition": "Mint",
         "isHolo": true
@@ -138069,6 +138069,71 @@
         "gradeRequestedAt": null,
         "obtainedAt": 1752891056955,
         "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "HIB2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752904424478,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Nidorino",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/37.png",
+        "code": "Q3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752904424478,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "JV7P",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752904424478,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "LSQ33",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752904424478,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/32.png",
+        "code": "73D6WD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752904424478,
+        "condition": "Pristine",
         "isHolo": false
       }
     ]

@@ -137654,6 +137654,19 @@
         "obtainedAt": 1752887609845,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Meganium",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/10.png",
+        "code": "SINFTT",
+        "condition": "Mint",
+        "obtainedAt": 1752887992145,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

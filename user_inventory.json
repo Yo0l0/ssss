@@ -131151,6 +131151,71 @@
         "obtainedAt": 1752960674674,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Krabby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/51.png",
+        "code": "YVIVFM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752960714540,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Ekans",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/46.png",
+        "code": "5CHE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752960714540,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Weezing",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/45.png",
+        "code": "SH85L",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752960714540,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "PLPZ64",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752960714540,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ditto",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/18.png",
+        "code": "4WI0C",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752960714540,
+        "condition": "Mint",
+        "isHolo": false
       }
     ],
     "deck": [

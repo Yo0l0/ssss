@@ -130324,6 +130324,19 @@
         "obtainedAt": 1752914058851,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "EOMS9",
+        "condition": "Mint",
+        "obtainedAt": 1752938995847,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

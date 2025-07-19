@@ -137667,6 +137667,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Wartortle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/42.png",
+        "code": "RSN4G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889402953,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shuckle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/72.png",
+        "code": "5L83X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889402953,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "E4Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889402953,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Marowak",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/39.png",
+        "code": "SE9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889402953,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pinsir",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/9.png",
+        "code": "II0OXS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889402953,
+        "condition": "Mint",
+        "isHolo": true
       }
     ]
   },

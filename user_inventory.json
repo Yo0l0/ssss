@@ -141291,8 +141291,8 @@
         "set": "Neo Destiny",
         "image": "https://www.pikawiz.com/images/neodestiny/4.png",
         "code": "361WO",
-        "grade": null,
-        "gradeRequestedAt": 1752900714958,
+        "grade": 8,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752895548953,
         "condition": "Near Mint",
         "isHolo": true

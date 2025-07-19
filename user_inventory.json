@@ -140171,6 +140171,71 @@
         "obtainedAt": 1752952352047,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/35.png",
+        "code": "DBFQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752961962375,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Geodude",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/47.png",
+        "code": "8CCO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752961962375,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "G9NB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752961962375,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/52.png",
+        "code": "RM2AEX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752961962375,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Rhydon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/45.png",
+        "code": "Q5Z77",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752961962375,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

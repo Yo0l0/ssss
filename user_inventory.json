@@ -91607,6 +91607,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Chikorita",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/53.png",
+        "code": "L9ID",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752924026285,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/36.png",
+        "code": "EAJ9NH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752924026285,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Persian",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/42.png",
+        "code": "OWR0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752924026285,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "02ENPQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752924026285,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Slowking",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/20.png",
+        "code": "YM3R8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752924026285,
+        "condition": "Pristine",
+        "isHolo": false
       }
     ],
     "deck": [

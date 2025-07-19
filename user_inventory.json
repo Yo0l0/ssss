@@ -131216,6 +131216,71 @@
         "obtainedAt": 1752960714540,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Goldeen",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/53.png",
+        "code": "97DYQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752962295247,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Gligar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/59.png",
+        "code": "UB4KT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752962295247,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Onix",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/21.png",
+        "code": "8KB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752962295247,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Wartortle",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/46.png",
+        "code": "FMXZK9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752962295247,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "DWN7X1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752962295247,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

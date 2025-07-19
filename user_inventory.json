@@ -133327,8 +133327,8 @@
         "code": "09D",
         "condition": "Mint",
         "obtainedAt": 1752666588256,
-        "grade": null,
-        "gradeRequestedAt": 1752905028425,
+        "grade": 9,
+        "gradeRequestedAt": null,
         "isHolo": true
       },
       {

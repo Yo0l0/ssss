@@ -118860,6 +118860,19 @@
         "obtainedAt": 1752819918652,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/15.png",
+        "code": "P3F",
+        "condition": "Light play",
+        "obtainedAt": 1752877492030,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "coins": 0

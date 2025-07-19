@@ -139892,6 +139892,71 @@
         "obtainedAt": 1752873248546,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/78.png",
+        "code": "2KFP",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889496740,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Krabby",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/51.png",
+        "code": "B91",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889496740,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/35.png",
+        "code": "9OBJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889496740,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/54.png",
+        "code": "W8PR4A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889496740,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dragonair",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/18.png",
+        "code": "MN66",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752889496740,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

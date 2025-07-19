@@ -139841,8 +139841,8 @@
         "set": "Base Set",
         "image": "https://www.pikawiz.com/images/baseset/1.png",
         "code": "0SF",
-        "grade": null,
-        "gradeRequestedAt": 1752936256250,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752934405447,
         "condition": "Pristine",
         "isHolo": true

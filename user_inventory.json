@@ -104135,6 +104135,71 @@
         "obtainedAt": 1751919896487,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/65.png",
+        "code": "ZDHBD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753040537756,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Blaine's Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/63.png",
+        "code": "WNC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753040537756,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/33.png",
+        "code": "W8PO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753040537756,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "TEQ5Z7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753040537756,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Wigglytuff",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/54.png",
+        "code": "Z6T6G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753040537756,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

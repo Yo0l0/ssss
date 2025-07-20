@@ -144871,5 +144871,22 @@
         "isHolo": true
       }
     ]
+  },
+  "482715280196239360": {
+    "cards": [
+      {
+        "name": "Kingdra",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/8.png",
+        "code": "FAZ",
+        "condition": "Light play",
+        "obtainedAt": 1753020001015,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

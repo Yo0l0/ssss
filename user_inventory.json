@@ -132347,6 +132347,71 @@
         "obtainedAt": 1753036462440,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Sunkern",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/78.png",
+        "code": "15EYH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753042380953,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/69.png",
+        "code": "W5F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753042380953,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Pupitar",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/38.png",
+        "code": "NUX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753042380953,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "6Q061",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753042380953,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Alakazam",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/18.png",
+        "code": "0TWY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753042380953,
+        "condition": "Damaged",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -127914,8 +127914,8 @@
         "set": "Fossil",
         "image": "https://www.pikawiz.com/images/fossil/5.png",
         "code": "CNNSO",
-        "grade": null,
-        "gradeRequestedAt": 1752959704244,
+        "grade": 7,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752724632855,
         "condition": "Light Play",
         "isHolo": true

@@ -144408,5 +144408,74 @@
         "isHolo": true
       }
     ]
+  },
+  "1019281028365426789": {
+    "cards": [
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "JJQX1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752993891470,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dratini",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/53.png",
+        "code": "GW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752993891470,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Heracross",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/41.png",
+        "code": "DG5D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752993891470,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Brock's Zubat",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/24.png",
+        "code": "D89HLD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752993891470,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Vaporeon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/45.png",
+        "code": "UME",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752993891470,
+        "condition": "Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

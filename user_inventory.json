@@ -139830,8 +139830,8 @@
         "code": "SINFTT",
         "condition": "Mint",
         "obtainedAt": 1752887992145,
-        "grade": null,
-        "gradeRequestedAt": 1752982098266,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "isHolo": true
       },
       {

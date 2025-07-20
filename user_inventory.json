@@ -140691,6 +140691,71 @@
         "obtainedAt": 1752973701747,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Misty's Cloyster",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/29.png",
+        "code": "ODHCWY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752981800946,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "HHTI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752981800946,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Poliwhirl",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/53.png",
+        "code": "GAF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752981800946,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "JO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752981800946,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Team Rocket's Meowth",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/18.png",
+        "code": "AOHT6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1752981800946,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

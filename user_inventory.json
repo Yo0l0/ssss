@@ -145672,5 +145672,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1345383566254669916": {
+    "cards": [
+      {
+        "name": "Pichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/12.png",
+        "code": "C3OI",
+        "condition": "Near Mint",
+        "obtainedAt": 1753032301063,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

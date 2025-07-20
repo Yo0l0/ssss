@@ -132425,6 +132425,71 @@
         "obtainedAt": 1753042380953,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Elekid",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/22.png",
+        "code": "OCVFFG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753051737675,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Granbull",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/37.png",
+        "code": "6PAWEA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753051737675,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Scyther",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/55.png",
+        "code": "ORT9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753051737675,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "D3W5B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753051737675,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/27.png",
+        "code": "0PL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753051737675,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

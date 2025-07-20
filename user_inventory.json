@@ -131723,6 +131723,19 @@
         "obtainedAt": 1752989482663,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Blastoise",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/2.png",
+        "code": "AVY",
+        "condition": "Near Mint",
+        "obtainedAt": 1752984901146,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [
@@ -141003,19 +141016,6 @@
         "obtainedAt": 1752983467554,
         "condition": "Light Play",
         "isHolo": false
-      },
-      {
-        "name": "Blastoise",
-        "rarity": "holo",
-        "type": "pokemon",
-        "set": "Base Set",
-        "image": "https://www.pikawiz.com/images/baseset/2.png",
-        "code": "AVY",
-        "condition": "Near Mint",
-        "obtainedAt": 1752984901146,
-        "grade": null,
-        "gradeRequestedAt": null,
-        "isHolo": true
       },
       {
         "name": "Misty's Horsea",

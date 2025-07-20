@@ -144854,5 +144854,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1341717393256349737": {
+    "cards": [
+      {
+        "name": "Jumpluff",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/7.png",
+        "code": "MAB6TD",
+        "condition": "Damaged",
+        "obtainedAt": 1753025701187,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

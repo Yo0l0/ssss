@@ -88064,6 +88064,19 @@
         "obtainedAt": 1752808789963,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Heracross",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/6.png",
+        "code": "T1OY",
+        "condition": "Damaged",
+        "obtainedAt": 1752959398443,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

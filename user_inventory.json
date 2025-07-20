@@ -145421,5 +145421,22 @@
         "isHolo": true
       }
     ]
+  },
+  "880018342566592563": {
+    "cards": [
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "4E88I",
+        "condition": "Light play",
+        "obtainedAt": 1753034701049,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

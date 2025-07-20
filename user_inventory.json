@@ -135114,8 +135114,8 @@
         "set": "Team Rocket",
         "image": "https://www.pikawiz.com/images/teamrocket/3.png",
         "code": "00",
-        "grade": null,
-        "gradeRequestedAt": 1752989698274,
+        "grade": 10,
+        "gradeRequestedAt": null,
         "obtainedAt": 1752670200950,
         "condition": "Mint",
         "isHolo": true

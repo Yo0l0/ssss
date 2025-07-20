@@ -131905,6 +131905,71 @@
         "obtainedAt": 1753017616359,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Meowth",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/62.png",
+        "code": "B1K",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753025387553,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Nidoran♀",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/57.png",
+        "code": "YAY9KM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753025387553,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "AQSC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753025387553,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Forretress",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/35.png",
+        "code": "TC1ALW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753025387553,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Blastoise",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/20.png",
+        "code": "PYD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753025387553,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ],
     "deck": [

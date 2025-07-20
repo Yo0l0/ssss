@@ -91906,6 +91906,19 @@
         "obtainedAt": 1752924026285,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Moltres",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/12.png",
+        "code": "O5PM",
+        "condition": "Near Mint",
+        "obtainedAt": 1753023001759,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

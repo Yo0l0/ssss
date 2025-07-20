@@ -97199,6 +97199,32 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Hitmonchan",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/7.png",
+        "code": "7C9BE2",
+        "condition": "Damaged",
+        "obtainedAt": 1753026901044,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Alakazam",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/1.png",
+        "code": "AVQ",
+        "condition": "Near Mint",
+        "obtainedAt": 1753017001047,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [
@@ -103894,6 +103920,19 @@
         "code": "NF62U9",
         "condition": "Mint",
         "obtainedAt": 1752946797253,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Dark Hypno",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/9.png",
+        "code": "VLX",
+        "condition": "Mint",
+        "obtainedAt": 1753034401046,
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true

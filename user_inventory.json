@@ -145008,6 +145008,19 @@
         "obtainedAt": 1752993891470,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mr. Mime",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/6.png",
+        "code": "5E994B",
+        "condition": "Near Mint",
+        "obtainedAt": 1753031701054,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

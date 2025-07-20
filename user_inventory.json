@@ -132204,6 +132204,71 @@
         "obtainedAt": 1753035241667,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Gligar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/67.png",
+        "code": "R8NMHY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753036462440,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "GU22",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753036462440,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Light Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/46.png",
+        "code": "R7H9Z",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753036462440,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Erika's Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/42.png",
+        "code": "XI9X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753036462440,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shining Kabutops",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/108.png",
+        "code": "EJ1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753036462440,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

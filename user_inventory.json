@@ -68555,6 +68555,19 @@
         "obtainedAt": 1752983277467,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Slowbro",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/12.png",
+        "code": "M4O3",
+        "condition": "Mint",
+        "obtainedAt": 1753050602044,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "lastDaily": 1749972090690,

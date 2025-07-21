@@ -132698,6 +132698,71 @@
         "obtainedAt": 1753069646745,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Horsea",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/49.png",
+        "code": "B8JWMM",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069756551,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shellder",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/54.png",
+        "code": "8O2RMF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069756551,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "KJIM9",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069756551,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "I9BQS2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069756551,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Raichu",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/29.png",
+        "code": "7AC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069756551,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

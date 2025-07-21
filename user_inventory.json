@@ -143260,6 +143260,71 @@
         "obtainedAt": 1753097996943,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/64.png",
+        "code": "LDD2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753100601374,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/60.png",
+        "code": "8QJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753100601374,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "Z81G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753100601374,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "50Q1A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753100601374,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seadra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/42.png",
+        "code": "MMUA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753100601374,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

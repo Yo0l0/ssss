@@ -139049,7 +139049,7 @@
         "image": "https://www.pikawiz.com/images/neodestiny/9.png",
         "code": "D86PT",
         "grade": null,
-        "gradeRequestedAt": null,
+        "gradeRequestedAt": 1753069256962,
         "obtainedAt": 1752782257542,
         "condition": "Mint",
         "isHolo": true

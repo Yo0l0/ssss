@@ -142472,6 +142472,71 @@
         "obtainedAt": 1753067722059,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Exeggcute",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/64.png",
+        "code": "UEHU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069113055,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "ID5P6G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069113055,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Primeape",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/43.png",
+        "code": "X1E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069113055,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Psyduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/54.png",
+        "code": "O2B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069113055,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Articuno",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/48.png",
+        "code": "4HA56Y",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753069113055,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

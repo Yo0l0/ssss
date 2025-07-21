@@ -145845,5 +145845,74 @@
         "isHolo": true
       }
     ]
+  },
+  "645890502423609345": {
+    "cards": [
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/68.png",
+        "code": "YEWT1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753066902667,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Mareep",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/65.png",
+        "code": "RSSETF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753066902667,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Rapidash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/44.png",
+        "code": "S6898",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753066902667,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "JGJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753066902667,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/20.png",
+        "code": "J8OJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753066902667,
+        "condition": "Near Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

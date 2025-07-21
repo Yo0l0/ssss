@@ -133114,6 +133114,14 @@
         "obtainedAt": 1753069929749,
         "condition": "Pristine",
         "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "4HQCWO"
       }
     ],
     "deck": [

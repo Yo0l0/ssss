@@ -102457,6 +102457,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/16.png",
+        "code": "NHZLW",
+        "condition": "Damaged",
+        "obtainedAt": 1753057801345,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ],
     "deck": [

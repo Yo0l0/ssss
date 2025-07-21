@@ -133136,6 +133136,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Raichu",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/14.png",
+        "code": "5TEITL",
+        "condition": "Near Mint",
+        "obtainedAt": 1753057801446,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },
@@ -145750,6 +145763,19 @@
         "code": "MAB6TD",
         "condition": "Damaged",
         "obtainedAt": 1753025701187,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Poliwrath",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/13.png",
+        "code": "GYO1JG",
+        "condition": "Near Mint",
+        "obtainedAt": 1753066801455,
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true

@@ -133200,6 +133200,71 @@
         "obtainedAt": 1753091876051,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Blaine's Growlithe",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/35.png",
+        "code": "WHZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753097768864,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Bellsprout",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/49.png",
+        "code": "JO80A",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753097768864,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "V6DC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753097768864,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "A96",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753097768864,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "00H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753097768864,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ],
     "deck": [

@@ -142225,6 +142225,71 @@
         "obtainedAt": 1753033324878,
         "condition": "Damaged",
         "isHolo": false
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/81.png",
+        "code": "CVR7ZA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753064812566,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/58.png",
+        "code": "3QY",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753064812567,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Ninetales",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/50.png",
+        "code": "T3H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753064812567,
+        "condition": "Damaged",
+        "isHolo": false
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "ZUGG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753064812567,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "HSKYRF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753064812567,
+        "condition": "Mint",
+        "isHolo": false
       }
     ]
   },

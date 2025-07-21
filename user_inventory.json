@@ -143325,6 +143325,71 @@
         "obtainedAt": 1753100601374,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Mankey",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/55.png",
+        "code": "CW",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753101858550,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Slowpoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/55.png",
+        "code": "0U9LVV",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753101858550,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Quilava",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/39.png",
+        "code": "YX1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753101858550,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Light Golduck",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/47.png",
+        "code": "9MLZ3R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753101858550,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Omanyte",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/37.png",
+        "code": "EZDFS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1753101858550,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

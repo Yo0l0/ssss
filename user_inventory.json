@@ -1,0 +1,892 @@
+{
+  "623660292060217394": {
+    "cards": [
+      {
+        "name": "Bulbasaur",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/44.png",
+        "code": "Z3ZSPS",
+        "grade": 9,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/54.png",
+        "code": "SKONP8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "GPQZ6W",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "NUCAWJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "J42ABU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Caterpie",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/45.png",
+        "code": "KNL5D6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/52.png",
+        "code": "0OBAGF",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Jynx",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/31.png",
+        "code": "X2DIZ2",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "YDLOFU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "JNP6JH",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "6T624F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Ponyta",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/60.png",
+        "code": "HBKPY4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "LWHLSU",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "E8MY45",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "UGXXKL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Raticate",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/40.png",
+        "code": "918BZJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/35.png",
+        "code": "3ECUNT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "WJTR8R",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Kadabra",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/32.png",
+        "code": "VN78R1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Charmeleon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/24.png",
+        "code": "96J11X",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "SVLZEE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/35.png",
+        "code": "V6JZ7I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "NDAW9V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/18.png",
+        "code": "FBDA01",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "5JIA50",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "04CWR4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Bulbasaur",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/44.png",
+        "code": "31CU36",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "HJOS5V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Beedrill",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/17.png",
+        "code": "EFG19S",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Pidgeotto",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/22.png",
+        "code": "JVB84V",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "LAMJMD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "WY8B82",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Jynx",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/31.png",
+        "code": "NWO662",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "5MO78Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "Q3PZJA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Porygon",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/39.png",
+        "code": "E33M5G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Nidorino",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/37.png",
+        "code": "WQQS4G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "GGXG3E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "TJRT28",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "SKZSLS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "5ZBB0D",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Nidoran♂",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/55.png",
+        "code": "S4P5M1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "NS5160",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "3TV5C7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Beedrill",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/17.png",
+        "code": "O2PMXT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "ELO8QI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Diglett",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/47.png",
+        "code": "AMYTIO",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dewgong",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/25.png",
+        "code": "NPLACG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "YE9KU8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "R7J1KS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "P5AI6B",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Magikarp",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/35.png",
+        "code": "A3QK4E",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "AP5MY7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/18.png",
+        "code": "3LP3U0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Growlithe",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/28.png",
+        "code": "E41H25",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Doduo",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/48.png",
+        "code": "518ZXQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Abra",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/43.png",
+        "code": "OW8U68",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Jynx",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/31.png",
+        "code": "XO4CZ0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "JW65YB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "920EEA",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Bulbasaur",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/44.png",
+        "code": "5PF0IS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Vulpix",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/67.png",
+        "code": "MSDQVL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "GOZXUX",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dugtrio",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/19.png",
+        "code": "DVFVQR",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Pidgeotto",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/22.png",
+        "code": "MSKSZJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Machop",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/52.png",
+        "code": "XRT75G",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Starmie",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/64.png",
+        "code": "ENZOFT",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "LFASP8",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Pidgeotto",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/22.png",
+        "code": "1WRT61",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dratini",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/26.png",
+        "code": "PPX9IS",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Poliwhirl",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/38.png",
+        "code": "79VT0T",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Kakuna",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/33.png",
+        "code": "OBKAH6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Jynx",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/31.png",
+        "code": "B0DPC7",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Dragonair",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/18.png",
+        "code": "2U2YNC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "LYJYRZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Voltorb",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/66.png",
+        "code": "0UPA52",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "LTDEG3",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Arcanine",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/23.png",
+        "code": "F10RL6",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Jynx",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/31.png",
+        "code": "QOS30Q",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Pidgeotto",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/22.png",
+        "code": "HGSZUB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Metapod",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/54.png",
+        "code": "PKEE8F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Rattata",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/61.png",
+        "code": "ZTW25H",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "4P50S4",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Ivysaur",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/30.png",
+        "code": "6GT81I",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Haunter",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/29.png",
+        "code": "2APCA0",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Squirtle",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/63.png",
+        "code": "4R5CZJ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Machoke",
+        "rarity": "common",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/34.png",
+        "code": "LIUENB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electrode",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/21.png",
+        "code": "I1LBCD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set": "Base Set"
+      },
+      {
+        "name": "Electabuzz",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "image": "https://www.pikawiz.com/images/baseset/20.png",
+        "code": "CM0OXQ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "set":

@@ -149,5 +149,22 @@
         "isHolo": true
       }
     ]
+  },
+  "974358862838775838": {
+    "cards": [
+      {
+        "name": "Heracross",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/6.png",
+        "code": "C72V3",
+        "condition": "Light play",
+        "obtainedAt": 1777821777650,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

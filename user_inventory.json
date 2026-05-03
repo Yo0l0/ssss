@@ -299,5 +299,22 @@
         "isHolo": false
       }
     ]
+  },
+  "831639544750145617": {
+    "cards": [
+      {
+        "name": "Magneton",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/9.png",
+        "code": "N8DN",
+        "condition": "Near Mint",
+        "obtainedAt": 1777810433542,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

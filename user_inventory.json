@@ -488,5 +488,22 @@
         "isHolo": false
       }
     ]
+  },
+  "1080311345095917578": {
+    "cards": [
+      {
+        "name": "Skarmory",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/13.png",
+        "code": "FOQ",
+        "condition": "Damaged",
+        "obtainedAt": 1777848316061,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

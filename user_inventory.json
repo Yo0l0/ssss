@@ -183,5 +183,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1449395484497281115": {
+    "cards": [
+      {
+        "name": "Manectric ex",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/101.png",
+        "code": "1",
+        "condition": "Near Mint",
+        "obtainedAt": 1777826577646,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

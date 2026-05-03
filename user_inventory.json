@@ -166,5 +166,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1281484484759523415": {
+    "cards": [
+      {
+        "name": "Ampharos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/1.png",
+        "code": "U35PQ",
+        "condition": "Light play",
+        "obtainedAt": 1777805033758,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

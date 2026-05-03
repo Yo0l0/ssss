@@ -333,5 +333,74 @@
         "isHolo": true
       }
     ]
+  },
+  "358198779192803328": {
+    "cards": [
+      {
+        "name": "Bagon",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/52.png",
+        "code": "HSVU9M",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777838895334,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Gligar",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/67.png",
+        "code": "TB",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777838895334,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Graveler",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/37.png",
+        "code": "F",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777838895334,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Farfetch’d",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/27.png",
+        "code": "U61",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777838895334,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Golbat",
+        "rarity": "rare",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/24.png",
+        "code": "0ZFSC",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777838895334,
+        "condition": "Mint",
+        "isHolo": false
+      }
+    ]
   }
 }

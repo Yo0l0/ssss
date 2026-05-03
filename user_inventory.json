@@ -402,5 +402,22 @@
         "isHolo": false
       }
     ]
+  },
+  "635617427316670536": {
+    "cards": [
+      {
+        "name": "Lt. Surge's Electabuzz",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/6.png",
+        "code": "8N6U",
+        "condition": "Damaged",
+        "obtainedAt": 1777843515941,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

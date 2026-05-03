@@ -316,5 +316,22 @@
         "isHolo": true
       }
     ]
+  },
+  "825091916352716810": {
+    "cards": [
+      {
+        "name": "Dark Dugtrio",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/6.png",
+        "code": "6WHJ",
+        "condition": "Mint",
+        "obtainedAt": 1777829578745,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

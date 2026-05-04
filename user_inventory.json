@@ -164,6 +164,71 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Pikachu",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/70.png",
+        "code": "CL",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777857137728,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Surskit",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/78.png",
+        "code": "QG1BXI",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777857137728,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Parasect",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/41.png",
+        "code": "DZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777857137728,
+        "condition": "Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Sandslash",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/41.png",
+        "code": "3RD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777857137728,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Psyduck",
+        "rarity": "promo",
+        "type": "pokemon",
+        "set": "WOTC Promos",
+        "image": "https://www.pikawiz.com/images/wotcpromo/20.png",
+        "code": "KFGPOD",
+        "grade": null,
+        "gradeRequestedAt": 1777857218397,
+        "obtainedAt": 1777857137728,
+        "condition": "Near Mint",
+        "isHolo": false
       }
     ]
   },

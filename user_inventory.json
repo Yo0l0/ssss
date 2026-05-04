@@ -569,6 +569,19 @@
         "obtainedAt": 1777838895334,
         "condition": "Mint",
         "isHolo": false
+      },
+      {
+        "name": "Dark Scizor",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/9.png",
+        "code": "JIRH4",
+        "condition": "Near Mint",
+        "obtainedAt": 1777880129054,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -1528,5 +1528,61 @@
         "isHolo": true
       }
     ]
+  },
+  "731930816682262718": {
+    "cards": [
+      {
+        "name": "Dark Scizor",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/9.png",
+        "code": "UE3BMB",
+        "condition": "Light play",
+        "obtainedAt": 1776993726581,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Gengar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/5.png",
+        "code": "MHGHE",
+        "condition": "Light play",
+        "obtainedAt": 1777556626575,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Deoxys ex",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/97.png",
+        "code": "8BKHOK",
+        "condition": "Near Mint",
+        "obtainedAt": 1777485225038,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Chansey",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/3.png",
+        "code": "RCSRN",
+        "condition": "Mint",
+        "obtainedAt": 1777686897454,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

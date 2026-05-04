@@ -1731,5 +1731,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1376751738878693386": {
+    "cards": [
+      {
+        "name": "Dark Arbok",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/2.png",
+        "code": "UEA5",
+        "condition": "Near Mint",
+        "obtainedAt": 1777877728943,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

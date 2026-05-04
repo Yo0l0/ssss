@@ -1433,5 +1433,22 @@
         "isHolo": true
       }
     ]
+  },
+  "114229348952834048": {
+    "cards": [
+      {
+        "name": "Meganium",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/10.png",
+        "code": "ZAYP",
+        "condition": "Light play",
+        "obtainedAt": 1777849516047,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

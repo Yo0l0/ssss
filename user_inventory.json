@@ -954,5 +954,22 @@
         "isHolo": false
       }
     ]
+  },
+  "576650648632950817": {
+    "cards": [
+      {
+        "name": "Shedinja",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/14.png",
+        "code": "8T",
+        "condition": "Mint",
+        "obtainedAt": 1777861530241,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

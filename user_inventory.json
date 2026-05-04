@@ -2249,5 +2249,22 @@
         "isHolo": true
       }
     ]
+  },
+  "617445510093078569": {
+    "cards": [
+      {
+        "name": "Mewtwo",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Base Set",
+        "image": "https://www.pikawiz.com/images/baseset/10.png",
+        "code": "UPP5",
+        "condition": "Light play",
+        "obtainedAt": 1777913271560,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

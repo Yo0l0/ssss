@@ -229,6 +229,19 @@
         "obtainedAt": 1777857137728,
         "condition": "Near Mint",
         "isHolo": false
+      },
+      {
+        "name": "Metagross",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/11.png",
+        "code": "7QGGQ",
+        "condition": "Pristine",
+        "obtainedAt": 1777840517256,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -1372,6 +1372,19 @@
         "grade": null,
         "gradeRequestedAt": null,
         "isHolo": true
+      },
+      {
+        "name": "Beautifly",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/2.png",
+        "code": "40P5RK",
+        "condition": "Mint",
+        "obtainedAt": 1777898885652,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

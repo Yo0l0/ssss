@@ -1847,5 +1847,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1348485891277983744": {
+    "cards": [
+      {
+        "name": "Dark Gengar",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/6.png",
+        "code": "KI",
+        "condition": "Near Mint",
+        "obtainedAt": 1777875928963,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

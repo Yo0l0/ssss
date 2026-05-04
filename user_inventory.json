@@ -1864,5 +1864,22 @@
         "isHolo": true
       }
     ]
+  },
+  "456684019057164288": {
+    "cards": [
+      {
+        "name": "Skarmory",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/13.png",
+        "code": "DJ",
+        "condition": "Near Mint",
+        "obtainedAt": 1777896484654,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

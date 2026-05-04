@@ -1022,6 +1022,71 @@
         "obtainedAt": 1777886947937,
         "condition": "Light Play",
         "isHolo": false
+      },
+      {
+        "name": "Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Neo Destiny",
+        "image": "https://www.pikawiz.com/images/neodestiny/81.png",
+        "code": "FYE",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777893359509,
+        "condition": "Pristine",
+        "isHolo": false
+      },
+      {
+        "name": "Misty's Seel",
+        "rarity": "common",
+        "type": "pokemon",
+        "set": "Gym Heroes",
+        "image": "https://www.pikawiz.com/images/gymheroes/87.png",
+        "code": "9JEPZ",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777893359509,
+        "condition": "Light Play",
+        "isHolo": false
+      },
+      {
+        "name": "Dark Flareon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Team Rocket",
+        "image": "https://www.pikawiz.com/images/teamrocket/35.png",
+        "code": "S6LI1",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777893359509,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Seaking",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/46.png",
+        "code": "9J",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777893359509,
+        "condition": "Near Mint",
+        "isHolo": false
+      },
+      {
+        "name": "Shelgon",
+        "rarity": "uncommon",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/45.png",
+        "code": "CG",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777893359509,
+        "condition": "Light Play",
+        "isHolo": false
       }
     ]
   },

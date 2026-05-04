@@ -15,5 +15,35 @@
         "isHolo": true
       }
     ]
+  },
+  "576650648632950817": {
+    "cards": [
+      {
+        "name": "Zapdos",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/15.png",
+        "code": "OAAVEO",
+        "condition": "Mint",
+        "obtainedAt": 1777925870154,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      },
+      {
+        "name": "Latias Star",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/105.png",
+        "code": "F",
+        "condition": "Mint",
+        "obtainedAt": 1777934053660,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

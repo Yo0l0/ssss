@@ -1748,5 +1748,22 @@
         "isHolo": true
       }
     ]
+  },
+  "605196089490014218": {
+    "cards": [
+      {
+        "name": "Dragonite",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Fossil",
+        "image": "https://www.pikawiz.com/images/fossil/4.png",
+        "code": "Y",
+        "condition": "Light play",
+        "obtainedAt": 1777878329039,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

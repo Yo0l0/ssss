@@ -1765,5 +1765,22 @@
         "isHolo": true
       }
     ]
+  },
+  "753424929256636497": {
+    "cards": [
+      {
+        "name": "Azumarill",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Neo Genesis",
+        "image": "https://www.pikawiz.com/images/neogenesis/2.png",
+        "code": "A",
+        "condition": "Light play",
+        "obtainedAt": 1777871728955,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
+      }
+    ]
   }
 }

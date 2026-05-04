@@ -45,5 +45,22 @@
         "isHolo": true
       }
     ]
+  },
+  "1130410318816886854": {
+    "cards": [
+      {
+        "name": "Altaria",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "EX Deoxys",
+        "image": "https://www.pikawiz.com/images/exdeoxys/1.png",
+        "code": "QDUD",
+        "grade": null,
+        "gradeRequestedAt": null,
+        "obtainedAt": 1777938150604,
+        "condition": "Mint",
+        "isHolo": true
+      }
+    ]
   }
 }

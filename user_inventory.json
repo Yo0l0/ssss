@@ -60,6 +60,19 @@
         "obtainedAt": 1777938150604,
         "condition": "Mint",
         "isHolo": true
+      },
+      {
+        "name": "Victreebel",
+        "rarity": "holo",
+        "type": "pokemon",
+        "set": "Jungle",
+        "image": "https://www.pikawiz.com/images/jungle/14.png",
+        "code": "J3PY4H",
+        "condition": "Near Mint",
+        "obtainedAt": 1777942668749,
+        "grade": null,
+        "gradeRequestedAt": null,
+        "isHolo": true
       }
     ]
   },

@@ -1,5 +1,15 @@
 [
   {
+    "id": "peek-daily-cap",
+    "date": "2026-09-08",
+    "tag": "Changed",
+    "title": "Peek spares are capped at 3 a day",
+    "body": [
+      "Taking a spare out of someone else's pack is limited to 3 per player per day — free cards were unlimited before.",
+      "Nothing changes for the opener: you still earn coins and energy every time a friend peeks."
+    ]
+  },
+  {
     "id": "weekly-roundup",
     "date": "2026-09-08",
     "tag": "New",

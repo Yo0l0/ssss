@@ -1,5 +1,34 @@
 [
   {
+    "id": "case-colours",
+    "date": "2026-09-10",
+    "tag": "New",
+    "title": "Case colours for your slabs",
+    "body": [
+      "Every graded card sits in a clear case — now /slab roll gives it a colour. Six tiers, 58 colours, five shades for the solids: Frost and Slate are everywhere, Obsidian Black is one in four hundred, Void and Master Ball one in a few thousand.",
+      "Colours land in a palette; paint one onto any slab, strip it back off, melt the ones you don't want. A Gem Mint 10 comes back from the graders with a free roll."
+    ]
+  },
+  {
+    "id": "forge-rework",
+    "date": "2026-09-10",
+    "tag": "Changed",
+    "title": "The forge replaces crafting",
+    "body": [
+      "Crafting was a vending machine. Now every recipe wants dust AND spare ingredients from the same set, and the forge is a roll: a Holo comes out 60% of the time, a Special Illustration 45%.",
+      "Boosts buy better odds for more dust. A misfire eats the ingredients, refunds a quarter of the dust and spits out a random card one rarity down. A Pristine result is a Perfect Forge."
+    ]
+  },
+  {
+    "id": "fix-drop-claim",
+    "date": "2026-09-10",
+    "tag": "Fixed",
+    "title": "Server drops can be claimed again",
+    "body": [
+      "Pressing Claim on a dropped pack said \"too late\" within seconds — the claim was looking up the wrong key. Every drop since launch was unclaimable. Fixed."
+    ]
+  },
+  {
     "id": "peek-daily-cap",
     "date": "2026-09-08",
     "tag": "Changed",

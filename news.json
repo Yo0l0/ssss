@@ -1,5 +1,15 @@
 [
   {
+    "id": "label-colours",
+    "date": "2026-09-10",
+    "tag": "New",
+    "title": "Labels take colour too",
+    "body": [
+      "A colour from your palette can go on the label of a slab as well as the case — Galaxy case, Gold label. Same roll, same palette, your choice where.",
+      "The label's text picks its own ink from whatever is painted under it, so a Poké Ball label stays readable."
+    ]
+  },
+  {
     "id": "case-colours",
     "date": "2026-09-10",
     "tag": "New",

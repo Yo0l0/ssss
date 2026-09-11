@@ -1,5 +1,14 @@
 [
   {
+    "id": "no-house-fee",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "No house fee",
+    "body": [
+      "Market sales and auctions pay the seller the full price. The few fees taken today have been refunded."
+    ]
+  },
+  {
     "id": "loot-batch-3b",
     "date": "2026-09-11",
     "tag": "Changed",
@@ -231,12 +240,5 @@
     "tag": "New set",
     "title": "New SET",
     "body": "⭐EX Deoxys⭐"
-  },
-  {
-    "id": "rarity-sir",
-    "date": "2026-02-24",
-    "tag": "New",
-    "title": "New Rarity",
-    "body": "SIR cards are here!!"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "trading-batch-2b",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "Trades and auctions, rebuilt",
+    "body": [
+      "/trade is a table you can see: both offers as cards, coins on either side, lock and accept. Offered cards are held so nothing else can move them, the trade survives a restart, and the final swap re-checks everything before anything changes hands.",
+      "/auction keeps the card in your binder while it runs, holds bids until you're outbid (refunded automatically), extends the clock when a bid lands in the last two minutes, lets the seller cancel while there are no bids, and settles by itself. Bid from the auction post or the numbered board. The one auction that was open has been moved over."
+    ]
+  },
+  {
     "id": "economy-batch-2a",
     "date": "2026-09-11",
     "tag": "Fixed",

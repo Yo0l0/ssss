@@ -1,5 +1,15 @@
 [
   {
+    "id": "slots-motion",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "The reels spin again",
+    "body": [
+      "Slots lost their motion in the rebuild — one still frame, then the result. Now the reels rush for two beats and land one at a time, left to right, with a glowing tease when the first two match. About three seconds a spin, like the old machine.",
+      "Under the hood, 8,600 lines of retired code left the bot. Nothing you use changed."
+    ]
+  },
+  {
     "id": "cleanup-batch-4",
     "date": "2026-09-11",
     "tag": "Fixed",
@@ -232,17 +242,6 @@
     "title": "/guide",
     "body": [
       "Seven chapters on packs, coins, grading, duels and trading, with every number read from the live balance."
-    ]
-  },
-  {
-    "id": "gambling-cooldown",
-    "date": "2026-02-24",
-    "tag": "Changed",
-    "title": "Gambling Cooldown",
-    "body": [
-      "Fixed cooldown system",
-      "❌ Old: Win 2 mins | Lose 2 mins | Jackpot 4 mins",
-      "✅ New: Win 10s | Lose 5s | Jackpot 20s"
     ]
   }
 ]

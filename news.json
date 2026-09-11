@@ -1,5 +1,27 @@
 [
   {
+    "id": "games-batch-1",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "Slots, quiz and Who's That Pokémon, rebuilt",
+    "body": [
+      "Slots: Pokémon symbols on real reels with a printed paytable — Caterpie ×3 up to Dragonite ×50, any pair ×1.5 — a bet cap of 500, and Spin-again buttons. The old machine had no cap and paid out more than it took.",
+      "Quiz: ten distinct questions, your own scoreboard (two players at once no longer scramble each other's score), coins and aura per right answer, pack energy every three in a row.",
+      "Who's That Pokémon is now a room game: the silhouette is public, anyone can press Guess, the first right answer takes the round, hints appear on the card, coins for every solve (capped per day) and a scoreboard at the end.",
+      "Duel pictures no longer show boxes where the icons should be."
+    ]
+  },
+  {
+    "id": "blackjack-table",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "Blackjack, rebuilt",
+    "body": [
+      "A new table: no more boxes where the icons should be, the corner indices sit inside the cards, and a Pokémon deals — Meowth most nights.",
+      "Double down on your first two cards, play again straight from the result, and a private record of your hands. A hand nobody finishes now stands on its own instead of handing the bet back."
+    ]
+  },
+  {
     "id": "label-colours",
     "date": "2026-09-10",
     "tag": "New",

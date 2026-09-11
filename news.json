@@ -1,5 +1,16 @@
 [
   {
+    "id": "economy-batch-2a",
+    "date": "2026-09-11",
+    "tag": "Fixed",
+    "title": "The market works again — and five lost cards are back",
+    "body": [
+      "Listing a card used to move it out of your binder, and every purchase then failed because \"the seller no longer owns it\" — deleting the listing and the card. Nobody ever completed a market sale. A listing is now a price tag on a card that stays in your binder until it sells; the five cards that vanished this way have been put back with their owners.",
+      "/market browse is a numbered board with buy buttons, purchases post publicly, sellers get a DM, big sales reach the drop channel, and /market trend (or /cardtrend) charts real sales. The house keeps 5% of each sale.",
+      "/sell re-checks every card when you confirm and pays only for what actually left; SIR and non-holo filters work. /give has confirmations, a 1,000-coin gift cap, 2,000 a day and a minute between gifts — gifted coins no longer count as earned. /fuse works again (it was looking for the wrong token) with a preview of the odds. /swapcodes refuses locked, listed, graded or traded cards."
+    ]
+  },
+  {
     "id": "games-batch-1",
     "date": "2026-09-11",
     "tag": "Changed",

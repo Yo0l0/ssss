@@ -1,5 +1,17 @@
 [
   {
+    "id": "progression-batch-3a",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "Leaderboards, quests, achievements and the season, rebuilt",
+    "body": [
+      "/leaderboard is a picture with medals and avatars, per server or across all servers, with your own rank underneath — cards, coins, gem mints, XP, streaks, season points and aura. Half-point grades count now, and coins-only players are ranked too. /serverleaderboard races the servers by the players who actually use the bot there.",
+      "/quests: eight quests in the pool (forging, gym wins, pack buys and quiz answers included), the same three for everyone each day, and a claim button that keeps working after a restart.",
+      "/achievements is paged with progress bars, and an achievement you just earned is announced instead of silently ticked.",
+      "/season pays the top three when the month ends — automatically. The August podium, which had gone unpaid, is paid now."
+    ]
+  },
+  {
     "id": "trading-batch-2b",
     "date": "2026-09-11",
     "tag": "Changed",

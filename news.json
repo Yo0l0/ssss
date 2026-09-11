@@ -1,5 +1,16 @@
 [
   {
+    "id": "cleanup-batch-4",
+    "date": "2026-09-11",
+    "tag": "Fixed",
+    "title": "Reminders that keep reminding, and a tidy-up",
+    "body": [
+      "/reminder used to DM you exactly once per cooldown, ever. It now fires every time a cooldown ends, and covers the daily, pack energy, quiz, mystery box, journey, card drops and votes.",
+      "/setchannel needs Manage Server now (any member could move a server's drop channel before) and checks the bot can actually post there. /itemshop has Buy buttons. /report is rate-limited and kept safe. /vote checks your cooldown before calling out, and its reward posts publicly.",
+      "Retired: /resetpack (charged 40 coins for nothing since Pack Energy), /avatarchoice, /announcesets, /claimgift and /tint. Cards that /tint had pointed at expiring Discord links are back on their real art."
+    ]
+  },
+  {
     "id": "no-house-fee",
     "date": "2026-09-11",
     "tag": "Changed",
@@ -233,12 +244,5 @@
       "❌ Old: Win 2 mins | Lose 2 mins | Jackpot 4 mins",
       "✅ New: Win 10s | Lose 5s | Jackpot 20s"
     ]
-  },
-  {
-    "id": "set-ex-deoxys",
-    "date": "2026-02-24",
-    "tag": "New set",
-    "title": "New SET",
-    "body": "⭐EX Deoxys⭐"
   }
 ]

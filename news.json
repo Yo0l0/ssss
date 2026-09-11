@@ -1,5 +1,15 @@
 [
   {
+    "id": "gym-2",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "The gym fights back",
+    "body": [
+      "Gym battles were a click-Attack-twenty-times chore. Now every round the leader's Pokémon shows its next move — a hit, a big hit, a brace or a charge — and you answer with one of five: Strike, Power, Guard, Focus or Type Burst. Guard a hit and you counter; Focus through a brace; Power through a charge to break it. Three perfect reads and your next blow crits.",
+      "Eight rounds, then the bell — more HP left wins on decision. Types matter both ways (bring Water to Brock, not Fire), and each leader has a trick: Koga poisons, Blaine burns, Erika drains, Lt. Surge charges, Sabrina hides her hand. Every round is a picture."
+    ]
+  },
+  {
     "id": "slots-motion",
     "date": "2026-09-11",
     "tag": "Changed",
@@ -233,15 +243,6 @@
     "body": [
       "The full expansion catalog is staged in print order.",
       "A new set goes live every week — /upcoming shows what's next."
-    ]
-  },
-  {
-    "id": "guide",
-    "date": "2026-09-02",
-    "tag": "New",
-    "title": "/guide",
-    "body": [
-      "Seven chapters on packs, coins, grading, duels and trading, with every number read from the live balance."
     ]
   }
 ]

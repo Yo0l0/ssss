@@ -1,5 +1,17 @@
 [
   {
+    "id": "loot-batch-3b",
+    "date": "2026-09-11",
+    "tag": "Changed",
+    "title": "Mystery box, card drops, the journey and your bag",
+    "body": [
+      "/mysterybox hands out a Fusion Token you can actually spend (the old box stored it under the wrong name — those stranded tokens are now usable), gives cards with a condition and a date, only from released sets, and scores season points.",
+      "/pickcard drops three cards as a picture; one each, the dropper gets a two-second head start, and a claim can't be lost to a restart.",
+      "/journey rewards are what the story says — a rare card is rare, tokens go to your bag, trinkets are kept — and a run you abandon expires after a day instead of skipping the cooldown forever. /bag shows packs, tokens, energy, badges and trinkets.",
+      "/duelprofile is a proper record with the top duelists. /deck is retired: duels never used it."
+    ]
+  },
+  {
     "id": "progression-batch-3a",
     "date": "2026-09-11",
     "tag": "Changed",

@@ -1,5 +1,15 @@
 [
   {
+    "id": "drops-when-you-are-there",
+    "date": "2026-09-14",
+    "tag": "Changed",
+    "title": "Drops land when people are around",
+    "body": [
+      "Wild holo drops used to roll blindly around the clock — about two a day per server, at any hour, and fewer than half were ever claimed. Now a server only rolls for a drop while someone has used the bot there in the last hour, at a much higher rate, capped at six a day. An active evening sees several; a sleeping server sees none.",
+      "Pack drops needed 10 commands in an hour and gave you 10 minutes to claim — only 19 servers ever saw one and two thirds expired. Now it's 5 commands in an hour and a 30-minute claim window."
+    ]
+  },
+  {
     "id": "ultra-rare",
     "date": "2026-09-14",
     "tag": "New",
@@ -232,16 +242,6 @@
     "body": [
       "Grading orders, wishlist pins, level-ups and achievements now post where the room can see them.",
       "Errors, pickers and your ledger stay private."
-    ]
-  },
-  {
-    "id": "pack-energy",
-    "date": "2026-09-02",
-    "tag": "Changed",
-    "title": "Pack Energy replaces the timer",
-    "body": [
-      "The 20-minute wait is gone: hold up to 3 packs, with one coming back every 2 hours.",
-      "Earn more from /daily, gym wins, Peeks, votes and quiz streaks — stacking up to 6."
     ]
   }
 ]

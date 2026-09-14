@@ -1,5 +1,16 @@
 [
   {
+    "id": "pack-result-2026-09-14",
+    "date": "2026-09-14",
+    "tag": "Changed",
+    "title": "The pack picture got bigger — and honest",
+    "body": [
+      "Discord shows the pack picture about 400 px wide, and the old wide canvas came out 400×208 — the four \"also in this pack\" cards were 47 px on screen. The picture is now near-square, so every card is about the size the old hero was, under a torn foil band that carries the set, the tier, how many were new and your set progress.",
+      "A Damaged Uncommon no longer gets the big hero treatment. A plain pack shows all five cards as a spread; a Holo or better gets the hero layout with its four companions beside it.",
+      "The text under it says less: the set name once, the Chase Meter as a field next to your progress, no repeated NEW count or headline card, and the low-energy vote hint lives in the footer. The Peek button explains itself."
+    ]
+  },
+  {
     "id": "drops-when-you-are-there",
     "date": "2026-09-14",
     "tag": "Changed",
@@ -232,16 +243,6 @@
     "body": [
       "Pin up to eight cards to a MOST WANTED board your server can see, with the real odds on each one.",
       "Pull one and it's a WISH GRANTED: +25 coins, +10 XP. Pull someone else's and they hear about your spare."
-    ]
-  },
-  {
-    "id": "public-by-default",
-    "date": "2026-09-07",
-    "tag": "Changed",
-    "title": "Out in the open",
-    "body": [
-      "Grading orders, wishlist pins, level-ups and achievements now post where the room can see them.",
-      "Errors, pickers and your ledger stay private."
     ]
   }
 ]

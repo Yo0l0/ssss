@@ -1,5 +1,15 @@
 [
   {
+    "id": "ultra-rare",
+    "date": "2026-09-14",
+    "tag": "New",
+    "title": "💎 Ultra Rare — a new tier between Holo and Special Illustration",
+    "body": [
+      "Until now a plain Holo and a full-art Charizard ex were the same rarity. The full arts have their own tier now: ex, EX, GX, V, VMAX, VSTAR, LV.X, Prime, LEGEND, Illustration Rares, ACE SPECs, Radiants, Amazing Rares, Prism Stars, the Neo Destiny Shinings and the baby shinies — about 3,000 printings — are 💎 Ultra Rare. Gold Stars join the 🌈 Special Illustration tier at the top.",
+      "The bonus slot rolls an Ultra Rare about 4% of the time (5% in the featured set); a Legendary pack's guaranteed slot is an Ultra Rare one time in four; a God Pack is five cards that are Holo or better. Ultra Rares sell for 20, cost 135 to grade, give 22 stardust, hit harder in the gym and have their own forge recipe (900 dust + 2 spare holos). Cards you already own were re-tiered automatically — check your binder."
+    ]
+  },
+  {
     "id": "card-corrections",
     "date": "2026-09-14",
     "tag": "Fixed",
@@ -232,16 +242,6 @@
     "body": [
       "The 20-minute wait is gone: hold up to 3 packs, with one coming back every 2 hours.",
       "Earn more from /daily, gym wins, Peeks, votes and quiz streaks — stacking up to 6."
-    ]
-  },
-  {
-    "id": "grading-house",
-    "date": "2026-09-02",
-    "tag": "New",
-    "title": "The grading house",
-    "body": [
-      "Four sub-grades — centering, corners, edges, surface — and the lowest one sets your grade. Four 10s is a Black Label.",
-      "Four lanes from Economy to Super Express, pricing that moves with the queue, real cert numbers and a printed slab."
     ]
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "id": "card-corrections",
+    "date": "2026-09-14",
+    "tag": "Fixed",
+    "title": "Every card checked against the real set lists",
+    "body": [
+      "All 18,151 printings were checked against the official set lists. In the original eleven sets a few cards showed a different card's art (Base Set Metapod had Magmar's picture; a run of Gym Heroes cards was shifted by one) and about 130 rarities were wrong — Neo Genesis had no uncommons at all, the Neo Destiny Shinings were plain rares, Gym Heroes had rares listed as commons. Fixed in the pool and in every binder: cards you already own now carry the right picture and rarity.",
+      "Also tidied: 7,800 cards that said \"Light play\" or had no condition at all now read Light Play / Near Mint like every other card."
+    ]
+  },
+  {
+    "id": "pictures-reliable",
+    "date": "2026-09-14",
+    "tag": "Fixed",
+    "title": "Card pictures that never showed up",
+    "body": [
+      "When a picture host was slow, the bot gave up after one try and baked a Poké Ball placeholder into your pack picture or slab for good. Every card picture now gets a second, longer try and is kept on the server once fetched, so it shows up in milliseconds next time — and a graded Ancient Mew finally looks like an Ancient Mew (its old link was dead)."
+    ]
+  },
+  {
     "id": "gym-2",
     "date": "2026-09-11",
     "tag": "Changed",
@@ -223,26 +242,6 @@
     "body": [
       "Four sub-grades — centering, corners, edges, surface — and the lowest one sets your grade. Four 10s is a Black Label.",
       "Four lanes from Economy to Super Express, pricing that moves with the queue, real cert numbers and a printed slab."
-    ]
-  },
-  {
-    "id": "pack-reveal-peek",
-    "date": "2026-09-02",
-    "tag": "New",
-    "title": "New pack reveal, Peek and binders",
-    "body": [
-      "Packs open as a five-card spread with the best pull lifted out of the row.",
-      "A spare goes to the first server-mate who claims it, /showcase prints your top nine, and Holo Weekend doubles bonus holo odds."
-    ]
-  },
-  {
-    "id": "set-catalog",
-    "date": "2026-09-02",
-    "tag": "New",
-    "title": "127 sets, 17,000 cards",
-    "body": [
-      "The full expansion catalog is staged in print order.",
-      "A new set goes live every week — /upcoming shows what's next."
     ]
   }
 ]

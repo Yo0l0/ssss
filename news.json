@@ -1,5 +1,17 @@
 [
   {
+    "id": "first-edition-2026-09-15",
+    "date": "2026-09-15",
+    "tag": "New",
+    "title": "🥇 1st Edition",
+    "body": [
+      "The card pictures for Base Set through Neo Destiny have always been scans of real 1st Edition cards, so every copy wore the 1st Edition stamp. Now 1st Edition is real — and rare.",
+      "Cards from before today: the first 25 copies of every card, by the date they were pulled, are 1st Edition #1–#25. Every other copy is Unlimited — the same card with the stamp lifted off. From today those sets come out Unlimited.",
+      "New sets: every set that releases from now on has a 1st Edition week. Every card of that set pulled in its first 7 days is 1st Edition, numbered in the order it was pulled, and never printed again. The first copy of each card is its World First, with the stamp in gold. Neo Revelation is the first.",
+      "How the stamp is made: on Base–Neo cards it is the genuine WOTC stamp from the scan. Sets that were never printed with one get that same stamp copied onto them, where WOTC put it: just under the bottom-left of the artwork on a Pokémon, beside the illustrator's name on a Trainer. 1st Editions sell for 3× (World First 10×), can't be fused or dusted, show their number everywhere, and a slab prints 1ST EDITION on its label."
+    ]
+  },
+  {
     "id": "drop-champion-2026-09-14",
     "date": "2026-09-14",
     "tag": "New",
@@ -233,16 +245,6 @@
     "body": [
       "Every Sunday your server gets one picture: the week's top three collectors, the rarest pull, the best grade back and the set everyone is chasing.",
       "Nothing to set up — it posts itself."
-    ]
-  },
-  {
-    "id": "set-posters",
-    "date": "2026-09-08",
-    "tag": "New",
-    "title": "New sets arrive with a poster",
-    "body": [
-      "Every weekly set now lands with its three chase cards, the card count and how many holos are inside.",
-      "One button on the post makes it your chase set."
     ]
   }
 ]

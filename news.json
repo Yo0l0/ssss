@@ -1,5 +1,17 @@
 [
   {
+    "id": "find-offers-collection-2026-09-15",
+    "date": "2026-09-15",
+    "tag": "New",
+    "title": "🔎 Find & offer · /collection",
+    "body": [
+      "/find card: shows every copy of a card and who has it — trainers in your server by name, everyone else as a trainer in another server. Pick a copy to make an offer.",
+      "Offers: put coins, cards or both on the table. The owner gets a DM to accept, counter or decline, and you can go back and forth for up to 6 rounds. Your coins and cards are held while they decide, so a yes always goes through. Every finished deal is posted in the channel where it started. /offers inbox shows yours; /offers settings controls who can send you offers.",
+      "/inventory is now /collection, with filters that combine: name, set, rarity, 1st Edition / World First / Unlimited, condition, shiny, graded, duplicates and tradeable — sorted by value, 1st Edition number and more. /collection user: shows anyone's cards, with a button to make an offer. The set checklist is now /checklist.",
+      "Also: your hunt board shows who owns each card, you get a DM when a card you hunt is listed on the market, and market and auction pages with six listings load again."
+    ]
+  },
+  {
     "id": "first-edition-2026-09-15",
     "date": "2026-09-15",
     "tag": "New",
@@ -235,16 +247,6 @@
     "body": [
       "Taking a spare out of someone else's pack is limited to 3 per player per day — free cards were unlimited before.",
       "Nothing changes for the opener: you still earn coins and energy every time a friend peeks."
-    ]
-  },
-  {
-    "id": "weekly-roundup",
-    "date": "2026-09-08",
-    "tag": "New",
-    "title": "Sunday round-up",
-    "body": [
-      "Every Sunday your server gets one picture: the week's top three collectors, the rarest pull, the best grade back and the set everyone is chasing.",
-      "Nothing to set up — it posts itself."
     ]
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "id": "catching-2026-09-14",
-    "date": "2026-09-14",
-    "tag": "New",
-    "title": "🔴 Catch wild drops",
-    "body": [
-      "Wild drops are no longer a race to a Claim button. A Holo or Ultra Rare appears with a mood that drifts every fifteen seconds — Calm, Wary, Angry, Drowsy — and a public flee meter. Press Throw, pick a ball, and the whole channel watches it arc in, shake one… two… three and click — or burst open.",
-      "Poké Balls are free, three a day (30%). Great Balls (50%), Ultra Balls (70%) and the Master Ball (never fails) are in /itemshop, and you earn them: a gym win, a vote or a quiz streak pays a Great Ball, day seven of a daily streak an Ultra Ball, completing a set a Master Ball. Everyone gets five Great Balls to start.",
-      "Read the room: a throw on a drowsy card counts double, on a wary one 0.7×. Every ball it breaks out of fills a public flee meter, as does every minute once someone has thrown — it runs at a hidden 4 to 6. A critical catch is one shake at 5%; catches chain +5% each up to +20%. Shinies never flee."
-    ]
-  },
-  {
     "id": "shiny-2026-09-14",
     "date": "2026-09-14",
     "tag": "New",
@@ -244,6 +233,16 @@
     "body": [
       "Every weekly set now lands with its three chase cards, the card count and how many holos are inside.",
       "One button on the post makes it your chase set."
+    ]
+  },
+  {
+    "id": "fix-sweep-0908",
+    "date": "2026-09-08",
+    "tag": "Fixed",
+    "title": "Gym fights work again",
+    "body": [
+      "/gym and every battle button were dead. Fixed — along with SIR cards missing Power Strike and a double payout on a fast double click.",
+      "Also fixed: /swapcodes, /cardtrend, inventory filters, and blackjack and /pickcard timing out."
     ]
   }
 ]

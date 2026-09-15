@@ -1,5 +1,15 @@
 [
   {
+    "id": "drop-champion-2026-09-14",
+    "date": "2026-09-14",
+    "tag": "New",
+    "title": "🌟 Weekly drop champion",
+    "body": [
+      "Every Sunday the round-up in your server names the drop champion: whoever claimed the most wild drops there that week (at least three). The champion gets 500 coins and a sealed pack.",
+      "Servers where nobody has claimed a drop in a while now get one drop a day instead of a stream of them. As soon as someone claims one, or a few players start using the bot there again, drops come back at the usual pace."
+    ]
+  },
+  {
     "id": "shiny-2026-09-14",
     "date": "2026-09-14",
     "tag": "New",
@@ -233,16 +243,6 @@
     "body": [
       "Every weekly set now lands with its three chase cards, the card count and how many holos are inside.",
       "One button on the post makes it your chase set."
-    ]
-  },
-  {
-    "id": "fix-sweep-0908",
-    "date": "2026-09-08",
-    "tag": "Fixed",
-    "title": "Gym fights work again",
-    "body": [
-      "/gym and every battle button were dead. Fixed — along with SIR cards missing Power Strike and a double payout on a fast double click.",
-      "Also fixed: /swapcodes, /cardtrend, inventory filters, and blackjack and /pickcard timing out."
     ]
   }
 ]

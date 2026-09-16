@@ -1,5 +1,15 @@
 [
   {
+    "date": "2026-09-16",
+    "tag": "New set",
+    "id": "set:Neo Revelation",
+    "title": "Neo Revelation",
+    "body": [
+      "61 new cards · 14 holos are in the packs.",
+      "The chase: Shining Gyarados · Shining Magikarp · Ho-oh"
+    ]
+  },
+  {
     "id": "find-offers-collection-2026-09-15",
     "date": "2026-09-15",
     "tag": "New",
@@ -237,16 +247,6 @@
     "title": "Server drops can be claimed again",
     "body": [
       "Pressing Claim on a dropped pack said \"too late\" within seconds — the claim was looking up the wrong key. Every drop since launch was unclaimable. Fixed."
-    ]
-  },
-  {
-    "id": "peek-daily-cap",
-    "date": "2026-09-08",
-    "tag": "Changed",
-    "title": "Peek spares are capped at 3 a day",
-    "body": [
-      "Taking a spare out of someone else's pack is limited to 3 per player per day — free cards were unlimited before.",
-      "Nothing changes for the opener: you still earn coins and energy every time a friend peeks."
     ]
   }
 ]

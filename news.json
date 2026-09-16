@@ -34,6 +34,16 @@
     ]
   },
   {
+    "id": "god-pack-rarer-2026-09-15",
+    "date": "2026-09-15",
+    "tag": "Changed",
+    "title": "🌟 God Packs are rarer",
+    "body": [
+      "A God Pack — all five cards Holo or better — is now 1 in 200 packs instead of 1 in 100. A Legendary pack still rolls 3x that, and a pack aimed at the week's featured set still doubles it.",
+      "About ten were opened every day across every server, which made the announcement ordinary. Half as many should make it worth shouting about again. /openpack odds and /guide show the live numbers."
+    ]
+  },
+  {
     "id": "drop-champion-2026-09-14",
     "date": "2026-09-14",
     "tag": "New",
@@ -238,15 +248,6 @@
     "body": [
       "Crafting was a vending machine. Now every recipe wants dust AND spare ingredients from the same set, and the forge is a roll: a Holo comes out 60% of the time, a Special Illustration 45%.",
       "Boosts buy better odds for more dust. A misfire eats the ingredients, refunds a quarter of the dust and spits out a random card one rarity down. A Pristine result is a Perfect Forge."
-    ]
-  },
-  {
-    "id": "fix-drop-claim",
-    "date": "2026-09-10",
-    "tag": "Fixed",
-    "title": "Server drops can be claimed again",
-    "body": [
-      "Pressing Claim on a dropped pack said \"too late\" within seconds — the claim was looking up the wrong key. Every drop since launch was unclaimable. Fixed."
     ]
   }
 ]
